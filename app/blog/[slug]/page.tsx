@@ -5,6 +5,7 @@ import { getAllPosts, getPostBySlug, getRelatedPosts, splitHtmlByMarker } from "
 import { SITE } from "@/lib/data";
 import AdSlot from "@/components/AdSlot";
 import CTABox from "@/components/CTABox";
+import PostHero from "@/components/PostHero";
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -60,6 +61,8 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
         <Link href="/blog" className="hover:text-brand">Blog</Link> /{" "}
         <span>{post.title}</span>
       </nav>
+
+      <PostHero title={post.title} pillar={post.pillar} category={post.category} readingTime={post.readingTime} />
 
       <article className="bg-white rounded-xl border border-slate-200 p-6 md:p-10">
         <div className="text-xs text-slate-500 mb-2 uppercase tracking-wide">
