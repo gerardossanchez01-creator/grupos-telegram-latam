@@ -145,6 +145,49 @@ Depende mucho de nicho, engagement y calidad del audience. Un canal cripto de 10
 4. **Publica reviews honestas** de productos que promocionas.
 5. **Escucha feedback**: si la audiencia se queja, ajusta.
 
+## Fiscalidad y aspectos legales
+
+Monetizar un canal implica ingresos que declarar:
+
+- **España**: IRPF + IVA. Si superas los 3.000€ anuales, alta como autónomo obligatoria.
+- **México**: RFC obligatorio, régimen fiscal según tipo (RESICO simplifica para creadores).
+- **Argentina**: monotributo hasta cierto tramo, IVA + Ingresos Brutos después.
+- **Colombia**: régimen simple o común según facturación anual.
+- **Chile**: boletas de honorarios o inicio de actividades según continuidad.
+
+Ignorar la fiscalidad es la forma más rápida de que Hacienda te alcance con recargo. Consulta un asesor local cuando pases de facturar más de 500€/mes recurrentes.
+
+## Errores fiscales frecuentes
+
+- **Cobrar en cripto sin declarar**: en España el Modelo 721 obliga.
+- **Mezclar cuenta personal y profesional**: complica auditoría.
+- **No guardar recibos de gastos** deducibles (herramientas, ads, formación).
+- **Cobrar internacional sin factura**: complica declaración.
+- **Facturar sin IVA cuando corresponde**: sanción posterior.
+
+## Cómo elegir el precio de suscripción premium
+
+Fórmula orientativa: **precio percibido / mes = valor gratuito × 3-5**. Si tu canal gratuito da valor equivalente a 5€/mes en cursos, tu premium debe estar entre 15-25€/mes.
+
+Testear con precios:
+
+1. Empieza alto (25-30€). Ajusta a la baja según conversión.
+2. Nunca bajes precio anunciándolo como rebaja: quema el valor percibido.
+3. Ofrece plan anual con 20% descuento sobre mensual.
+4. Considera "founding members" al lanzar (precio bajo para primeros 100 miembros).
+
+## Diversificación por trimestre
+
+Un canal saludable divide ingresos así (orientación):
+
+- 30% publicidad directa + Telegram Ads.
+- 30% suscripciones premium.
+- 20% afiliados.
+- 15% productos propios (curso, ebook).
+- 5% servicios/consultoría.
+
+Sin diversificar, cualquier bajón (cambio de algoritmo, un patrocinador cae) tira el mes.
+
 ## Recursos complementarios
 
 - [Cómo crear un grupo o canal](/blog/como-crear-grupo-telegram)
