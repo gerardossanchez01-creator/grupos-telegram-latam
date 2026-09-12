@@ -1,14 +1,36 @@
 [
   {
-    "slug": "chollometro-ofertas",
-    "nombre": "Chollometro Ofertas",
-    "descripcion": "Comunidad histórica española de chollos y ofertas: Amazon, MediaMarkt, El Corte Inglés, AliExpress. Publicaciones cada pocos minutos con votos de la comunidad.",
+    "slug": "chollometro",
+    "nombre": "Chollometro",
+    "descripcion": "La comunidad de los chollos con más de 2 millones de personas. Ofertas, cupones y descuentos de Amazon, AliExpress y grandes tiendas. Web: chollometro.com",
     "categoria": "ofertas-y-chollos",
     "pais": "espana",
     "link": "https://t.me/chollometro",
-    "miembros": 68000,
+    "miembros": 2000000,
     "verificado": true,
     "fechaAgregado": "2026-01-05"
+  },
+  {
+    "slug": "ofertas-de-amazon-es",
+    "nombre": "Ofertas de Amazon",
+    "descripcion": "Errores de precio, ofertas y cupones en Amazon. Canal afiliado oficial del programa Amazon EU.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/amazon_ofertas_es",
+    "miembros": 15000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-06"
+  },
+  {
+    "slug": "chollos-amazon-aliexpress",
+    "nombre": "CHOLLOS Amazon y AliExpress",
+    "descripcion": "Los mejores chollos de tecnología de las web chinas, AliExpress y Amazon. Ofertas y cupones de descuento diarios. Web: ofertasendirecto.es",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/aliexpresschollos",
+    "miembros": 8500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-07"
   },
   {
     "slug": "ofertas-mexico-amazon",
@@ -89,13 +111,13 @@
   },
 
   {
-    "slug": "bitcoin-en-espanol",
-    "nombre": "Bitcoin en Español",
-    "descripcion": "Análisis, noticias y educación sobre Bitcoin. Sin altcoins ni promociones. No se permite shilling.",
+    "slug": "criptonoticias",
+    "nombre": "CriptoNoticias",
+    "descripcion": "Noticias, guías e información en español sobre Bitcoin y criptomonedas. Uno de los medios cripto más leídos en español.",
     "categoria": "criptomonedas",
     "pais": "",
-    "link": "https://t.me/bitcoinespanol",
-    "miembros": 21000,
+    "link": "https://t.me/criptonoticias",
+    "miembros": 12000,
     "verificado": true,
     "fechaAgregado": "2026-01-06"
   },
@@ -178,13 +200,13 @@
   },
 
   {
-    "slug": "empleos-remotos-latam",
-    "nombre": "Empleos Remotos LatAm",
-    "descripcion": "50 ofertas al día de trabajo remoto para Latinoamérica: desarrollo, diseño, marketing, soporte y ventas. Filtradas por seniority.",
+    "slug": "empleos-remotos-mundiales",
+    "nombre": "Empleos Remotos Mundiales",
+    "descripcion": "Canal con ofertas de trabajo remoto para todo el mundo. Desarrollo, diseño, marketing, soporte y ventas.",
     "categoria": "empleo-y-freelance",
     "pais": "",
-    "link": "https://t.me/empleosremotoslatam",
-    "miembros": 38000,
+    "link": "https://t.me/empleosremotos",
+    "miembros": 225,
     "verificado": true,
     "fechaAgregado": "2026-01-07"
   },
@@ -200,13 +222,13 @@
     "fechaAgregado": "2026-01-11"
   },
   {
-    "slug": "empleos-it-latam",
-    "nombre": "Empleos IT LatAm",
-    "descripcion": "Solo desarrollo, DevOps, data y QA. Comentarios activos con dudas sobre empresas y procesos de entrevista.",
+    "slug": "empleos-it-latam-europa-eeuu",
+    "nombre": "Empleos IT LATAM - Europa y EEUU",
+    "descripcion": "Canal dedicado a la difusión de oportunidades laborales del sector IT para LATAM, Europa y EEUU. Verificado y activo.",
     "categoria": "empleo-y-freelance",
     "pais": "",
     "link": "https://t.me/empleositlatam",
-    "miembros": 18500,
+    "miembros": 502,
     "verificado": true,
     "fechaAgregado": "2026-01-16"
   },
