@@ -78,3 +78,17 @@ export function getRelatedPosts(current: Post, limit = 3): Post[] {
   const sameCat = rest.filter((p) => p.category === current.category);
   return [...sameCat, ...rest.filter((p) => !sameCat.includes(p))].slice(0, limit);
 }
+
+export function getPostsByPillar(pillar: string, limit = 4): Post[] {
+  return getAllPosts()
+    .filter((p) => p.pillar === pillar)
+    .slice(0, limit);
+}
+
+export function getFeaturedPosts(limit = 6): Post[] {
+  const all = getAllPosts();
+  // Prioriza los que tengan pillar (listicles) y luego los más largos
+  const withPillar = all.filter((p) => p.pillar);
+  const rest = all.filter((p) => !p.pillar);
+  return [...withPillar, ...rest].slice(0, limit);
+}
