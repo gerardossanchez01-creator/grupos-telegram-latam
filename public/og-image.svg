@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#37B7EC"/>
+      <stop offset="100%" stop-color="#1a7db0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g opacity="0.15" fill="#fff">
+    <circle cx="100" cy="80" r="3"/>
+    <circle cx="200" cy="150" r="2"/>
+    <circle cx="1100" cy="120" r="3"/>
+    <circle cx="1050" cy="500" r="2"/>
+    <circle cx="150" cy="520" r="3"/>
+    <circle cx="900" cy="80" r="2"/>
+    <circle cx="700" cy="580" r="3"/>
+  </g>
+  <g transform="translate(80 180)">
+    <path d="M280 10 240 240c-3 15-12 18-24 11l-64-47-31 30c-3 3-6 6-13 6l4-65 118-107c5-4-1-7-8-3L107 150 45 130c-14-4-14-14 3-20L272 -1c11-4 21 2 17 17z" fill="#fff"/>
+  </g>
+  <text x="380" y="270" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="76" fill="#ffffff">Grupos Telegram</text>
+  <text x="380" y="360" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="76" fill="#ffffff">LatAm</text>
+  <text x="380" y="430" font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="32" fill="#ffffff" opacity="0.9">Directorio de grupos y canales en español</text>
+  <text x="380" y="475" font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="24" fill="#ffffff" opacity="0.75">Ofertas · Cripto · Empleo · Programación · Gaming · Anime · Bots</text>
+  <rect x="380" y="510" width="360" height="60" rx="12" fill="#ffffff"/>
+  <text x="560" y="551" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="24" fill="#229ED9">grupostelegramlatam.com</text>
+</svg>

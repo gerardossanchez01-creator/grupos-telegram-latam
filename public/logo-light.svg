@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#ffffff"/>
+  <g transform="translate(120 240)">
+    <path d="M780 20 660 640c-8 40-32 50-64 30l-176-130-85 82c-9 9-17 17-35 17l12-179 326-294c14-12-3-19-22-8L212 411 40 356c-38-12-40-38 8-56L716 -3c31-12 58 7 48 46z"
+          fill="#229ED9"/>
+  </g>
+  <text x="540" y="990" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="72" fill="#0f172a">grupostelegramlatam</text>
+</svg>
