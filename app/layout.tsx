@@ -23,9 +23,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="es">
       <head>
-        {/* Google Search Console verifications */}
-        <meta name="google-site-verification" content="DBDTe0ZI86V_DMR7eP6hPMx2G-q5CxcY2UmgWBpRscI" />
-        <meta name="google-site-verification" content="r9Qkxvcs9zUB_O9NXLJv1aDfBx5ifuzF_XUf9YvwMlM" />
+        {/* Google Search Console verification */}
+        <meta name="google-site-verification" content="ehzvaJrTd1Mn1qR_RXVzravheM6bL_S8mLdwcV-SAyU" />
         {/* Google AdSense */}
         <Script
           async
