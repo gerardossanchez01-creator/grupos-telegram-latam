@@ -26,6 +26,9 @@ const SOURCE_ARTICLES = [
   "https://metricgram.com/es/blog/mejores-grupos-telegram",
   "https://digitalpymes.es/top-canales-de-telegram/",
   "https://grupos24h.com/",
+  "https://respond.io/es/blog/telegram-groups",
+  "https://www.grupostelegram.net/peliculas.html",
+  "https://www.grupostelegram.net/cdmx.html",
   // Añade más URLs cuando descubras nuevos listicles limpios
 ];
 
