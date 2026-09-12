@@ -18,8 +18,8 @@ export const SITE = {
   domain: "grupostelegramlatam.com",
   url: "https://grupostelegramlatam.com",
   description:
-    "El directorio más grande de grupos y canales de Telegram en español. Ofertas, cripto, empleo, programación, gaming, anime y más.",
-  adsenseClient: "ca-pub-XXXXXXXXXXXXXXXX", // reemplaza con tu client id
+    "El directorio más grande de grupos y canales de Telegram en español. Ofertas, cripto, empleo, programación, gaming, anime, bots y más. 96+ grupos y 30+ bots verificados.",
+  adsenseClient: "ca-pub-XXXXXXXXXXXXXXXX", // reemplaza con tu client id cuando aplique AdSense
 };
 
 export const grupos: Grupo[] = gruposJson as Grupo[];
