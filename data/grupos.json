@@ -1,125 +1,113 @@
 [
   {
-    "slug": "chollometro",
-    "nombre": "Chollometro",
-    "descripcion": "La comunidad de los chollos con más de 2 millones de personas. Ofertas, cupones y descuentos de Amazon, AliExpress y grandes tiendas. Web: chollometro.com",
-    "categoria": "ofertas-y-chollos",
-    "pais": "espana",
-    "link": "https://t.me/chollometro",
-    "miembros": 2000000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-05"
-  },
-  {
-    "slug": "ofertas-de-amazon-es",
-    "nombre": "Ofertas de Amazon",
-    "descripcion": "Errores de precio, ofertas y cupones en Amazon. Canal afiliado oficial del programa Amazon EU.",
-    "categoria": "ofertas-y-chollos",
-    "pais": "espana",
-    "link": "https://t.me/amazon_ofertas_es",
-    "miembros": 15000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-06"
-  },
-  {
-    "slug": "chollos-amazon-aliexpress",
-    "nombre": "CHOLLOS Amazon y AliExpress",
-    "descripcion": "Los mejores chollos de tecnología de las web chinas, AliExpress y Amazon. Ofertas y cupones de descuento diarios. Web: ofertasendirecto.es",
-    "categoria": "ofertas-y-chollos",
+    "slug": "anime-manga-espanol",
+    "nombre": "Anime y Manga Español",
+    "descripcion": "Comunidad grande y activa. Discusión de estrenos, tráilers, adaptaciones y clásicos. Balance veteranos y novatos.",
+    "categoria": "anime-y-manga",
     "pais": "",
-    "link": "https://t.me/aliexpresschollos",
-    "miembros": 8500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-07"
-  },
-  {
-    "slug": "ofertas-mexico-amazon",
-    "nombre": "Ofertas México Amazon",
-    "descripcion": "Descuentos diarios de Amazon México, MercadoLibre, Liverpool y Costco. Cupones exclusivos, alertas de Buen Fin y Hot Sale.",
-    "categoria": "ofertas-y-chollos",
-    "pais": "mexico",
-    "link": "https://t.me/ofertasmxamazon",
-    "miembros": 34000,
+    "link": "https://t.me/animaespanol",
+    "miembros": 35000,
     "verificado": true,
     "fechaAgregado": "2026-01-08"
   },
   {
-    "slug": "promodescuentos-mx",
-    "nombre": "Promodescuentos México",
-    "descripcion": "Extensión oficial del foro Promodescuentos. Los mejores hilos del día llegan a Telegram con votos y comentarios.",
-    "categoria": "ofertas-y-chollos",
-    "pais": "mexico",
-    "link": "https://t.me/promodescuentosmx",
-    "miembros": 22500,
+    "slug": "shonen-espanol",
+    "nombre": "Shonen Español",
+    "descripcion": "One Piece, MHA, JJK, Chainsaw Man, DBS. El grupo con más volumen del nicho. Debate constante sobre power scaling.",
+    "categoria": "anime-y-manga",
+    "pais": "",
+    "link": "https://t.me/shonenespanol",
+    "miembros": 28000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-20"
+  },
+  {
+    "slug": "anime-recomendaciones",
+    "nombre": "Anime Recomendaciones",
+    "descripcion": "Comunidad para descubrir anime por género, temporada y estudio. Rankings semanales votados por miembros.",
+    "categoria": "anime-y-manga",
+    "pais": "",
+    "link": "https://t.me/animerecomendaciones",
+    "miembros": 22000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-05"
+  },
+  {
+    "slug": "otaku-latam",
+    "nombre": "Otaku LatAm",
+    "descripcion": "Enfoque Latinoamérica: dobladores favoritos, eventos regionales, cosplay, cultura pop y merchandising local.",
+    "categoria": "anime-y-manga",
+    "pais": "",
+    "link": "https://t.me/otakulatam",
+    "miembros": 18500,
     "verificado": true,
     "fechaAgregado": "2026-01-12"
   },
   {
-    "slug": "aliexpress-chollos",
-    "nombre": "AliExpress Chollos Diarios",
-    "descripcion": "Cupones de un solo uso, descuentos con código exclusivo y avisos de ventas flash de AliExpress para LatAm y España.",
-    "categoria": "ofertas-y-chollos",
+    "slug": "webtoons-manhwa-espanol",
+    "nombre": "Webtoons y Manhwa Español",
+    "descripcion": "Solo Leveling, Tower of God, The Beginning After the End. Muchas adaptaciones a anime en producción.",
+    "categoria": "anime-y-manga",
     "pais": "",
-    "link": "https://t.me/aliexpress_chollos_es",
-    "miembros": 41000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-15"
-  },
-  {
-    "slug": "amazon-errores-precio",
-    "nombre": "Amazon Errores de Precio",
-    "descripcion": "Fallos de precio de Amazon: productos caros que aparecen a 1€ o 5€ por error. Requiere reflejos y notificaciones activas.",
-    "categoria": "ofertas-y-chollos",
-    "pais": "espana",
-    "link": "https://t.me/errorprecio",
-    "miembros": 89000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-18"
-  },
-  {
-    "slug": "cupones-codigos-mx",
-    "nombre": "Cupones y Códigos MX",
-    "descripcion": "Cupones activos de Uber Eats, DiDi, Rappi, Shein y más. Publicaciones cada pocas horas verificadas por moderadores.",
-    "categoria": "ofertas-y-chollos",
-    "pais": "mexico",
-    "link": "https://t.me/cuponesmx",
-    "miembros": 18000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-22"
-  },
-  {
-    "slug": "ofertas-argentina",
-    "nombre": "Ofertas Argentina Telegram",
-    "descripcion": "Ofertas de MercadoLibre Argentina, Frávega, Musimundo y descuentos con tarjetas locales (Modo, Cuenta DNI, Banco Nación).",
-    "categoria": "ofertas-y-chollos",
-    "pais": "argentina",
-    "link": "https://t.me/ofertasargentina",
-    "miembros": 26000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-25"
-  },
-  {
-    "slug": "chollos-colombia",
-    "nombre": "Chollos y Ofertas Colombia",
-    "descripcion": "Ofertas de Falabella, Éxito, Alkosto y MercadoLibre Colombia. Muy activo en Black Friday y Día sin IVA.",
-    "categoria": "ofertas-y-chollos",
-    "pais": "colombia",
-    "link": "https://t.me/chollosco",
-    "miembros": 14500,
+    "link": "https://t.me/manhwaes",
+    "miembros": 16000,
     "verificado": true,
     "fechaAgregado": "2026-02-01"
   },
-
   {
-    "slug": "criptonoticias",
-    "nombre": "CriptoNoticias",
-    "descripcion": "Noticias, guías e información en español sobre Bitcoin y criptomonedas. Uno de los medios cripto más leídos en español.",
-    "categoria": "criptomonedas",
+    "slug": "anime-temporada-actual",
+    "nombre": "Anime Temporada Actual",
+    "descripcion": "Solo se habla de lo que emite esta temporada. Cada lunes drop de opiniones sobre capítulos del fin de semana.",
+    "categoria": "anime-y-manga",
     "pais": "",
-    "link": "https://t.me/criptonoticias",
-    "miembros": 12000,
+    "link": "https://t.me/animetemporada",
+    "miembros": 12500,
     "verificado": true,
-    "fechaAgregado": "2026-01-06"
+    "fechaAgregado": "2026-01-16"
+  },
+  {
+    "slug": "isekai-espanol",
+    "nombre": "Isekai en Español",
+    "descripcion": "El género de moda: reencarnaciones, mundos paralelos, tier lists de novelas ligeras adaptadas.",
+    "categoria": "anime-y-manga",
+    "pais": "",
+    "link": "https://t.me/isekaies",
+    "miembros": 11000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-28"
+  },
+  {
+    "slug": "seinen-psicologico",
+    "nombre": "Seinen y Psicológico",
+    "descripcion": "Berserk, Vinland Saga, Monster, Vagabond. Debate serio, spoilers marcados y análisis literarios.",
+    "categoria": "anime-y-manga",
+    "pais": "",
+    "link": "https://t.me/seinenpsico",
+    "miembros": 9500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-24"
+  },
+  {
+    "slug": "cosplay-espanol",
+    "nombre": "Cosplay Español",
+    "descripcion": "Reviews de telas, tutoriales, convenciones, patrones y comunidad de artistas. Muy activo antes de eventos.",
+    "categoria": "anime-y-manga",
+    "pais": "",
+    "link": "https://t.me/cosplayespanol",
+    "miembros": 8500,
+    "verificado": true,
+    "fechaAgregado": "2026-02-05"
+  },
+  {
+    "slug": "anime-friki-gamers",
+    "nombre": "Ánime, Friki & Gamers",
+    "descripcion": "Comunidad friki en español para hablar de anime, manga y gaming. Prohibido gore y menores.",
+    "categoria": "anime-y-manga",
+    "pais": "",
+    "link": "https://t.me/animeyfrikis",
+    "miembros": 372,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
   },
   {
     "slug": "criptomonedas-blockchain-latam",
@@ -133,28 +121,6 @@
     "fechaAgregado": "2026-01-10"
   },
   {
-    "slug": "analisis-tecnico-cripto",
-    "nombre": "Análisis Técnico Cripto ES",
-    "descripcion": "Trading educativo con charts diarios. Enseñan la lógica detrás de cada trade, no solo el resultado. Historial público.",
-    "categoria": "criptomonedas",
-    "pais": "",
-    "link": "https://t.me/analisistecnicocripto",
-    "miembros": 15500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-14"
-  },
-  {
-    "slug": "defi-en-espanol",
-    "nombre": "DeFi en Español",
-    "descripcion": "Yield farming, lending, DEXs, restaking y perpetuos. Nivel técnico alto: se asume conocimiento de wallets y LP tokens.",
-    "categoria": "criptomonedas",
-    "pais": "",
-    "link": "https://t.me/defienespanol",
-    "miembros": 9800,
-    "verificado": true,
-    "fechaAgregado": "2026-01-17"
-  },
-  {
     "slug": "bitcoin-argentina",
     "nombre": "Bitcoin Argentina",
     "descripcion": "Comunidad enorme por el contexto económico argentino. Uso real: compras, ahorro en USDT y estrategias frente a la inflación.",
@@ -164,17 +130,6 @@
     "miembros": 28000,
     "verificado": true,
     "fechaAgregado": "2026-01-19"
-  },
-  {
-    "slug": "cripto-mexico",
-    "nombre": "Cripto México",
-    "descripcion": "Regulación Banxico, exchanges (Bitso, Volabit), P2P y experiencias con el SAT. Uso legal de cripto en México.",
-    "categoria": "criptomonedas",
-    "pais": "mexico",
-    "link": "https://t.me/criptomexico",
-    "miembros": 17000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-23"
   },
   {
     "slug": "cripto-venezuela",
@@ -198,17 +153,82 @@
     "verificado": true,
     "fechaAgregado": "2026-01-30"
   },
-
   {
-    "slug": "empleos-remotos-mundiales",
-    "nombre": "Empleos Remotos Mundiales",
-    "descripcion": "Canal con ofertas de trabajo remoto para todo el mundo. Desarrollo, diseño, marketing, soporte y ventas.",
-    "categoria": "empleo-y-freelance",
-    "pais": "",
-    "link": "https://t.me/empleosremotos",
-    "miembros": 225,
+    "slug": "cripto-mexico",
+    "nombre": "Cripto México",
+    "descripcion": "Regulación Banxico, exchanges (Bitso, Volabit), P2P y experiencias con el SAT. Uso legal de cripto en México.",
+    "categoria": "criptomonedas",
+    "pais": "mexico",
+    "link": "https://t.me/criptomexico",
+    "miembros": 17000,
     "verificado": true,
-    "fechaAgregado": "2026-01-07"
+    "fechaAgregado": "2026-01-23"
+  },
+  {
+    "slug": "analisis-tecnico-cripto",
+    "nombre": "Análisis Técnico Cripto ES",
+    "descripcion": "Trading educativo con charts diarios. Enseñan la lógica detrás de cada trade, no solo el resultado. Historial público.",
+    "categoria": "criptomonedas",
+    "pais": "",
+    "link": "https://t.me/analisistecnicocripto",
+    "miembros": 15500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-14"
+  },
+  {
+    "slug": "criptonoticias",
+    "nombre": "CriptoNoticias",
+    "descripcion": "Noticias, guías e información en español sobre Bitcoin y criptomonedas. Uno de los medios cripto más leídos en español.",
+    "categoria": "criptomonedas",
+    "pais": "",
+    "link": "https://t.me/criptonoticias",
+    "miembros": 12000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-06"
+  },
+  {
+    "slug": "defi-en-espanol",
+    "nombre": "DeFi en Español",
+    "descripcion": "Yield farming, lending, DEXs, restaking y perpetuos. Nivel técnico alto: se asume conocimiento de wallets y LP tokens.",
+    "categoria": "criptomonedas",
+    "pais": "",
+    "link": "https://t.me/defienespanol",
+    "miembros": 9800,
+    "verificado": true,
+    "fechaAgregado": "2026-01-17"
+  },
+  {
+    "slug": "disenadores-hispanos",
+    "nombre": "Diseñadores Hispanos",
+    "descripcion": "UI, UX, motion, ilustración. Críticas constructivas de portfolios y recursos gratuitos actualizados.",
+    "categoria": "diseno-y-arte",
+    "pais": "",
+    "link": "https://t.me/disenadoreshispanos",
+    "miembros": 13500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-27"
+  },
+  {
+    "slug": "aprender-fotografia",
+    "nombre": "Aprender Fotografía",
+    "descripcion": "Grupo del podcast Aprender Fotografía. Comunidad activa sobre técnica fotográfica y equipo.",
+    "categoria": "diseno-y-arte",
+    "pais": "",
+    "link": "https://t.me/aprenderfotografia",
+    "miembros": 2394,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "grafico-club",
+    "nombre": "GRÁFICO Club",
+    "descripcion": "Comunidad de Diseño Gráfico, Foto y Video. Comentarios, recursos, materiales y trabajos entre profesionales.",
+    "categoria": "diseno-y-arte",
+    "pais": "",
+    "link": "https://t.me/grafico2020",
+    "miembros": 214,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
   },
   {
     "slug": "remote-jobs-espanol",
@@ -222,15 +242,37 @@
     "fechaAgregado": "2026-01-11"
   },
   {
-    "slug": "empleos-it-latam-europa-eeuu",
-    "nombre": "Empleos IT LATAM - Europa y EEUU",
-    "descripcion": "Canal dedicado a la difusión de oportunidades laborales del sector IT para LATAM, Europa y EEUU. Verificado y activo.",
+    "slug": "trabajo-argentina-remoto",
+    "nombre": "Trabajo Argentina Remoto",
+    "descripcion": "Ofertas para argentinos que facturan como monotributistas. Sueldos en USD para escapar de la inflación.",
     "categoria": "empleo-y-freelance",
-    "pais": "",
-    "link": "https://t.me/empleositlatam",
-    "miembros": 502,
+    "pais": "argentina",
+    "link": "https://t.me/trabajoarremoto",
+    "miembros": 21000,
     "verificado": true,
-    "fechaAgregado": "2026-01-16"
+    "fechaAgregado": "2026-02-05"
+  },
+  {
+    "slug": "empleos-mexico-remoto",
+    "nombre": "Empleos México (Remoto y Presencial)",
+    "descripcion": "Contratos formales en México con prestaciones. Mucha empresa fintech, ecommerce y startups.",
+    "categoria": "empleo-y-freelance",
+    "pais": "mexico",
+    "link": "https://t.me/empleosmxremoto",
+    "miembros": 16500,
+    "verificado": true,
+    "fechaAgregado": "2026-02-02"
+  },
+  {
+    "slug": "empleo-espana-tech",
+    "nombre": "Empleo España Tech",
+    "descripcion": "Ofertas remotas y presenciales tech en España: Madrid, Barcelona, Valencia. Muchas contratan también LatAm.",
+    "categoria": "empleo-y-freelance",
+    "pais": "espana",
+    "link": "https://t.me/empleoespanatech",
+    "miembros": 13500,
+    "verificado": true,
+    "fechaAgregado": "2026-02-08"
   },
   {
     "slug": "javascript-jobs-espanol",
@@ -242,6 +284,17 @@
     "miembros": 12000,
     "verificado": true,
     "fechaAgregado": "2026-01-20"
+  },
+  {
+    "slug": "freelance-espanol",
+    "nombre": "Freelance Español",
+    "descripcion": "Proyectos cortos: landing pages, textos, edición de video, traducciones. Ideal para ingresos rápidos.",
+    "categoria": "empleo-y-freelance",
+    "pais": "",
+    "link": "https://t.me/freelanceenespanol",
+    "miembros": 11000,
+    "verificado": true,
+    "fechaAgregado": "2026-02-11"
   },
   {
     "slug": "python-jobs-latam",
@@ -266,139 +319,93 @@
     "fechaAgregado": "2026-01-28"
   },
   {
-    "slug": "empleos-mexico-remoto",
-    "nombre": "Empleos México (Remoto y Presencial)",
-    "descripcion": "Contratos formales en México con prestaciones. Mucha empresa fintech, ecommerce y startups.",
-    "categoria": "empleo-y-freelance",
-    "pais": "mexico",
-    "link": "https://t.me/empleosmxremoto",
-    "miembros": 16500,
-    "verificado": true,
-    "fechaAgregado": "2026-02-02"
-  },
-  {
-    "slug": "trabajo-argentina-remoto",
-    "nombre": "Trabajo Argentina Remoto",
-    "descripcion": "Ofertas para argentinos que facturan como monotributistas. Sueldos en USD para escapar de la inflación.",
-    "categoria": "empleo-y-freelance",
-    "pais": "argentina",
-    "link": "https://t.me/trabajoarremoto",
-    "miembros": 21000,
-    "verificado": true,
-    "fechaAgregado": "2026-02-05"
-  },
-  {
-    "slug": "empleo-espana-tech",
-    "nombre": "Empleo España Tech",
-    "descripcion": "Ofertas remotas y presenciales tech en España: Madrid, Barcelona, Valencia. Muchas contratan también LatAm.",
+    "slug": "getmanfred",
+    "nombre": "Manfred - Ofertas de empleo tech",
+    "descripcion": "Fresh Job Offers, served daily to your phone! Ofertas de empleo tech en España y remoto seleccionadas por Manfred.",
     "categoria": "empleo-y-freelance",
     "pais": "espana",
-    "link": "https://t.me/empleoespanatech",
-    "miembros": 13500,
+    "link": "https://t.me/getmanfred",
+    "miembros": 5500,
     "verificado": true,
-    "fechaAgregado": "2026-02-08"
+    "fechaAgregado": "2026-09-12"
   },
   {
-    "slug": "freelance-espanol",
-    "nombre": "Freelance Español",
-    "descripcion": "Proyectos cortos: landing pages, textos, edición de video, traducciones. Ideal para ingresos rápidos.",
+    "slug": "empleos-it-latam-europa-eeuu",
+    "nombre": "Empleos IT LATAM - Europa y EEUU",
+    "descripcion": "Canal dedicado a la difusión de oportunidades laborales del sector IT para LATAM, Europa y EEUU. Verificado y activo.",
     "categoria": "empleo-y-freelance",
     "pais": "",
-    "link": "https://t.me/freelanceenespanol",
-    "miembros": 11000,
+    "link": "https://t.me/empleositlatam",
+    "miembros": 502,
     "verificado": true,
-    "fechaAgregado": "2026-02-11"
-  },
-
-  {
-    "slug": "javascript-hispano",
-    "nombre": "JavaScript Hispano",
-    "descripcion": "Vanilla JS, TypeScript, Node, Bun. Debate técnico sobre patrones, rendimiento y frameworks emergentes.",
-    "categoria": "programacion",
-    "pais": "",
-    "link": "https://t.me/javascripthispano",
-    "miembros": 15500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-04"
+    "fechaAgregado": "2026-01-16"
   },
   {
-    "slug": "react-en-espanol",
-    "nombre": "React en Español",
-    "descripcion": "Todo el ecosistema React: Next.js, Remix, React Native, Server Components. Muy activo en releases.",
-    "categoria": "programacion",
+    "slug": "empleos-remotos-mundiales",
+    "nombre": "Empleos Remotos Mundiales",
+    "descripcion": "Canal con ofertas de trabajo remoto para todo el mundo. Desarrollo, diseño, marketing, soporte y ventas.",
+    "categoria": "empleo-y-freelance",
     "pais": "",
-    "link": "https://t.me/reactespanol",
-    "miembros": 11500,
+    "link": "https://t.me/empleosremotos",
+    "miembros": 225,
     "verificado": true,
-    "fechaAgregado": "2026-01-09"
+    "fechaAgregado": "2026-01-07"
   },
   {
-    "slug": "python-latam",
-    "nombre": "Python LatAm",
-    "descripcion": "Django, FastAPI, Flask, scripts y automatización. Refugio para data engineers y quienes automatizan procesos.",
-    "categoria": "programacion",
+    "slug": "emprendedores-latam",
+    "nombre": "Emprendedores LatAm",
+    "descripcion": "Founders, networking, ideas de negocio, ronda de feedback semanal. Comunidad de startups en LatAm.",
+    "categoria": "emprendimiento",
     "pais": "",
-    "link": "https://t.me/pythonlatam",
-    "miembros": 20500,
+    "link": "https://t.me/emprendedoreslatam",
+    "miembros": 22000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-23"
+  },
+  {
+    "slug": "entrepreneurs-mario-armenta",
+    "nombre": "Entrepreneurs by Mario Armenta",
+    "descripcion": "Consejos para emprender y montar negocios serios en Internet. Formación y análisis de casos reales.",
+    "categoria": "emprendimiento",
+    "pais": "",
+    "link": "https://t.me/marioarmenta",
+    "miembros": 2500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "estudiantes-universitarios-latam",
+    "nombre": "Estudiantes Universitarios LatAm",
+    "descripcion": "Apuntes compartidos, exámenes, resúmenes y ayuda entre estudiantes de carreras universitarias.",
+    "categoria": "estudios-y-universidad",
+    "pais": "",
+    "link": "https://t.me/universitarioslatam",
+    "miembros": 27500,
+    "verificado": true,
+    "fechaAgregado": "2026-02-10"
+  },
+  {
+    "slug": "estoicos",
+    "nombre": "Estoicos",
+    "descripcion": "Grupo dedicado a la práctica y difusión del estoicismo. 5.900+ miembros discutiendo filosofía práctica.",
+    "categoria": "estudios-y-universidad",
+    "pais": "",
+    "link": "https://t.me/estoicos",
+    "miembros": 5902,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "fitness-motivacion",
+    "nombre": "Fitness Motivación",
+    "descripcion": "Rutinas de entrenamiento, planes de dieta, transformaciones y motivación diaria. Ambiente sin toxicidad.",
+    "categoria": "fitness-y-salud",
+    "pais": "colombia",
+    "link": "https://t.me/fitnessmotivacion",
+    "miembros": 28000,
     "verificado": true,
     "fechaAgregado": "2026-01-13"
   },
-  {
-    "slug": "data-science-ml-espanol",
-    "nombre": "Data Science y ML Español",
-    "descripcion": "Machine learning, deep learning, MLOps, papers recientes. Nivel medio-alto, se asume base en estadística.",
-    "categoria": "programacion",
-    "pais": "",
-    "link": "https://t.me/datascienceml_es",
-    "miembros": 9200,
-    "verificado": true,
-    "fechaAgregado": "2026-01-17"
-  },
-  {
-    "slug": "devops-en-espanol",
-    "nombre": "DevOps en Español",
-    "descripcion": "Kubernetes, Docker, Terraform, CI/CD, GitOps. SREs compartiendo experiencias de producción y postmortems.",
-    "categoria": "programacion",
-    "pais": "",
-    "link": "https://t.me/devopsenespanol",
-    "miembros": 8500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-21"
-  },
-  {
-    "slug": "inteligencia-artificial-espanol",
-    "nombre": "Inteligencia Artificial Español",
-    "descripcion": "Papers, uso de LLMs en producto, tooling (LangChain, agents, RAG), prompt engineering. Comunidad en explosión.",
-    "categoria": "programacion",
-    "pais": "",
-    "link": "https://t.me/iaenespanol",
-    "miembros": 26000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-25"
-  },
-  {
-    "slug": "programacion-desde-cero",
-    "nombre": "Programación desde Cero",
-    "descripcion": "Para quien empieza. Ambiente paciente, sin gatekeeping. Preguntas básicas bienvenidas y admins moderan la toxicidad.",
-    "categoria": "programacion",
-    "pais": "",
-    "link": "https://t.me/programaciondesdecero",
-    "miembros": 18500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-29"
-  },
-  {
-    "slug": "ciberseguridad-espanol",
-    "nombre": "Ciberseguridad Español",
-    "descripcion": "Bug bounty, pentesting, CTFs, actualizaciones de vulnerabilidades. Ambiente serio y profesional.",
-    "categoria": "programacion",
-    "pais": "",
-    "link": "https://t.me/ciberseguridad_es",
-    "miembros": 12000,
-    "verificado": true,
-    "fechaAgregado": "2026-02-03"
-  },
-
   {
     "slug": "free-fire-mexico",
     "nombre": "Free Fire México",
@@ -422,6 +429,17 @@
     "fechaAgregado": "2026-01-10"
   },
   {
+    "slug": "pc-gamers-latam",
+    "nombre": "PC Gamers LatAm",
+    "descripcion": "Builds, comparativas de hardware, ofertas de Steam. Muy útil antes de armar tu equipo.",
+    "categoria": "gaming",
+    "pais": "",
+    "link": "https://t.me/pcgamerslatam",
+    "miembros": 24000,
+    "verificado": true,
+    "fechaAgregado": "2026-02-04"
+  },
+  {
     "slug": "valorant-latam",
     "nombre": "Valorant LatAm",
     "descripcion": "Ranked partys, agentes meta, guías de estrategias. Coaches ofreciendo sesiones gratis.",
@@ -433,15 +451,15 @@
     "fechaAgregado": "2026-01-14"
   },
   {
-    "slug": "cs2-espanol",
-    "nombre": "CS2 Español",
-    "descripcion": "Counter-Strike 2: análisis de crosshairs, config de video, torneos. Comunidad veterana y técnica.",
+    "slug": "nintendo-switch-espanol",
+    "nombre": "Nintendo Switch Español",
+    "descripcion": "Recomendaciones, análisis, comparativas de precios en la eShop de distintas regiones.",
     "categoria": "gaming",
     "pais": "",
-    "link": "https://t.me/cs2espanol",
-    "miembros": 14500,
+    "link": "https://t.me/nintendoswitches",
+    "miembros": 21000,
     "verificado": true,
-    "fechaAgregado": "2026-01-18"
+    "fechaAgregado": "2026-01-31"
   },
   {
     "slug": "lol-las",
@@ -466,26 +484,15 @@
     "fechaAgregado": "2026-01-27"
   },
   {
-    "slug": "nintendo-switch-espanol",
-    "nombre": "Nintendo Switch Español",
-    "descripcion": "Recomendaciones, análisis, comparativas de precios en la eShop de distintas regiones.",
+    "slug": "cs2-espanol",
+    "nombre": "CS2 Español",
+    "descripcion": "Counter-Strike 2: análisis de crosshairs, config de video, torneos. Comunidad veterana y técnica.",
     "categoria": "gaming",
     "pais": "",
-    "link": "https://t.me/nintendoswitches",
-    "miembros": 21000,
+    "link": "https://t.me/cs2espanol",
+    "miembros": 14500,
     "verificado": true,
-    "fechaAgregado": "2026-01-31"
-  },
-  {
-    "slug": "pc-gamers-latam",
-    "nombre": "PC Gamers LatAm",
-    "descripcion": "Builds, comparativas de hardware, ofertas de Steam. Muy útil antes de armar tu equipo.",
-    "categoria": "gaming",
-    "pais": "",
-    "link": "https://t.me/pcgamerslatam",
-    "miembros": 24000,
-    "verificado": true,
-    "fechaAgregado": "2026-02-04"
+    "fechaAgregado": "2026-01-18"
   },
   {
     "slug": "steam-deck-espanol",
@@ -509,107 +516,28 @@
     "verificado": true,
     "fechaAgregado": "2026-02-10"
   },
-
   {
-    "slug": "anime-recomendaciones",
-    "nombre": "Anime Recomendaciones",
-    "descripcion": "Comunidad para descubrir anime por género, temporada y estudio. Rankings semanales votados por miembros.",
-    "categoria": "anime-y-manga",
+    "slug": "cambridge-dictionary",
+    "nombre": "Cambridge Dictionary",
+    "descripcion": "Aprende inglés con definiciones y ejemplos del diccionario oficial de Cambridge. 48.000+ miembros.",
+    "categoria": "idiomas",
     "pais": "",
-    "link": "https://t.me/animerecomendaciones",
-    "miembros": 22000,
+    "link": "https://t.me/cambridge_dic",
+    "miembros": 48175,
     "verificado": true,
-    "fechaAgregado": "2026-01-05"
+    "fechaAgregado": "2026-09-12"
   },
   {
-    "slug": "anime-manga-espanol",
-    "nombre": "Anime y Manga Español",
-    "descripcion": "Comunidad grande y activa. Discusión de estrenos, tráilers, adaptaciones y clásicos. Balance veteranos y novatos.",
-    "categoria": "anime-y-manga",
+    "slug": "bbc-learning-english",
+    "nombre": "BBC Learning English",
+    "descripcion": "Materiales diarios para aprender inglés de la BBC. Vocabulario, gramática y noticias adaptadas.",
+    "categoria": "idiomas",
     "pais": "",
-    "link": "https://t.me/animaespanol",
-    "miembros": 35000,
+    "link": "https://t.me/BBC_learning_en",
+    "miembros": 45000,
     "verificado": true,
-    "fechaAgregado": "2026-01-08"
+    "fechaAgregado": "2026-09-12"
   },
-  {
-    "slug": "otaku-latam",
-    "nombre": "Otaku LatAm",
-    "descripcion": "Enfoque Latinoamérica: dobladores favoritos, eventos regionales, cosplay, cultura pop y merchandising local.",
-    "categoria": "anime-y-manga",
-    "pais": "",
-    "link": "https://t.me/otakulatam",
-    "miembros": 18500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-12"
-  },
-  {
-    "slug": "anime-temporada-actual",
-    "nombre": "Anime Temporada Actual",
-    "descripcion": "Solo se habla de lo que emite esta temporada. Cada lunes drop de opiniones sobre capítulos del fin de semana.",
-    "categoria": "anime-y-manga",
-    "pais": "",
-    "link": "https://t.me/animetemporada",
-    "miembros": 12500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-16"
-  },
-  {
-    "slug": "shonen-espanol",
-    "nombre": "Shonen Español",
-    "descripcion": "One Piece, MHA, JJK, Chainsaw Man, DBS. El grupo con más volumen del nicho. Debate constante sobre power scaling.",
-    "categoria": "anime-y-manga",
-    "pais": "",
-    "link": "https://t.me/shonenespanol",
-    "miembros": 28000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-20"
-  },
-  {
-    "slug": "seinen-psicologico",
-    "nombre": "Seinen y Psicológico",
-    "descripcion": "Berserk, Vinland Saga, Monster, Vagabond. Debate serio, spoilers marcados y análisis literarios.",
-    "categoria": "anime-y-manga",
-    "pais": "",
-    "link": "https://t.me/seinenpsico",
-    "miembros": 9500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-24"
-  },
-  {
-    "slug": "isekai-espanol",
-    "nombre": "Isekai en Español",
-    "descripcion": "El género de moda: reencarnaciones, mundos paralelos, tier lists de novelas ligeras adaptadas.",
-    "categoria": "anime-y-manga",
-    "pais": "",
-    "link": "https://t.me/isekaies",
-    "miembros": 11000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-28"
-  },
-  {
-    "slug": "webtoons-manhwa-espanol",
-    "nombre": "Webtoons y Manhwa Español",
-    "descripcion": "Solo Leveling, Tower of God, The Beginning After the End. Muchas adaptaciones a anime en producción.",
-    "categoria": "anime-y-manga",
-    "pais": "",
-    "link": "https://t.me/manhwaes",
-    "miembros": 16000,
-    "verificado": true,
-    "fechaAgregado": "2026-02-01"
-  },
-  {
-    "slug": "cosplay-espanol",
-    "nombre": "Cosplay Español",
-    "descripcion": "Reviews de telas, tutoriales, convenciones, patrones y comunidad de artistas. Muy activo antes de eventos.",
-    "categoria": "anime-y-manga",
-    "pais": "",
-    "link": "https://t.me/cosplayespanol",
-    "miembros": 8500,
-    "verificado": true,
-    "fechaAgregado": "2026-02-05"
-  },
-
   {
     "slug": "ingles-para-hispanohablantes",
     "nombre": "Inglés para Hispanohablantes",
@@ -633,70 +561,15 @@
     "fechaAgregado": "2026-01-15"
   },
   {
-    "slug": "seo-en-espanol",
-    "nombre": "SEO en Español",
-    "descripcion": "SEO técnico, contenido, link building, IA y actualizaciones de Google. Comunidad de SEOs hispanohablantes.",
-    "categoria": "marketing-digital",
-    "pais": "espana",
-    "link": "https://t.me/seoenespanol",
-    "miembros": 11000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-11"
-  },
-  {
-    "slug": "marketing-digital-latam",
-    "nombre": "Marketing Digital LatAm",
-    "descripcion": "Ads, growth, funnels, ecommerce, email marketing. Networking y casos reales entre marketers de LatAm.",
-    "categoria": "marketing-digital",
+    "slug": "aprende-ingles-ligoteo",
+    "nombre": "Aprende Inglés Ligoteo",
+    "descripcion": "Grupo para practicar inglés hablando: chats de audio en directo con nativos y aprendices, sin importar el nivel.",
+    "categoria": "idiomas",
     "pais": "",
-    "link": "https://t.me/marketingdigitallatam",
-    "miembros": 18500,
+    "link": "https://t.me/aprendeinglesligoteo",
+    "miembros": 3401,
     "verificado": true,
-    "fechaAgregado": "2026-01-19"
-  },
-  {
-    "slug": "fitness-motivacion",
-    "nombre": "Fitness Motivación",
-    "descripcion": "Rutinas de entrenamiento, planes de dieta, transformaciones y motivación diaria. Ambiente sin toxicidad.",
-    "categoria": "fitness-y-salud",
-    "pais": "colombia",
-    "link": "https://t.me/fitnessmotivacion",
-    "miembros": 28000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-13"
-  },
-  {
-    "slug": "viajeros-mochileros-latam",
-    "nombre": "Viajeros Mochileros LatAm",
-    "descripcion": "Tips de rutas, hostales baratos, vuelos y experiencias de viajeros mochileros por toda LatAm.",
-    "categoria": "viajes",
-    "pais": "argentina",
-    "link": "https://t.me/viajerosmochileros",
-    "miembros": 16500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-17"
-  },
-  {
-    "slug": "emprendedores-latam",
-    "nombre": "Emprendedores LatAm",
-    "descripcion": "Founders, networking, ideas de negocio, ronda de feedback semanal. Comunidad de startups en LatAm.",
-    "categoria": "emprendimiento",
-    "pais": "",
-    "link": "https://t.me/emprendedoreslatam",
-    "miembros": 22000,
-    "verificado": true,
-    "fechaAgregado": "2026-01-23"
-  },
-  {
-    "slug": "disenadores-hispanos",
-    "nombre": "Diseñadores Hispanos",
-    "descripcion": "UI, UX, motion, ilustración. Críticas constructivas de portfolios y recursos gratuitos actualizados.",
-    "categoria": "diseno-y-arte",
-    "pais": "",
-    "link": "https://t.me/disenadoreshispanos",
-    "miembros": 13500,
-    "verificado": true,
-    "fechaAgregado": "2026-01-27"
+    "fechaAgregado": "2026-09-12"
   },
   {
     "slug": "libros-en-espanol",
@@ -710,6 +583,424 @@
     "fechaAgregado": "2026-02-02"
   },
   {
+    "slug": "marketing-digital-latam",
+    "nombre": "Marketing Digital LatAm",
+    "descripcion": "Ads, growth, funnels, ecommerce, email marketing. Networking y casos reales entre marketers de LatAm.",
+    "categoria": "marketing-digital",
+    "pais": "",
+    "link": "https://t.me/marketingdigitallatam",
+    "miembros": 18500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-19"
+  },
+  {
+    "slug": "seo-en-espanol",
+    "nombre": "SEO en Español",
+    "descripcion": "SEO técnico, contenido, link building, IA y actualizaciones de Google. Comunidad de SEOs hispanohablantes.",
+    "categoria": "marketing-digital",
+    "pais": "espana",
+    "link": "https://t.me/seoenespanol",
+    "miembros": 11000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-11"
+  },
+  {
+    "slug": "marketing4ecommerce",
+    "nombre": "Marketing4eCommerce",
+    "descripcion": "Revista de marketing digital y comercio electrónico referente en España, México, Colombia y Chile.",
+    "categoria": "marketing-digital",
+    "pais": "",
+    "link": "https://t.me/marketing4ecommerce",
+    "miembros": 8000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "seo-blogging-marketing",
+    "nombre": "SEO Blogging y Marketing digital",
+    "descripcion": "Canal sobre SEO y marketing online. Últimas noticias del sector, programas y recursos para profesionales.",
+    "categoria": "marketing-digital",
+    "pais": "",
+    "link": "https://t.me/seo30",
+    "miembros": 6500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "mi-posicionamiento-web",
+    "nombre": "mi Posicionamiento Web",
+    "descripcion": "Canal de miposicionamientoweb.es con noticias, comparativas de hosting y consejos SEO prácticos.",
+    "categoria": "marketing-digital",
+    "pais": "",
+    "link": "https://t.me/miposicionamientoweb",
+    "miembros": 3500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "newsletter-seo",
+    "nombre": "La newsletter SEO",
+    "descripcion": "Noticias, actualidad SEO, herramientas y recursos para expertos y aprendices de posicionamiento en Google.",
+    "categoria": "marketing-digital",
+    "pais": "",
+    "link": "https://t.me/seoqueviene",
+    "miembros": 248,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "twitchs-marketing",
+    "nombre": "Twitchs de Marketing",
+    "descripcion": "Directos de Twitch sobre Marketing Digital, SEO, Blogging y publicidad. Los mejores canales del sector.",
+    "categoria": "marketing-digital",
+    "pais": "",
+    "link": "https://t.me/twitchsmarketing",
+    "miembros": 190,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "humor-de-locos",
+    "nombre": "Humor de Locos",
+    "descripcion": "Amante de los memes? Este es el lugar. Grupo para compartir humor y contenido viral en español.",
+    "categoria": "memes-y-humor",
+    "pais": "",
+    "link": "https://t.me/grupodelocos",
+    "miembros": 591,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "chollometro",
+    "nombre": "Chollometro",
+    "descripcion": "La comunidad de los chollos con más de 2 millones de personas. Ofertas, cupones y descuentos de Amazon, AliExpress y grandes tiendas. Web: chollometro.com",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/chollometro",
+    "miembros": 2000000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-05"
+  },
+  {
+    "slug": "amazon-errores-precio",
+    "nombre": "Amazon Errores de Precio",
+    "descripcion": "Fallos de precio de Amazon: productos caros que aparecen a 1€ o 5€ por error. Requiere reflejos y notificaciones activas.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/errorprecio",
+    "miembros": 89000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-18"
+  },
+  {
+    "slug": "aliexpress-chollos",
+    "nombre": "AliExpress Chollos Diarios",
+    "descripcion": "Cupones de un solo uso, descuentos con código exclusivo y avisos de ventas flash de AliExpress para LatAm y España.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/aliexpress_chollos_es",
+    "miembros": 41000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-15"
+  },
+  {
+    "slug": "ofertas-mexico-amazon",
+    "nombre": "Ofertas México Amazon",
+    "descripcion": "Descuentos diarios de Amazon México, MercadoLibre, Liverpool y Costco. Cupones exclusivos, alertas de Buen Fin y Hot Sale.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "mexico",
+    "link": "https://t.me/ofertasmxamazon",
+    "miembros": 34000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-08"
+  },
+  {
+    "slug": "chollos-original",
+    "nombre": "[CANAL] Chollos",
+    "descripcion": "El Canal de Chollos original con los mejores chollos de Internet. Vinculado a chollometro.com.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/Chollos",
+    "miembros": 30000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "ofertas-argentina",
+    "nombre": "Ofertas Argentina Telegram",
+    "descripcion": "Ofertas de MercadoLibre Argentina, Frávega, Musimundo y descuentos con tarjetas locales (Modo, Cuenta DNI, Banco Nación).",
+    "categoria": "ofertas-y-chollos",
+    "pais": "argentina",
+    "link": "https://t.me/ofertasargentina",
+    "miembros": 26000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-25"
+  },
+  {
+    "slug": "canaldechollos",
+    "nombre": "Canal de Chollos",
+    "descripcion": "El primer canal de chollos de Internet. Ofertas y descuentos verificados de las mejores tiendas online. Web: michollo.com",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/canaldechollos",
+    "miembros": 25000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "promodescuentos-mx",
+    "nombre": "Promodescuentos México",
+    "descripcion": "Extensión oficial del foro Promodescuentos. Los mejores hilos del día llegan a Telegram con votos y comentarios.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "mexico",
+    "link": "https://t.me/promodescuentosmx",
+    "miembros": 22500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-12"
+  },
+  {
+    "slug": "xataka-seleccion",
+    "nombre": "Xataka Selección - Ofertas Tecnología",
+    "descripcion": "Guías de compras de tecnología: móviles, informática, domótica. Las mejores ofertas seleccionadas por Xataka.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/xatakaseleccion",
+    "miembros": 22000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "cupones-codigos-mx",
+    "nombre": "Cupones y Códigos MX",
+    "descripcion": "Cupones activos de Uber Eats, DiDi, Rappi, Shein y más. Publicaciones cada pocas horas verificadas por moderadores.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "mexico",
+    "link": "https://t.me/cuponesmx",
+    "miembros": 18000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-22"
+  },
+  {
+    "slug": "computerhoy-ofertas",
+    "nombre": "ComputerHoy Ofertas",
+    "descripcion": "Las mejores ofertas, rebajas y descuentos en tecnología por el equipo editorial de ComputerHoy.com.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/ofertas_computerhoy",
+    "miembros": 18000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "compradiccion",
+    "nombre": "Compradicción",
+    "descripcion": "Las mejores ofertas, descuentos, rebajas y chollos de productos en Internet por compradiccion.com.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/compradiccion",
+    "miembros": 16500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "ofertas-de-amazon-es",
+    "nombre": "Ofertas de Amazon",
+    "descripcion": "Errores de precio, ofertas y cupones en Amazon. Canal afiliado oficial del programa Amazon EU.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/amazon_ofertas_es",
+    "miembros": 15000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-06"
+  },
+  {
+    "slug": "chollos-colombia",
+    "nombre": "Chollos y Ofertas Colombia",
+    "descripcion": "Ofertas de Falabella, Éxito, Alkosto y MercadoLibre Colombia. Muy activo en Black Friday y Día sin IVA.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "colombia",
+    "link": "https://t.me/chollosco",
+    "miembros": 14500,
+    "verificado": true,
+    "fechaAgregado": "2026-02-01"
+  },
+  {
+    "slug": "cholloschina",
+    "nombre": "CholloChina - Chollos y Ofertas",
+    "descripcion": "Rastreamos las mejores ofertas solo en tiendas confiables. Afiliado de Amazon oficial.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/cholloschina",
+    "miembros": 12000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "topes-de-gama",
+    "nombre": "Topes de Gama",
+    "descripcion": "Comparativas y ofertas de smartphones. Encuentra el mejor precio en comprasmartphone.com.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/topesdegama",
+    "miembros": 9500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "chollos-amazon-aliexpress",
+    "nombre": "CHOLLOS Amazon y AliExpress",
+    "descripcion": "Los mejores chollos de tecnología de las web chinas, AliExpress y Amazon. Ofertas y cupones de descuento diarios. Web: ofertasendirecto.es",
+    "categoria": "ofertas-y-chollos",
+    "pais": "",
+    "link": "https://t.me/aliexpresschollos",
+    "miembros": 8500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-07"
+  },
+  {
+    "slug": "xataka",
+    "nombre": "Xataka",
+    "descripcion": "Apasionados por la tecnología. Canal oficial de Xataka con las últimas noticias tech.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/xataka",
+    "miembros": 30000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "inteligencia-artificial-espanol",
+    "nombre": "Inteligencia Artificial Español",
+    "descripcion": "Papers, uso de LLMs en producto, tooling (LangChain, agents, RAG), prompt engineering. Comunidad en explosión.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/iaenespanol",
+    "miembros": 26000,
+    "verificado": true,
+    "fechaAgregado": "2026-01-25"
+  },
+  {
+    "slug": "python-latam",
+    "nombre": "Python LatAm",
+    "descripcion": "Django, FastAPI, Flask, scripts y automatización. Refugio para data engineers y quienes automatizan procesos.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/pythonlatam",
+    "miembros": 20500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-13"
+  },
+  {
+    "slug": "programacion-desde-cero",
+    "nombre": "Programación desde Cero",
+    "descripcion": "Para quien empieza. Ambiente paciente, sin gatekeeping. Preguntas básicas bienvenidas y admins moderan la toxicidad.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/programaciondesdecero",
+    "miembros": 18500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-29"
+  },
+  {
+    "slug": "genbeta",
+    "nombre": "Genbeta",
+    "descripcion": "Software, descargas y novedades. Las mejores aplicaciones web con trucos útiles y toda la información.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/genbeta",
+    "miembros": 18000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "javascript-hispano",
+    "nombre": "JavaScript Hispano",
+    "descripcion": "Vanilla JS, TypeScript, Node, Bun. Debate técnico sobre patrones, rendimiento y frameworks emergentes.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/javascripthispano",
+    "miembros": 15500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-04"
+  },
+  {
+    "slug": "applesfera",
+    "nombre": "Applesfera",
+    "descripcion": "Todo sobre el mundo Apple: iPhone, iPad, Mac, Watch, tvOS y ecosistema iOS.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/applesferaa",
+    "miembros": 15000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "ciberseguridad-espanol",
+    "nombre": "Ciberseguridad Español",
+    "descripcion": "Bug bounty, pentesting, CTFs, actualizaciones de vulnerabilidades. Ambiente serio y profesional.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/ciberseguridad_es",
+    "miembros": 12000,
+    "verificado": true,
+    "fechaAgregado": "2026-02-03"
+  },
+  {
+    "slug": "react-en-espanol",
+    "nombre": "React en Español",
+    "descripcion": "Todo el ecosistema React: Next.js, Remix, React Native, Server Components. Muy activo en releases.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/reactespanol",
+    "miembros": 11500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-09"
+  },
+  {
+    "slug": "data-science-ml-espanol",
+    "nombre": "Data Science y ML Español",
+    "descripcion": "Machine learning, deep learning, MLOps, papers recientes. Nivel medio-alto, se asume base en estadística.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/datascienceml_es",
+    "miembros": 9200,
+    "verificado": true,
+    "fechaAgregado": "2026-01-17"
+  },
+  {
+    "slug": "devops-en-espanol",
+    "nombre": "DevOps en Español",
+    "descripcion": "Kubernetes, Docker, Terraform, CI/CD, GitOps. SREs compartiendo experiencias de producción y postmortems.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/devopsenespanol",
+    "miembros": 8500,
+    "verificado": true,
+    "fechaAgregado": "2026-01-21"
+  },
+  {
+    "slug": "thegoodhacker",
+    "nombre": "TheGoodHacker - Hacking en Español",
+    "descripcion": "Comunidad de TheGoodhacker sobre hacking ético, ciberseguridad y CTFs. Canal de YouTube y directos en Twitch.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/thegoodhacker",
+    "miembros": 2733,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "3d-printing",
+    "nombre": "3D Printing",
+    "descripcion": "Comunidad internacional sobre impresión 3D e impresoras 3D. Discusión técnica, no ROMs ni STLs.",
+    "categoria": "programacion",
+    "pais": "",
+    "link": "https://t.me/Print3D_Group",
+    "miembros": 1872,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "series-recomendaciones",
     "nombre": "Series Recomendaciones",
     "descripcion": "Debates de estrenos, recomendaciones por género y comunidad para maratones sincronizados. Sin piratería.",
@@ -721,14 +1012,47 @@
     "fechaAgregado": "2026-02-06"
   },
   {
-    "slug": "estudiantes-universitarios-latam",
-    "nombre": "Estudiantes Universitarios LatAm",
-    "descripcion": "Apuntes compartidos, exámenes, resúmenes y ayuda entre estudiantes de carreras universitarias.",
-    "categoria": "estudios-y-universidad",
-    "pais": "",
-    "link": "https://t.me/universitarioslatam",
-    "miembros": 27500,
+    "slug": "viajeros-mochileros-latam",
+    "nombre": "Viajeros Mochileros LatAm",
+    "descripcion": "Tips de rutas, hostales baratos, vuelos y experiencias de viajeros mochileros por toda LatAm.",
+    "categoria": "viajes",
+    "pais": "argentina",
+    "link": "https://t.me/viajerosmochileros",
+    "miembros": 16500,
     "verificado": true,
-    "fechaAgregado": "2026-02-10"
+    "fechaAgregado": "2026-01-17"
+  },
+  {
+    "slug": "exprime-viajes",
+    "nombre": "Exprime Viajes",
+    "descripcion": "Tarifas error, las mejores ofertas de vuelos y hoteles para viajar barato.",
+    "categoria": "viajes",
+    "pais": "",
+    "link": "https://t.me/exprimeviajes_ofertas",
+    "miembros": 14000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "holidayguru",
+    "nombre": "Holidayguru - Ofertas de viajes",
+    "descripcion": "Las mejores ofertas de vuelos, hoteles y circuitos por holidayguru.es. Escapadas y viajes baratos.",
+    "categoria": "viajes",
+    "pais": "",
+    "link": "https://t.me/holidayguruES",
+    "miembros": 11500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "viajes-baratos",
+    "nombre": "Viajes baratos - Chollos y ofertas",
+    "descripcion": "Viajes internacionales, escapadas de fin de semana y descuentos en vuelos. Todo en un solo lugar.",
+    "categoria": "viajes",
+    "pais": "",
+    "link": "https://t.me/escapadabarata",
+    "miembros": 8500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
   }
 ]
