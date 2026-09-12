@@ -171,6 +171,65 @@ Importante seguir la regulación local. En España, cripto está regulado por el
 - **Ignorar novedades relevantes**: pierdes ventajas competitivas si eres creador.
 - **Adoptar sin propósito**: no todas las novedades sirven a tu caso.
 
+## Impacto para admins de comunidades
+
+Las novedades 2026 tienen implicaciones directas para quien gestiona grupos y canales:
+
+- **Stars como micropago**: puedes empezar a cobrar por posts sueltos sin infraestructura externa.
+- **Ads consolidado**: ingreso pasivo si tu canal tiene 1.000+ suscriptores.
+- **Topics avanzados**: reorganiza tu supergrupo en secciones sin fragmentar comunidad.
+- **Business plan**: si atiendes clientes vía Telegram, saludos automáticos y horarios mejoran percepción.
+- **Analytics mejorados**: decisiones editoriales con datos, no intuición.
+
+Complementa con [cómo administrar un grupo grande](/blog/como-administrar-grupo-telegram-grande).
+
+## Impacto para creadores de contenido
+
+- **Menos dependencia de plataformas externas** (Stripe, Substack) para monetizar.
+- **Mini-apps** para juegos, tests, calculadoras propias integradas.
+- **Storys ampliadas**: canal secundario de engagement.
+- **Video-podcasts nativos**: alternativa a subir a YouTube.
+- **Traducción en tiempo real** para audiencias multilingües.
+
+Ver [cómo monetizar un canal](/blog/como-monetizar-canal-telegram) para monetización práctica.
+
+## Impacto para usuarios finales
+
+- **Menos anuncios**: si eres Premium.
+- **Más funcionalidades gratuitas**: Telegram sigue ampliando gratis mucho de lo que otras cobran.
+- **Ecosistema mini-apps**: menos apps instaladas, más dentro de Telegram.
+- **Traducción**: menos fricción para conversar con extranjeros.
+- **Privacidad granular**: control real sobre qué comparte tu perfil.
+
+## Riesgos y críticas al roadmap
+
+No todo es positivo. Voces críticas destacan:
+
+- **Complejidad creciente**: la app cada vez tiene más funciones difíciles de descubrir.
+- **Cripto y regulación**: la integración con TON puede complicar cumplimiento legal en algunos países.
+- **Fragmentación premium/free**: cada vez más funciones detrás de Premium.
+- **Concentración de decisiones**: Pavel Durov como decisor único.
+- **Rendimiento en móviles antiguos**: la app pesa más y más.
+
+## Timeline previsto por Telegram
+
+Roadmap oficial (basado en anuncios y beta releases 2026):
+
+- **Q1 2026**: mejora sistema de Topics, más granularidad en privacidad.
+- **Q2 2026**: expansión de mini-apps, marketplace mejorado.
+- **Q3 2026**: features de video-podcast, colaboración en vivo.
+- **Q4 2026**: preparación para lanzamientos 2027, mejoras de estabilidad y rendimiento.
+
+## Cómo prepararte para novedades
+
+Como admin o creador, actitud sana:
+
+1. Suscríbete a @durov y @telegram para anuncios oficiales.
+2. Prueba beta apps si eres power user.
+3. No adoptes cada novedad automáticamente: evalúa impacto en tu comunidad.
+4. Comunica cambios relevantes a tu audiencia.
+5. Actualiza fijados con nuevas funciones cuando las adoptas.
+
 ## Recursos complementarios
 
 - [Alternativas a WhatsApp](/blog/alternativas-a-whatsapp-por-que-elegir-telegram)

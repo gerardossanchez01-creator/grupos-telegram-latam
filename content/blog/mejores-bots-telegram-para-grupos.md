@@ -142,6 +142,56 @@ Puente entre Telegram y cientos de apps. Automatiza flujos entre calendarios, fo
 | GroupHelp | Filtros de contenido | Baja |
 | Daysandbox | Usuarios nuevos | Muy baja |
 
+## Cómo evaluar un bot antes de añadirlo
+
+Antes de conceder permisos, verifica:
+
+- **Antigüedad**: bots con años de historia son más seguros.
+- **Reputación en comunidad**: menciones positivas en grupos de admins.
+- **Última actualización**: si lleva 12+ meses sin cambios, riesgo de que el creador lo abandone.
+- **Política de datos**: ¿guarda mensajes? ¿los procesa fuera de Telegram?
+- **Fuente abierta o cerrada**: bots open source son auditables.
+- **Modo test**: pruébalo en un grupo secundario antes de meterlo en el principal.
+
+## Comandos útiles por tipo de bot
+
+### Rose (@MissRose_bot)
+- `/warn @usuario razón`
+- `/mute @usuario tiempo`
+- `/notes` para lista de notas guardadas
+- `/filter palabra respuesta`
+- `/rules` fija reglas
+- `/welcome on/off`
+
+### Combot
+- `/stats` para stats del día
+- `/report` para reportar spam
+
+### Shieldy
+- `/setCaptcha` para elegir tipo
+- `/setLanguage es` para español
+
+## Bots peligrosos a evitar
+
+En 2026 existen bots maliciosos que hay que descartar:
+
+- **Bots que piden permisos totales** sin justificación clara.
+- **Bots recién creados** con menos de 3 meses y sin comunidad.
+- **Bots de "aumentar miembros"**: son granja de fake.
+- **Bots que ofrecen "hackear" o "espiar"**: pura estafa.
+- **Bots con dominio raro** en su web asociada.
+
+## Reemplazo cuando un bot cae
+
+Si un bot que usabas deja de funcionar:
+
+1. Verifica en su canal oficial si está en mantenimiento o abandonado.
+2. Documenta la configuración actual (screenshots).
+3. Elige alternativa del mismo tipo (por ejemplo, Rose ↔ MissRose, Shieldy ↔ Captcha bots similares).
+4. Testea en grupo secundario primero.
+5. Migra config y elimina el bot antiguo.
+6. Comunica al equipo el cambio.
+
 ## Recursos complementarios
 
 - [Bots antispam imprescindibles](/blog/bots-antispam-telegram-imprescindibles)

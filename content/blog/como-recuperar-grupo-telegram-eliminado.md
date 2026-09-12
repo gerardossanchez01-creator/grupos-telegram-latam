@@ -139,6 +139,68 @@ Si la recuperación no es viable, crea uno nuevo lo antes posible antes de que l
 | Suspendido por Telegram | Solo con apelación exitosa |
 | Grupo con 0 admins activos por meses | Sigue existiendo, pero sin control |
 
+## Plantilla de mensaje a soporte de Telegram
+
+Si intentas apelar a Telegram, la solicitud debe ser específica y bien documentada:
+
+```
+Asunto: Recuperación grupo eliminado accidentalmente
+
+Hola,
+
+Soy propietario del grupo/canal @[nombre] (aproximadamente [X.000] miembros) que fue eliminado el [fecha y hora aprox UTC].
+
+La eliminación fue [accidental / debida a hackeo de mi cuenta / etc.]. Puedo aportar:
+- Capturas de pantalla del grupo previo
+- Datos técnicos (mi @usuario, ID de Telegram)
+- Contactos de admins secundarios que pueden corroborar
+- [otras pruebas si tienes]
+
+Solicito valorar la restauración del grupo o al menos preservación del @usuario para no perder tráfico redireccionado.
+
+Muchas gracias,
+[Nombre + contacto]
+```
+
+Envía a `support@telegram.org` y espera 2-4 semanas. Respuesta no garantizada.
+
+## Reconstrucción a nivel comunicativo
+
+Tras la pérdida, tu prioridad es reunificar a la comunidad rápido. Estrategia:
+
+1. **Nuevo grupo en menos de 24h**: aprovecha atención residual.
+2. **Enlace masivo por email/DM** a miembros que tenías registrados.
+3. **Anuncio público** en tus otras redes sociales.
+4. **Post en Reddit**, foros del nicho, otras comunidades hispanas.
+5. **Colaboraciones con canales aliados**: pídeles que mencionen tu nuevo grupo.
+6. **Publicación en el directorio nuestro y en otros**: [súbelo aquí](/anadir-grupo).
+
+En 2-3 semanas puedes recuperar 50-70% de miembros si tenías comunidad real.
+
+## Rutina mensual de resiliencia
+
+Como propietario responsable, dedica 30 minutos al mes a:
+
+1. Exportar el chat completo (Telegram Desktop).
+2. Revisar sesiones activas de tu cuenta (Ajustes → Dispositivos).
+3. Confirmar 2FA activo.
+4. Verificar admins actuales y sus permisos.
+5. Guardar enlace de invitación en gestor de contraseñas.
+6. Actualizar contactos de emergencia (segundo owner, admin senior).
+
+30 minutos que evitan tragedias.
+
+## Comunicación post-crisis
+
+Nunca ocultes el incidente. Comunica transparente:
+
+- Qué pasó (sin culpar a nadie sin pruebas).
+- Qué se hizo para intentar recuperar.
+- Cómo evitarás que vuelva a ocurrir.
+- Cómo pueden ayudar los miembros a reconstruir.
+
+Los seguidores valoran honestidad. Ocultar solo genera especulación.
+
 ## Recursos complementarios
 
 - [Cómo crear un grupo de Telegram](/blog/como-crear-grupo-telegram)

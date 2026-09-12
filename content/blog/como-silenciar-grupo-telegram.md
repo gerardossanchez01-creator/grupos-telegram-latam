@@ -140,6 +140,57 @@ Truco útil: en horario laboral, silencia solo en el móvil y deja escritorio ac
 - **Gamer competitivo**: silencia todo excepto tu equipo. Ver [grupos de gaming](/categoria/gaming).
 - **Freelance en cripto**: silencia canales de noticias y deja activas menciones en grupos de trabajo. Ver [criptomonedas](/categoria/criptomonedas).
 
+## Silencio + carpetas: el sistema completo
+
+Combinar carpetas y silencio da control granular real. Ejemplo de setup:
+
+- **Carpeta Familia**: notificaciones activas 24/7 con sonido.
+- **Carpeta Trabajo**: activas L-V 9-18h, silencio el resto.
+- **Carpeta Comunidades**: silenciadas siempre, revisar por lotes 2 veces al día.
+- **Carpeta Canales**: silenciados, revisar 1 vez al día.
+- **Carpeta Cazador de ofertas**: silenciados con excepción por producto ("PS5", "iPhone").
+- **Carpeta Archivo**: chats que no borras pero no ves.
+
+Con este sistema, en móvil solo vibra lo verdaderamente importante y tienes acceso ordenado a todo el resto cuando decidas mirar.
+
+## Silencio en Watch (Apple Watch, Wear OS)
+
+Muchos usuarios olvidan configurar silencio en el reloj:
+
+- **Apple Watch**: Ajustes reloj → Notificaciones → Telegram → refleja iPhone o personaliza.
+- **Wear OS**: la app Telegram del reloj hereda configuración del móvil pero permite override.
+
+Si silencias en móvil pero no en reloj, sigues recibiendo pulsaciones. Coordina ambos.
+
+## Notificaciones por chat individual dentro del grupo
+
+En algunos casos quieres saber cuando **una persona concreta** escribe en un grupo silenciado. Truco:
+
+1. Silencia el grupo entero.
+2. Personalizar notificaciones → Excepciones.
+3. Añade el @usuario específico como excepción.
+
+Ahora solo esa persona te dispara notificación en ese grupo.
+
+## Cómo salir del hábito de revisar Telegram
+
+Silenciar es la primera capa. La segunda es reducir el impulso de revisar:
+
+- **Mueve el icono** de Telegram fuera de la pantalla principal.
+- **Desactiva badges** (puntitos rojos con conteo).
+- **Sesión programada**: 10 min a las 9, 14 y 20h. Fuera de eso no abres.
+- **Modo No Molestar** durante horas de trabajo profundo.
+- **Reto de 7 días sin abrir**: comprueba cuánto te desengancha.
+
+## Debug de notificaciones que no llegan
+
+Si silenciaste algo y aún así te llegan avisos:
+
+1. Verifica que silenciaste la conversación correcta.
+2. Revisa carpeta: puede que la carpeta tenga override.
+3. En Android: Ajustes sistema → Apps → Telegram → Notificaciones. Prioridad puede estar en alta.
+4. Reinstala si nada funciona.
+
 ## Recursos complementarios
 
 - [Cómo salir de un grupo sin que se note](/blog/como-salir-grupo-telegram-sin-que-se-note)

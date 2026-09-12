@@ -165,6 +165,72 @@ Encuentra opciones adicionales en [grupos de empleo remoto](/categoria/empleo-y-
 - **Coolors / Adobe Color**: paletas.
 - **Notion / Miro**: para diseño colaborativo y research.
 
+## Cómo crear un portfolio que impresione en el grupo
+
+Muchos diseñadores publican portfolio en los grupos buscando feedback o trabajo. Buenas prácticas:
+
+- **Máximo 6-8 proyectos**, no 40. Calidad > cantidad.
+- **Cada proyecto con contexto**: cliente, problema, solución, aprendizaje.
+- **Muestra proceso**, no solo resultado final: bocetos, wireframes, iteraciones.
+- **Mockups realistas**, no cliché de tienda de ilustración.
+- **Contactabilidad clara**: email, LinkedIn, calendar.
+- **Móvil-first**: la mayoría de miembros ve desde móvil.
+
+## Tendencias de diseño 2026
+
+Los grupos activos debaten estas tendencias:
+
+- **Diseños brutalistas y crudos**: reacción contra la homogeneización.
+- **Iconografía custom por marca**: sistemas propios en vez de librerías.
+- **Motion como estándar** en producto digital.
+- **IA generativa como asistente**, no como sustituto.
+- **Design tokens** normalizados entre stack.
+- **Sistemas de diseño accesibles** desde el día 1 (WCAG 2.2+).
+- **Tipografías variables** por defecto.
+- **3D integrado** en interfaces web y móviles.
+
+## Precios freelance por especialidad (referencia hispana)
+
+Rango indicativo 2026 en LatAm y España:
+
+- **Logo simple**: 300-1.500€.
+- **Branding completo**: 2.000-15.000€.
+- **Landing page**: 800-5.000€.
+- **UX Research (proyecto)**: 3.000-12.000€.
+- **Design system**: 8.000-40.000€.
+- **UX/UI mensual (equity partial o retainer)**: 2.000-8.000€/mes.
+- **Ilustración editorial**: 100-800€/pieza.
+- **Motion 30 seg**: 500-3.000€.
+
+Rangos amplios porque dependen mucho de país, portfolio y cliente. Los grupos son referencia útil para calibrar.
+
+## Comunidades internacionales relevantes
+
+Además de las hispanas, muchos profesionales están en:
+
+- **Designer Hangout (Slack)**: no Telegram pero mainstream.
+- **Interaction Design Foundation (IDF)**: cursos + comunidad.
+- **UX Mastery**.
+- **AIGA Chapters** locales.
+
+## Certificaciones y formación reconocida
+
+En 2026 las certificaciones más valoradas en grupos de diseño:
+
+- **Google UX Design Certificate** (Coursera).
+- **NN/g UX Certification** (referencia académica).
+- **Interaction Design Foundation Master Class**.
+- **Bootcamps: Ironhack, Le Wagon, Barcelona Code School**.
+- **Cursos oficiales de Figma** (community).
+
+## Errores específicos por especialidad
+
+- **Ilustradores**: subir 200 dibujos, ninguno con concepto claro.
+- **UX/UI**: mostrar pantallas sin problema resuelto.
+- **Motion**: publicar sin sonido y sin explicar el brief.
+- **Branding**: mostrar logo aislado sin sistema completo.
+- **Tipografía**: presumir sin uso real en contexto.
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos por tema](/blog/como-buscar-grupos-de-telegram)

@@ -161,6 +161,72 @@ Si detectas un nicho sin comunidad activa, crear el tuyo puede ser oportunidad:
 - **Figma**: diseño colaborativo.
 - **Loom**: pitch asíncrono.
 
+## Framework para presentar tu proyecto
+
+Cuando entres a un grupo activo, un buen mensaje de presentación sube mucho la respuesta:
+
+```
+Hola a todos, soy [nombre].
+
+Actualmente estoy construyendo [proyecto en una frase].
+
+Métrica actual: [MRR, usuarios, tracción].
+Etapa: [idea / MVP / PMF / escalando].
+Necesito ayuda con: [problema concreto].
+Puedo ayudar con: [tu especialidad].
+```
+
+Mensajes largos con historia personal aburren. Concreción gana.
+
+## Aceleradoras y programas relevantes hispanos
+
+Los grupos suelen debatir estas opciones cuando alguien menciona conseguir fondos o mentoría:
+
+- **Y Combinator**: la referencia global, entran pocos hispanos pero los que entran cambian de nivel.
+- **Techstars**: presencia en varias ciudades hispanas.
+- **500 Global**: activos en LatAm.
+- **Wayra** (Telefónica): red hispana amplia.
+- **Startup Chile**: seed grant para instalarse en Chile.
+- **Endeavor**: comunidad de founders escalados en LatAm y España.
+- **Ruta N** (Medellín).
+- **Lanzadera** (Valencia, España).
+- **Barcelona Tech City** ecosistema.
+
+## Costes ocultos de emprender que se debaten en los grupos
+
+- **Fiscal y contable**: 100-500€/mes según país y complejidad.
+- **Legal (SL en España, LLC en LatAm)**: 500-2.500€ constitución + 100-300€/mes.
+- **Herramientas SaaS**: 200-1.500€/mes fácil incluso en early stage.
+- **Seguros y responsabilidades**: 500-3.000€/año.
+- **Marketing pre-lanzamiento**: variable, pero rara vez menos de 500€/mes.
+- **Salarios mínimos si contratas** (aunque sea part-time o freelance).
+
+Los grupos ayudan a calibrar estos costes según país.
+
+## Tiempo hasta rentabilidad realista
+
+Datos típicos que se debaten:
+
+- **Consultoría / servicios**: rentabilidad en 3-6 meses si sabes vender.
+- **Agencia**: 12-18 meses hasta perfil rentable.
+- **SaaS bootstrapped**: 18-36 meses hasta MRR sostenible.
+- **Ecommerce DTC**: 6-12 meses hasta MER > 3.
+- **Contenido/creator**: 12-24 meses hasta ingresos diversificados.
+
+Números aproximados y variables por nicho, pero orientan expectativas.
+
+## Cómo detectar burnout de fundador
+
+Los grupos ayudan porque otros founders reconocen señales:
+
+- Trabajar más horas y avanzar menos.
+- Perder motivación por victorias que antes celebrabas.
+- Aislamiento social creciente.
+- Salud (sueño, ejercicio, alimentación) descuidada.
+- Irritabilidad con el equipo o socios.
+
+Combate: días off obligatorios, límites de horario, actividades no relacionadas con el proyecto, terapia si es necesario.
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos por tema](/blog/como-buscar-grupos-de-telegram)

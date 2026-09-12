@@ -176,6 +176,79 @@ Profesor y analista con canal propio de reflexiones diarias sobre tech y socieda
 
 Muchos medios tienen ambos: canal oficial + grupo de discusión vinculado. Recomendamos suscribirte al canal y unirte al grupo si te interesa debatir.
 
+## Cómo combinar canales tech con newsletters
+
+Un buen setup para estar informado sin abrir 20 pestañas:
+
+- **Canales de Telegram** (30-40 min/día): titulares y noticias urgentes.
+- **Newsletters semanales** (30 min/semana): análisis en profundidad.
+- **Podcasts tech** (mientras trabajas o vas al gimnasio).
+- **Feedly o Feedbin RSS**: reserva para autores sin canal.
+
+Con esto cubres 90% del sector sin fatiga informativa.
+
+## Perfiles tech españoles a seguir
+
+Además de los canales de medios, muchos periodistas tech españoles tienen presencia relevante:
+
+- **Iván Ramírez** (Xataka Móvil): análisis Android.
+- **Marcos Merino** (Genbeta): opinión tecnológica.
+- **Eduardo Archanco** (Applesfera): universo Apple.
+- **David Álvarez** (varios medios): opinión y análisis de tendencias.
+- **Antonio Ortiz** (Error 500): reflexión tech desde perspectiva sénior.
+- **Enrique Dans** (canal propio): análisis crossover entre tech y sociedad.
+
+## Cómo diferenciar noticia real de nota de prensa
+
+Los canales de medios publican mucho, pero no todo tiene el mismo valor:
+
+- **Nota de prensa disfrazada**: si el post parece anuncio y no crítica, sospecha.
+- **Análisis genuino**: incluye pros, contras y comparativa con alternativas.
+- **Rumor sin confirmar**: se etiqueta como "rumores dicen..." o "supuestamente".
+- **Filtración real**: fuentes citadas, evidencia técnica.
+- **Opinión personal**: firmada, con contexto de por qué la firma esa persona opina así.
+
+Aprender a distinguir ahorra tiempo y evita comprar productos hypeados sin fundamento.
+
+## Formato de contenido tech ideal
+
+Los canales tech españoles que mejor funcionan combinan varios formatos:
+
+- **Titular + resumen 2-3 líneas + enlace** (para consumo rápido).
+- **Análisis largo semanal** (5-10 min de lectura).
+- **Videos cortos** (30-60 segundos, formato TikTok / Shorts).
+- **Streams en directo** para lanzamientos importantes (WWDC, Google I/O, MWC).
+- **Podcasts** referenciados en canal con timestamps clave.
+- **Ofertas puntuales** con verificación de precio histórico.
+
+Un canal que solo publica titulares con enlace pierde engagement; uno que solo publica análisis largos pierde velocidad. El equilibrio importa.
+
+## Eventos tech españoles a seguir
+
+Los canales cubren en profundidad:
+
+- **MWC Barcelona** (febrero-marzo): mayor evento móvil del mundo.
+- **South Summit Madrid** (junio): startups y emprendimiento.
+- **OMExpo** (marzo): marketing digital.
+- **Bit&Byte** (noviembre): retail tech.
+- **AWS Summit Madrid** (mayo): cloud.
+- **DevOpsDays** varias ciudades.
+- **PyConES** (Python España).
+- **Codemotion Madrid**.
+
+Suscribirse a los canales relevantes 2 semanas antes te da actualización granular sin viajar.
+
+## Alertas de precio y ofertas tech
+
+Muchos canales tech incluyen sección de ofertas. Combínalos con:
+
+- **Chollos Tecnología** (canal específico).
+- **Amazon Errores de Precio**.
+- **PcComponentes ofertas**.
+- **Chollometro** con excepción por productos tech.
+
+Ver [ofertas Amazon España](/blog/grupos-telegram-ofertas-espana-amazon) para todo el flujo.
+
 ## Recursos complementarios
 
 - [Grupos de España](/blog/mejores-grupos-telegram-espana)

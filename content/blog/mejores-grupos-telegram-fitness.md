@@ -171,6 +171,68 @@ Muchos usuarios reportan estos setups:
 - **Insight Timer / Calm**: meditación guiada.
 - **Cronometer**: micronutrientes.
 
+## Cómo detectar contenido dudoso
+
+Señales de que un grupo o miembro promueve pseudociencia:
+
+- Habla de "toxinas" sin definir cuáles.
+- Recomienda "detoxes" o "limpiezas" milagrosas.
+- Dice que hay una fórmula que funciona para todos.
+- Promociona un suplemento como cura de múltiples problemas.
+- Rechaza medicina convencional en bloque.
+- Cita "estudios" sin enlace ni revisión.
+- El "experto" tiene formación sospechosa o inexistente.
+
+Un grupo serio filtra estos perfiles rápido.
+
+## Protocolos que sí funcionan (con evidencia)
+
+- **Sobrecarga progresiva** en fuerza.
+- **Frecuencia 2-3 estímulos/semana por grupo muscular** para hipertrofia.
+- **Volumen aproximado 10-20 series/semana por grupo muscular**.
+- **Superávit calórico 200-500 kcal para ganar masa**.
+- **Déficit calórico 300-500 kcal para perder grasa**.
+- **1,6-2,2 g proteína/kg peso corporal**.
+- **7-9h de sueño**.
+- **Cardio zona 2** para base aeróbica + HIIT ocasional.
+- **Movilidad y flexibilidad** como complemento.
+
+Los grupos serios validan estas bases y personalizan según caso.
+
+## Cómo elegir suplementación con criterio
+
+Solo estos suplementos tienen evidencia sólida en la mayoría de casos:
+
+- **Creatina** (3-5 g/día): más estudiado que la mayoría de medicamentos.
+- **Proteína en polvo**: si no llegas por comida.
+- **Vitamina D3** en climas con poco sol.
+- **Omega 3** si comes poco pescado azul.
+- **Magnesio** si haces mucho deporte.
+- **Cafeína** como pre-entreno.
+
+Todo lo demás (BCAAs, quemadores, fat-burners, testosterona-boosters) suele ser marketing. Los grupos serios lo saben.
+
+## Adherencia como métrica principal
+
+En fitness lo que gana no es el plan perfecto, sino el que sigues meses. Adherencia > optimización. Los grupos ayudan porque:
+
+- **Reporte semanal público** genera compromiso.
+- **Otros esperan tu update** y no quieres fallar.
+- **Consejos ajustan cuando aparece plateau**.
+- **Celebración de pequeños hitos**.
+
+## Cómo trabajar con un profesional en paralelo
+
+Los grupos complementan pero no reemplazan:
+
+- **Entrenador presencial**: al menos 1-2 sesiones para corregir técnica base.
+- **Nutricionista colegiado**: si el objetivo es serio o hay condición médica.
+- **Fisioterapeuta**: al primer signo de lesión, no cuando ya duele mucho.
+- **Médico deportivo**: cada 1-2 años si haces deporte competitivo.
+- **Psicólogo**: si hay trastorno alimentario o obsesión.
+
+Los grupos ayudan a encontrar profesionales recomendados por otros usuarios.
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos por tema](/blog/como-buscar-grupos-de-telegram)

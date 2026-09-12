@@ -191,6 +191,62 @@ Rutas menos turísticas, senderismo, festivales, gastronomía regional.
 - **Difundir spam**: baneo inmediato.
 - **Compartir enlaces de referido sin contexto**: se ve como comisión, no aporte.
 
+## Comunidades por comunidad autónoma
+
+Además de grandes ciudades, hay comunidades regionales importantes:
+
+- **Andalucía**: Sevilla, Málaga (auge nómada digital), Granada, Córdoba.
+- **Cataluña**: Barcelona + Tarragona, Girona, Lleida.
+- **Comunidad Valenciana**: Valencia, Alicante, Castellón. Ojo con el idioma (castellano/valenciano mezcla).
+- **Galicia**: A Coruña, Vigo, Santiago. Comunidad en gallego + castellano.
+- **País Vasco**: Bilbao, Donostia. Bilingüe euskera-castellano.
+- **Madrid comunidad**: sierra, Alcalá, Getafe además de capital.
+- **Canarias y Baleares**: comunidades específicas con temas propios (turismo, residencia).
+- **Asturias, Cantabria, Aragón, Navarra, La Rioja, Extremadura, Murcia, Castilla-La Mancha, Castilla y León**: cada una con grupos regionales.
+
+## Grupos según situación vital
+
+- **Estudiante universitario**: por universidad (UAM, UCM, UB, UGR, US, UAB, UPV, etc.).
+- **Recién graduado**: primeros empleos, prácticas, oposiciones.
+- **Autónomo/freelance**: fiscalidad, cuota autónomo, TA.5.
+- **Empleado por cuenta ajena**: derechos laborales, ERE, subida IPC.
+- **Prejubilado o desempleado**: SEPE, prestaciones, formación bonificada.
+- **Migrante en España**: NIE, empadronamiento, homologación de títulos.
+- **Padre/madre**: colegios, pediatría, ayudas familia.
+- **Jubilado**: pensión, salud, ocio.
+
+## Legislación relevante que se debate en los grupos
+
+- **Ley Rider** (mensajería).
+- **Ley Trans** (impacto trabajo).
+- **Ley Startups** (visado nómada, exenciones fiscales).
+- **Modelo 720 y 721** (declaración bienes extranjeros y cripto).
+- **Nuevos tramos autónomos** cuota progresiva.
+- **Alquiler zonas tensionadas** (Ley Vivienda).
+- **Reformas laborales**: convenios sectoriales.
+
+Los grupos son excelente barómetro de cómo afecta cada normativa a distintos perfiles.
+
+## Festivales y eventos que activan los grupos
+
+Los grupos españoles suben actividad cuando ocurren estos eventos:
+
+- **Mad Cool y Primavera Sound**: junio.
+- **Sónar**: junio.
+- **Cine (San Sebastián, Málaga)**: septiembre y marzo.
+- **Feria del Libro Madrid**: junio.
+- **Semana Santa**: escapadas y planes por toda España.
+- **Navidad y Reyes**: shopping, planes familiares.
+
+## Cultura de "cuñado" y cómo evitarla
+
+Un cliché de los grupos españoles es el "opinador sin datos". Estrategia para grupos serios:
+
+- **Regla del dato**: cualquier afirmación grande, con enlace o fuente.
+- **Cuñadismo se llama por nombre**: los admins cortan sin castigo.
+- **Respeto al debate**: opinar sin insultar.
+- **Off-topic controlado**: sí a espacio para chascarrillos, no a hilos técnicos secuestrados.
+
 ## Recursos complementarios
 
 - [Grupos de Madrid](/blog/grupos-telegram-madrid)

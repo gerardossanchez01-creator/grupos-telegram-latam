@@ -182,6 +182,38 @@ Los grupos de "Recién Llegados Barcelona" y "Latinos en Barcelona" cubren repet
 - **Banca**: BBVA, CaixaBank, Sabadell, o neobancos (N26, Revolut) para arrancar rápido.
 - **Transporte T-Casual, T-Usual**: comparativa según uso mensual.
 
+## Playas y salidas cercanas
+
+Barcelona es de las pocas capitales europeas con playa urbana. Los grupos coordinan constantemente:
+
+- Salidas rápidas a Barceloneta, Bogatell y Nova Icària.
+- Escapadas a Costa Brava (Cadaqués, Palamós, Tossa de Mar).
+- Rutas por Sitges y Garraf.
+- Escapadas montañeras a Montseny, Pirineos, Cadí-Moixeró.
+- Excursiones enológicas a Penedès.
+- Vía verdes en bici (Girona, Olot).
+
+En verano hay salida semi-espontánea prácticamente cada fin de semana. Los grupos comparten quién lleva coche, quién necesita plaza, dónde encontrarse.
+
+## Vida gastronómica y planes de bares
+
+Barcelona es un paraíso gastronómico y varios grupos se especializan en curación culinaria: nuevas aperturas en Sant Antoni y Poblenou, bares de vermut clásicos en Gràcia, restaurantes con estrella Michelin, brunches de fin de semana, festivales gastronómicos como Tast a la Rambla o Alimentaria. Los grupos comparten reservas de última hora, ofertas de menú degustación y críticas antes de que aparezcan en la Guía Repsol o Michelin. Muy útil para no acabar en trampa de turistas.
+
+Hay también comunidades específicas: veganos, celíacos, restaurantes por presupuesto (menores de 15€, 30-50€, alta cocina), gastronomía catalana tradicional, cocina asiática auténtica (barrio chino, Poblenou), y opciones para grupos grandes. Encontrar dónde comer con 8 personas un sábado por la noche a las 22h es infinitamente más fácil consultando el grupo correcto que buscando en Google Maps.
+
+## Coworkings y espacios para digital nomads
+
+Comunidades reportan y comparan constantemente:
+
+- **Aticco**: red de coworkings en varias ubicaciones de la ciudad.
+- **OneCoWork**: opciones en Marina, Passeig de Gràcia, Plaza Cataluña.
+- **WeWork Passeig de Gràcia**: opción internacional consolidada.
+- **Cloudworks**: red barcelonesa con precios competitivos.
+- **Betahaus**: coworking tech muy activo, comunidad fuerte.
+- **La Vaca Coworking Poblenou**: alternativa creativa en 22@.
+
+Los grupos comparten códigos de descuento, tarifas por horas, dinámica de comunidad interna y qué coworking encaja mejor según perfil (freelance, founder, remoto para empresa extranjera).
+
 ## Comunidades tech destacadas
 
 Barcelona es hub tech europeo. Comunidades específicas:

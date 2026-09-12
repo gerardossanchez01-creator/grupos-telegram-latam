@@ -169,6 +169,59 @@ Cancelar no elimina Premium inmediatamente: sigues teniéndolo hasta fin del per
 - **Confiar en Premium** para monetizar sin haber crecido audiencia primero.
 - **Confundir Telegram Stars con Premium**: son productos distintos.
 
+## Comparativa con planes de otras apps
+
+- **WhatsApp Business (gratis)**: horarios, respuestas automáticas para negocios pequeños. Menos completo que Telegram Business.
+- **iCloud+ (Apple, 0,99-9,99€/mes)**: más almacenamiento y features Apple. Solo dentro del ecosistema.
+- **Google One (1,99-9,99€/mes)**: almacenamiento y features Google.
+- **Signal (gratis)**: sin planes de pago. Fundación sin ánimo de lucro.
+
+Telegram Premium se ubica en punto intermedio: más funcional que gratis, más económico que suites como Google Workspace.
+
+## Cuándo cancelar Premium
+
+- Tu uso de Telegram baja de 30 min/día durante 2 meses.
+- No has usado ninguna función Premium en 30 días.
+- Ya no admines canales activos.
+- Cambia tu situación económica y priorizas gastos.
+- Preferirías donar directamente a Telegram vía Stars.
+
+Cancela sin drama: vuelves a version gratis con toda tu historia intacta.
+
+## Impacto de Premium en el ecosistema
+
+Al ser Telegram autosostenible parcialmente por Premium + Ads + Stars, no necesita venderse a Meta u otro gigante. Cada suscriptor Premium contribuye a que la app siga siendo independiente.
+
+Muchos usuarios pagan Premium más por apoyo a la infraestructura que por las funciones concretas. Es una decisión personal legítima.
+
+## Preguntas frecuentes adicionales
+
+### ¿Puedo compartir cuenta Premium con otros?
+No oficialmente. Una cuenta = un usuario Premium.
+
+### ¿Se puede pagar con cripto?
+Sí: con Toncoin directamente, y por extensión con TON exchanges.
+
+### ¿Hay planes familiares?
+No hay plan familiar como Netflix. Cada cuenta debe pagar su Premium.
+
+### ¿Es mejor Premium por Google Play o por Toncoin?
+Google Play/Apple Store tienen 30% comisión que encarece. Pagando con Toncoin desde la app puedes ahorrar. Verifica precio en cada método.
+
+### ¿Me expira si no renuevo tarjeta?
+Sí. Sin renovación, vuelves a versión gratis automáticamente al final del período pagado.
+
+## Comparativa costo-beneficio por perfil
+
+| Perfil | Ahorro/beneficio mensual estimado | Recomendación |
+| --- | --- | --- |
+| Usuario casual | 0€ | No comprar |
+| Consumidor de canales activo | 5-10€ (menos ads, más canales) | Opcional |
+| Admin 1 canal | 20-50€ (stats, límites) | Sí |
+| Admin 3+ canales | 100-300€ (stats, ads) | Sí, muy claro |
+| Freelance archivos grandes | 30-100€ (tiempo ahorrado) | Sí |
+| Traductor / internacional | 20-60€ (traducción, cuentas) | Sí |
+
 ## Recursos complementarios
 
 - [Cómo monetizar un canal](/blog/como-monetizar-canal-telegram)

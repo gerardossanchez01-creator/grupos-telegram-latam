@@ -178,6 +178,25 @@ Los grupos de "Recién Llegados a Madrid" y "Latinos en Madrid" cubren repetidam
 - **Banca**: BBVA, CaixaBank, Santander, o neobancos (N26, Revolut) para arrancar rápido.
 - **Abono transportes**: cómo funciona, tramos por edad, descuentos jóvenes menores de 26.
 
+## Vida gastronómica y planes de tapeo
+
+Madrid es una de las capitales gastronómicas de Europa y varios grupos se especializan en curación: nuevas aperturas en Malasaña, Chueca y Salamanca, bares de tapeo clásicos en La Latina, restaurantes con estrella Michelin, brunches de fin de semana, festivales como Madrid Fusión o Gastrofestival. Los grupos comparten reservas de última hora y críticas honestas antes de que lleguen a las guías oficiales, muy útil para evitar trampas de turistas.
+
+Hay comunidades específicas: veganos y vegetarianos, celíacos, restaurantes por presupuesto, cocina castellana tradicional, cocina latinoamericana en Madrid, y opciones para grupos grandes. Encontrar dónde cenar con 10 personas un sábado a las 22h es mucho más fácil consultando el grupo adecuado.
+
+## Coworkings y espacios para nómadas
+
+Madrid tiene decenas de coworkings y los grupos comparan constantemente:
+
+- **Impact Hub**: Prosperidad, Piamonte, Barrio de las Letras.
+- **Utopicus**: red madrileña con múltiples ubicaciones.
+- **WeWork**: varias sedes en el centro y norte.
+- **Talent Garden**: enfoque tech en el Paseo del Prado.
+- **Loom House**: opciones flexibles en distintos barrios.
+- **Google for Startups Campus**: gratuito para founders con proyecto.
+
+Comparten códigos de descuento, tarifas por horas y qué coworking encaja según perfil.
+
 ## Comunidades tech destacadas
 
 Madrid es hub tech con muchas empresas grandes:

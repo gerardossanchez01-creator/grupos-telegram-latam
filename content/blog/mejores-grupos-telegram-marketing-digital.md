@@ -138,6 +138,18 @@ Ecosistema de afiliados: Hotmart, Amazon Afiliados, ClickBank, tiendas locales.
 - **Ignorar reglas de formato**: muchos exigen tag [DUDA] o [CASO] para posts.
 - **Confundir bots con humanos**: si publican links con emojis y sin contexto, es bot.
 
+## Presupuestos publicitarios típicos por segmento
+
+Los grupos debaten estos rangos observados en 2026:
+
+- **PYME local**: 500-3.000€/mes en Meta + Google Ads combinados.
+- **Ecommerce en crecimiento**: 5.000-30.000€/mes con MER objetivo 3-5.
+- **SaaS B2B**: 10.000-50.000€/mes con foco en LinkedIn + Google.
+- **DTC escalando**: 30.000-200.000€/mes con Meta + TikTok Ads.
+- **Enterprise B2B**: 100.000€+/mes con estrategia omnicanal.
+
+Sin conocer estos rangos, es difícil calibrar tu propio presupuesto y expectativa.
+
 ## Cómo combinar Telegram con otros canales
 
 - **LinkedIn**: perfil optimizado y publicación semanal.

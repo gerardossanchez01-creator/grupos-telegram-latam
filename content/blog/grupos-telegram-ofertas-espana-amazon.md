@@ -153,6 +153,59 @@ Recomendación: canales oficiales + un grupo de debate para consultas específic
 | AliExpress | Muy alto | No aplica | No |
 | Fnac | Medio | Ocasional | Sí |
 
+## Amazon Prime en 2026: ¿sigue rentable?
+
+- **Coste**: ~49,90€/año o 4,99€/mes (España).
+- **Beneficios**: envío rápido gratis, Prime Video, Prime Music, Prime Reading, ofertas exclusivas Prime Day.
+- **Amortización**: con 5-6 pedidos al año que serían envío pago, ya se paga sola.
+- **Prime Day (julio) y Prime Big Deal Days (octubre)**: dos eventos al año exclusivos que suelen justificar por sí solos la cuota.
+
+Recomendación: si compras al menos 6-8 veces al año en Amazon España, Prime compensa.
+
+## Estrategias por tipo de compra
+
+### Compras grandes planificadas (portátil, TV)
+- Empieza a rastrear precio 2-3 meses antes con Keepa.
+- Marca precio objetivo (ej: 15-20% bajo el histórico mínimo).
+- Espera Black Friday, Prime Day o Cyber Monday.
+- Compra cuando llegue al objetivo, no antes.
+
+### Compras impulsivas de <50€
+- Verifica en Keepa (5 seg) para ver si es realmente ganga.
+- Si es errores de precio real, actúa rápido.
+- Si te lo llevaste y no era ganga, devuelve dentro de 30 días.
+
+### Compras recurrentes (higiene, café)
+- Amazon Subscribe & Save: 5-15% descuento en recurrentes.
+- Ofertas casi mensuales de packs grandes.
+
+### Compras de temporada (ropa, jardín)
+- Justo después de temporada baja (verano acabado = descuentos ropa verano).
+- Amazon Warehouse en outlets de temporadas anteriores.
+
+## Cómo reconocer errores de precio genuinos
+
+Un error de precio real suele tener estas señales:
+
+- Producto de marca conocida a precio absurdo (iPhone 200€, Roborock 90€).
+- Sin justificación de descuento (no es liquidación anunciada).
+- No aparece en ninguna comparativa (Idealo, Ceneo) al mismo precio.
+- Vendedor es Amazon directo (no un tercero raro).
+- Aparece en canales de errores de precio simultáneamente.
+
+Los cebos (falsos errores) tienen dropshippers desconocidos, envío desde China 30-60 días, o requieren códigos que no funcionan.
+
+## Amazon Warehouse: sección infravalorada
+
+Amazon Warehouse vende productos devueltos y open-box con descuentos 15-40%. Categorías buenas:
+
+- Tecnología (portátiles, tablets, TVs devueltos por defecto cosmético).
+- Cocina (robots, freidoras, batidoras).
+- Herramientas.
+- Grandes electrodomésticos.
+
+Estado categorizado: "Como nuevo", "Muy bueno", "Bueno", "Aceptable". Los dos primeros suelen ser indistinguibles de nuevo.
+
 ## Recursos complementarios
 
 - [Grupos de ofertas](/blog/mejores-grupos-telegram-ofertas)

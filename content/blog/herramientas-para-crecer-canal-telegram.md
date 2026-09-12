@@ -177,6 +177,70 @@ Reserva 2h/semana para:
 - **Retención a 30 días**.
 - **Fuentes de tráfico** (Combot te dice de dónde vienen).
 
+## Contenido evergreen vs. contenido de actualidad
+
+Los canales que crecen sostenidamente combinan ambos:
+
+- **Evergreen (60-70%)**: guías, listas, tutoriales, recursos que se comparten meses después. Estos posts generan tráfico continuado.
+- **Actualidad (30-40%)**: noticias, tendencias, comentarios sobre el momento. Consolidan que estás vivo y atento.
+
+Errores típicos: solo actualidad (canal muere sin memoria) o solo evergreen (canal seco sin pulso).
+
+## Frecuencia de publicación óptima
+
+Depende del formato y nicho:
+
+- **Canal de noticias**: 5-15 posts/día.
+- **Canal de análisis**: 1-3 posts/día.
+- **Canal de recursos curados**: 2-5 posts/semana.
+- **Canal educativo/tutorial**: 3-5 posts/semana.
+- **Canal de ofertas**: 10-30 posts/día.
+
+Menos de eso te olvidan. Mucho más satura y sube la tasa de bajas.
+
+## Fórmula viral en Telegram
+
+Los posts que más se reenvían suelen combinar:
+
+1. **Titular claro** (menos de 10 palabras).
+2. **Valor tangible** en el primer párrafo.
+3. **Formato escaneable** (bullets, negritas selectivas).
+4. **CTA explícito** al final ("comparte si te sirvió").
+5. **Longitud media** (200-500 palabras).
+6. **Imagen o infografía** cuando el tema lo permite.
+
+Un post viral aporta 200-2.000 suscriptores dependiendo del alcance.
+
+## Colaboraciones cruzadas: manual práctico
+
+1. **Identifica 5-10 canales complementarios** de tu nicho (no competidores directos).
+2. **Verifica su audiencia real** con Combot (evita canales con fake followers).
+3. **Contacta al admin** con propuesta específica: "yo menciono tu canal el martes, tú el mío el jueves".
+4. **Publica el mismo día y hora aproximadamente** para maximizar efecto.
+5. **Incluye link t.me + descripción de 2-3 líneas**.
+6. **Mide resultado** en Combot: cuántos suscriptores nuevos aportó.
+
+Un buen intercambio aporta 500-3.000 suscriptores. Un mal intercambio, 50 con churn alto.
+
+## Horarios óptimos de publicación
+
+Después de analizar miles de canales hispanos, estos horarios funcionan mejor:
+
+- **08:00-09:00**: consumo matutino, gente en transporte.
+- **13:00-14:00**: pausa comida en España, mañana en LatAm oeste.
+- **18:00-20:00**: pico global hispano, fin de jornada laboral.
+- **22:00-23:00**: consumo nocturno, especialmente entretenimiento.
+
+Evita 03:00-06:00 y sábado por la mañana temprano. Ajusta según tu propia analítica: Combot te dice tu franja real.
+
+## Errores típicos de posicionamiento
+
+- **@usuario genérico** que nadie recordará (ej: `@grupohispano2026`).
+- **Bio sin CTA** claro.
+- **No aparecer en directorios** hispanos como el nuestro.
+- **Sin foto de perfil profesional**.
+- **Publicaciones inconsistentes**: 30 posts un día, 0 la semana siguiente.
+
 ## Recursos complementarios
 
 - [Cómo monetizar un canal](/blog/como-monetizar-canal-telegram)

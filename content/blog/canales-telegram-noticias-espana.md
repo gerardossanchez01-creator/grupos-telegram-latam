@@ -174,6 +174,36 @@ Newsletter tecnológica adaptada a canal.
 - **Confundir canal de opinión con noticia**.
 - **Notificaciones activas 24/7**: destruye la concentración.
 
+## Cómo integrar Telegram con RSS y newsletters
+
+Si vienes de un flujo RSS con Feedly, Feedbin o Inoreader, Telegram no reemplaza sino que complementa: los canales oficiales de medios son más rápidos que el RSS para titulares, pero pierden capacidad de organización a largo plazo. Un setup útil combina Telegram para inmediatez y RSS para archivo y búsqueda posterior. Muchos periodistas y analistas hispanos usan @RSSBot dentro de Telegram para agregar fuentes que no publican canal oficial.
+
+Otra combinación potente es Kloshletter (canal) + Recomiendo (canal) + newsletter personal semanal por email. Con esas tres fuentes cubres actualidad diaria + curación semanal + análisis en profundidad sin duplicar mucho contenido.
+
+## Cómo diferenciar medio de opinión de agencia
+
+- **Agencia de noticias** (EFE, Europa Press, Reuters, AP): publica hechos verificados sin adjetivos.
+- **Medio generalista**: mezcla noticias + opinión editorial.
+- **Medio de opinión pura**: análisis, columnas, blogs.
+- **Curador**: filtra fuentes ajenas y añade su selección.
+- **Bot o feed automático**: republica sin criterio humano.
+
+Los mejores lectores combinan una agencia + dos medios de espectros distintos + un curador de confianza.
+
+## Cómo detectar desinformación en canales de Telegram
+
+Telegram tiene reputación mixta por ser también refugio de canales conspiranoicos y fake news. Señales de canal poco fiable:
+
+- Titulares en mayúsculas exageradas y con emojis alarmistas.
+- Citas sin fuente ni enlace comprobable.
+- Publicaciones anónimas sin firma editorial.
+- Uso constante de palabras como "censura", "verdad oculta", "esto no lo verás en TV".
+- Solicitudes de donación al final de cada mensaje.
+- Enlaces acortados sin previa mención del medio de destino.
+- Ausencia total de rectificaciones cuando publican errores.
+
+Los canales serios rectifican errores públicamente, citan fuentes verificables y firman opiniones.
+
 ## Alfabetización mediática básica
 
 - Distingue **hecho** de **opinión** en cada publicación.

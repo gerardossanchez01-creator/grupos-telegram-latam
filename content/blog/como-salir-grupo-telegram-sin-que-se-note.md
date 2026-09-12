@@ -128,6 +128,56 @@ Si te arrepientes:
 - **Grupo privado**: necesitas que un admin o miembro actual te reenvíe el enlace de invitación. Si el enlace anterior sigue vigente, funciona.
 - **Grupo con antisalida**: algunos admins configuran expulsión permanente al salir (raro). En ese caso no podrás volver aunque tengas el enlace.
 
+## Escenarios delicados frecuentes
+
+### Grupo de exnovio/exnovia
+Sal directamente en supergrupo (silencioso). En grupo pequeño, mejor sal después de un evento que genere ruido (fiesta, cumpleaños, otra baja).
+
+### Grupo laboral tras despido
+Silencia primero. Espera 48-72h. Sal después con perfil neutro. Si un ex-jefe pregunta, di que estás en "modo detox digital".
+
+### Grupo familiar donde discutiste
+No salgas en caliente. Silencia. Espera 2 semanas. Si aún quieres salir, hazlo en un momento de baja actividad.
+
+### Grupo de amigos donde te sientes fuera
+Los grupos básicos son delicados. Prueba silenciar 3 meses. Si no lo echas de menos, sal en un momento neutro.
+
+### Grupo de estudios que ya terminó
+Cerrar ciclo tiene sentido. Sal cuando el curso acabe, sin drama. Es esperable.
+
+## Cómo salir de decenas de grupos a la vez
+
+Si arrastras 100 grupos y quieres depuración masiva:
+
+1. Ajustes → Carpetas → crea carpeta "A revisar".
+2. Mueve manualmente los grupos que dudas.
+3. Silencia toda la carpeta.
+4. Espera 30 días.
+5. Los que no echaste de menos, sal.
+
+Método frío pero eficaz. Muchos usuarios pasan de 100 a 15 grupos así.
+
+## Cómo bloquear miembros del grupo (sin salir)
+
+Si un usuario concreto es el problema, no todo el grupo:
+
+1. Toca su nombre en el grupo → perfil.
+2. Menú tres puntos → **Bloquear usuario**.
+3. Sus mensajes aparecerán como "usuario bloqueado" y no verás su contenido.
+
+Es privado: la persona no sabe que la bloqueaste. Sigues formando parte del grupo con el resto.
+
+## Comportamiento después de salir
+
+Recomendaciones si algún miembro pregunta por qué:
+
+- Respuesta neutra tipo "estaba haciendo limpieza de grupos".
+- No expliques en exceso ni justifiques.
+- No hables mal del grupo con otros miembros.
+- Si el admin te contacta, respeta con "gracias, decidí bajar el volumen digital".
+
+Sin drama, sin justificaciones extensas.
+
 ## Recursos relacionados
 
 Antes de irte de todos tus grupos, revisa qué estás perdiéndote:

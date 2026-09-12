@@ -166,6 +166,48 @@ Un "50% descuento" a veces es sobre PVP inflado. Verifica siempre.
 - **Tarjeta con cashback (WiZink, Openbank) + oferta**: 3-5% adicional.
 - **Cashback web (Beruby, Aklamio) + tarjeta + oferta**: hasta 10% adicional apilable.
 
+## Checklist logístico previa Black Week
+
+Para llegar preparado el día 24 de noviembre:
+
+- **Verifica tu método de pago** guardado en Amazon y otras tiendas donde comprarás.
+- **Actualiza dirección** de envío. Amazon cancela pedidos con datos erróneos.
+- **Activa Amazon Prime** (con prueba gratis si nunca lo tuviste) para envío rápido y ofertas exclusivas.
+- **Instala Keepa** en el navegador para verificar precios en 1 click.
+- **Descarga la app oficial** de cada tienda importante. Muchas dan ofertas exclusivas app.
+- **Ten calendario visible** con las fechas críticas.
+- **Configura límite de gasto mental**: presupuesto máximo que no cruzarás.
+- **Prepara tarjeta con cashback** activo (WiZink, Openbank, etc.).
+
+## Errores caros durante la semana
+
+- **Comprar el primer día lo que iba a estar en oferta el viernes**: los precios suelen bajar más al pico.
+- **Ignorar los avisos del canal 1 hora**: puede ser justo cuando cae tu producto.
+- **Comprar por FOMO**: "está barato, ya encontraré uso". Suele acabar sin usarse.
+- **No verificar la tienda vendedor** en Amazon (Amazon vs. tercero puede cambiar garantía).
+- **Cambiar de método de pago** a mitad de checkout: perder el carrito.
+
+## Post Black Friday: qué hacer con lo que compraste
+
+- **Registra la garantía** al recibir el producto.
+- **Guarda factura y albarán** por 2 años como mínimo.
+- **Comprueba el paquete completo** antes de tirar embalaje.
+- **Prueba el producto en los 15 días** por si necesitas devolver.
+- **Publica review honesta** si el producto era prometedor: ayudas a la comunidad.
+
+## Tiendas con mejores devoluciones
+
+Si compras y no encaja:
+
+- **Amazon**: 30 días devolución fácil.
+- **El Corte Inglés**: excelente política aunque prices menos agresivos.
+- **MediaMarkt**: 30 días con manga y embalaje conservado.
+- **Zara/Mango**: 30 días online.
+- **PcComponentes**: 14 días LOPCU + posible RMA extra.
+- **AliExpress**: complicado en general, riesgo mayor.
+
+Priorizar tiendas con devolución fácil da margen si te equivocas.
+
 ## Recursos complementarios
 
 - [Grupos de ofertas generales](/blog/mejores-grupos-telegram-ofertas)

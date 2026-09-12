@@ -163,6 +163,55 @@ Para profundizar, revisa nuestra guía sobre [cómo monetizar un canal de Telegr
 
 Si las tres apuntan a distintos lados, probablemente necesitas ambos combinados.
 
+## Migración entre formatos
+
+No hay migración automática entre grupo y canal, pero sí procesos ordenados:
+
+### De grupo a canal + grupo vinculado
+
+1. Crea canal con el nombre del grupo original.
+2. Renombra el grupo actual como "[Nombre] - Chat" o "[Nombre] - Discusión".
+3. En el canal, ajustes → Discusión → vincula el grupo.
+4. Anuncia el cambio en ambos.
+5. Publica solo contenido curado en el canal a partir de ahora.
+6. Deja el grupo para conversación.
+
+### De canal a grupo (raro pero ocurre)
+
+1. Crea grupo nuevo.
+2. Comparte enlace en el canal durante 2-4 semanas.
+3. Migra contenido evergreen del canal al fijado del grupo.
+4. Cierra el canal cuando el grupo tenga masa crítica.
+
+## Cuadrantes de decisión avanzados
+
+Además de la elección básica, considera:
+
+- **Voz única vs. varias voces**: canal si eres solo tú; grupo si sois varios equivalentes.
+- **Contenido perecedero vs. evergreen**: canal para perecedero, grupo para acumular conocimiento colectivo.
+- **Tono formal vs. informal**: canal admite más formalidad; grupo baja el tono naturalmente.
+- **Ratio consumo/aporte esperado 90/10 vs. 50/50**: canal si esperas más consumo; grupo si esperas más aporte.
+
+## Anti-patrones comunes
+
+- **Canal con 5 admins publicando estilos distintos**: pierde identidad. Mejor un solo publicador.
+- **Grupo con normas de canal** (solo admins escriben): mata la comunidad. Mejor convertir a canal.
+- **Grupo grande sin Topics**: se convierte en spam sin control. Activa Topics.
+- **Canal sin grupo de discusión**: pierdes engagement. Vincula uno pequeño.
+- **Grupo con anuncios cada 5 minutos**: es ruido. Mueve anuncios a canal aparte.
+
+## Migración a Topics en supergrupo activo
+
+Si tienes grupo grande sin Topics y quieres implementarlos:
+
+1. Anuncia con 1 semana de antelación.
+2. Fija mensaje explicando qué hilo servirá para qué.
+3. Activa Topics en ajustes.
+4. Los primeros 2-3 días, redirige mensajes al hilo correcto con recordatorio amable.
+5. Después de 2 semanas, aplica moderación estricta.
+
+Bien hecho, un grupo con Topics reduce quejas por ruido un 60%.
+
 ## Recursos complementarios
 
 - [Cómo crear un grupo de Telegram](/blog/como-crear-grupo-telegram)

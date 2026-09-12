@@ -156,6 +156,59 @@ Cada certificación tiene comunidad Telegram dedicada. Búscala combinando nombr
 - **Podcasts**: canal de Telegram que enlaza episodios.
 - **Bots de vocabulario** ([mejores bots](/blog/mejores-bots-telegram-para-grupos)): refuerzo diario automático.
 
+## Cadencia de estudio realista por nivel
+
+Un patrón que funciona en la mayoría:
+
+- **A1 → A2**: 3-6 meses con 30-45 min/día.
+- **A2 → B1**: 6-9 meses con 45-60 min/día.
+- **B1 → B2**: 9-15 meses con 60-90 min/día.
+- **B2 → C1**: 12-24 meses con inmersión creciente.
+- **C1 → C2**: 24+ meses, casi todo consumo del idioma diariamente.
+
+Los grupos ayudan a mantener esa cadencia con contenido diario y accountability entre pares.
+
+## Herramientas por nivel
+
+- **A1-A2**: Duolingo, Busuu, Anki con decks básicos.
+- **B1-B2**: LingQ, Beelinguapp, series con subtítulos duales, podcasts para principiantes.
+- **C1-C2**: consumo natural (Netflix sin subtítulos, podcasts nativos, prensa), tandem con nativos, escritura diaria.
+
+Los grupos suelen recomendar herramientas según nivel del miembro que pregunta.
+
+## Certificaciones oficiales relevantes
+
+- **Inglés**: TOEFL iBT (académico), IELTS (académico + migración), Cambridge (B2-C2), Aptis (British Council rápido).
+- **Francés**: DELF (A1-B2), DALF (C1-C2), TCF y TEF (migración).
+- **Alemán**: Goethe-Zertifikat (A1-C2), TestDaF (académico), telc.
+- **Japonés**: JLPT (N5-N1), J.TEST.
+- **Coreano**: TOPIK (I y II).
+- **Chino**: HSK 1-6.
+- **Italiano**: CILS, CELI.
+- **Portugués**: CELPE-Bras, CAPLE.
+
+Cada certificación tiene comunidad Telegram dedicada con simulacros y resources.
+
+## Cómo estructurar una hora de estudio efectiva
+
+- 10 min: revisión Anki / vocabulario del día anterior.
+- 20 min: input (leer, ver serie, escuchar podcast).
+- 15 min: output (escribir mensaje en grupo, hablar solo).
+- 10 min: gramática puntual del punto que hoy te trabó.
+- 5 min: registro (qué aprendiste, qué queda pendiente).
+
+Sostenido 6 meses, das un salto real de nivel.
+
+## Errores por tipo de aprendiz
+
+- **Perfeccionista**: no habla hasta "estar listo". Nunca lo estará.
+- **Consumidor pasivo**: ve mucho, escribe nada.
+- **Cambia-métodos**: prueba app nueva cada semana sin dominar ninguna.
+- **Duolingo-only**: adicto al streak pero sin comprensión real.
+- **Solo gramática**: nivel académico bloqueado por miedo a hablar.
+
+Los grupos ayudan a identificar tu patrón y corregirlo.
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos de Telegram por tema](/blog/como-buscar-grupos-de-telegram)

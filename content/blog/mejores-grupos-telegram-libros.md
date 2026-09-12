@@ -189,6 +189,12 @@ En clubes, un libro al mes es la cadencia estándar. Dos al mes solo funciona co
 
 Los clubes suelen leer al menos uno de estos al año, junto con clásicos y traducciones.
 
+## Cómo aprovechar ferias del libro con la comunidad
+
+Los grupos coordinan visitas a ferias grandes (LIBER, Feria del Libro de Madrid, LIBER Barcelona, FIL Guadalajara, Feria del Libro de Buenos Aires, Bogotá) para asistir juntos a firmas, presentaciones, mesas redondas. Muchos organizan encuentros presenciales en cafeterías cercanas para debatir después. Es una de las formas más rápidas de conocer a lectores serios con gustos afines.
+
+También comparten información logística: mejor día para ir (evita fines de semana masificados), dónde comer sin desperdiciar tiempo, editoriales con las novedades destacadas, cazadores de firmas de autores.
+
 ## Libros a evitar recomendar sin filtro
 
 Algunos títulos tienen mala reputación por venderse como literatura seria cuando son autoayuda camuflada. Cuidado con recomendarlos en clubes serios:

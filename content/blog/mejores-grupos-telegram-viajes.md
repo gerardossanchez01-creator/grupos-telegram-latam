@@ -154,6 +154,58 @@ Comunidad específica de crucieristas. Rutas por Mediterráneo, Caribe, fjordos,
 - **iOverlander (app)**: para van life.
 - **Wanderlog o TripIt**: planificador de itinerarios.
 
+## Visas y documentación 2026: contexto
+
+Muchos grupos ayudan a navegar burocracia:
+
+- **Visa Schengen**: 90 días en 180. Para hispanoamericanos, requisitos variables por país.
+- **ESTA para EE.UU.**: para españoles y chilenos. Argentinos y otros LatAm, visa completa.
+- **Visa nómada digital España**: activa desde 2023, requisitos concretos.
+- **Visa Portugal D8**: nómada digital, popular entre hispanos.
+- **Working Holiday Visa**: convenio con Nueva Zelanda, Australia, Canadá, Japón (por país de origen).
+- **eTA Canadá**: para españoles, chilenos y otros.
+- **Visa Japón**: sin visa para turismo <90 días para españoles y algunos LatAm.
+- **Visa Bali (Indonesia)**: extendible al llegar, muy usada por nómadas.
+
+## Presupuesto orientativo por destino
+
+Cifras redondeadas para mochilero hispano (por día, sin vuelo):
+
+- **Sudeste Asiático** (Tailandia, Vietnam, Indonesia): 25-45€/día.
+- **Europa low-cost** (Balcanes, Portugal, sur Italia): 40-70€/día.
+- **Europa oeste** (Francia, Alemania, Reino Unido): 80-150€/día.
+- **Escandinavia**: 100-180€/día.
+- **Japón**: 70-120€/día.
+- **Australia y Nueva Zelanda**: 80-150€/día.
+- **USA (según ciudad)**: 100-250€/día.
+- **Argentina** (con dólar blue): 30-60€/día.
+- **México**: 30-70€/día.
+- **Colombia**: 30-60€/día.
+
+Los grupos ajustan estos rangos según nivel de mochilero vs. viajero estándar.
+
+## Seguridad como viajero hispano
+
+Precauciones que los grupos recomiendan:
+
+- **Copia digital y física de pasaporte**.
+- **Seguro de viaje** obligatorio (IATI, Chapka, Mondo).
+- **Compartir ubicación** con alguien de confianza.
+- **Efectivo mínimo pero suficiente**: cajeros no siempre disponibles.
+- **Tarjeta multidivisa** (Wise, Revolut) para evitar comisiones.
+- **App de emergencia** de tu embajada.
+- **Vacunas al día** según destino (fiebre amarilla, hepatitis A/B, etc.).
+
+## Cuando el viaje se tuerce: qué hacer
+
+- **Perder pasaporte**: embajada de tu país, denuncia policial local, pasaporte de emergencia.
+- **Robo con bolso**: denuncia local para seguro, bloqueo de tarjetas.
+- **Enfermedad**: seguro cubre normalmente; llama antes de ir al hospital.
+- **Cancelación de vuelo**: reglamento CE 261/2004 en UE, contactar aerolínea.
+- **Estafa en alojamiento**: Booking mediará según caso.
+
+Los grupos son fuente rápida de "me pasó, hice X, funcionó".
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos por tema](/blog/como-buscar-grupos-de-telegram)

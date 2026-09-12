@@ -157,6 +157,17 @@ Después de miles de encuestas en comunidades hispanas, estos formatos suelen te
 - **Frecuencia** (¿cada cuánto haces X?): útil para entender hábitos.
 - **Predicción** (¿dónde estará el BTC a fin de mes?): engancha, útil en cripto y trading.
 
+## Quiz mode para educación
+
+El modo Quiz es infrautilizado en comunidades educativas. Ventajas:
+
+- Ranking automático de aciertos.
+- Explicación al votar (aprovecha para dar contexto útil).
+- Sensación de juego que sube engagement.
+- Facilita microlearning diario.
+
+Ideal para grupos de [idiomas](/blog/mejores-grupos-telegram-idiomas), [programación](/blog/mejores-grupos-telegram-programacion) y estudios universitarios. Un quiz al día durante 3 meses mejora retención de vocabulario o conceptos técnicos significativamente.
+
 ## Cadencia recomendada por tipo de comunidad
 
 - **Grupos de trabajo**: encuestas puntuales cuando hay decisión pendiente. Sin cadencia fija.

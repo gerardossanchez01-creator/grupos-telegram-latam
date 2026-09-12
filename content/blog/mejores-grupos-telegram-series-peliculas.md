@@ -123,6 +123,18 @@ Muy activa, con muchos críticos de la comunidad. Ver [series y cine en Argentin
 - **Solo publicar enlaces a tu blog**: se ve como spam.
 - **Ignorar la moderación**: los admins suelen ser cinéfilos serios.
 
+## Cómo montar tu propio grupo de discusión de una serie
+
+Cuando una serie te apasiona y no encuentras comunidad hispana activa, montar el tuyo es más fácil de lo que parece. Empieza con 5-10 amigos que también la vean, crea calendario de sync-watch (un capítulo por semana), fija reglas simples anti-spoiler, y abre a más miembros vía [directorio](/anadir-grupo) tras 2-3 episodios. Muchos grupos de series flagship (House of the Dragon, The Last of Us) nacieron así y en meses tienen miles de miembros.
+
+Buenas prácticas para admins de grupos de series:
+
+- **Hilo separado por episodio** para evitar spoilers cruzados.
+- **Regla obligatoria de spoiler-tag** antes de comentar cualquier detalle.
+- **Countdown en fijado** para el próximo estreno.
+- **Post pin con guía cronológica** de la saga si es larga.
+- **Encuestas semanales**: mejor escena, teoría más loca, personaje favorito.
+
 ## Grupos específicos por serie o saga
 
 Muchas series flagship tienen grupos dedicados con miles de miembros:
