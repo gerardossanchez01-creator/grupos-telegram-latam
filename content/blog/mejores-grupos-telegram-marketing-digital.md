@@ -146,6 +146,39 @@ Ecosistema de afiliados: Hotmart, Amazon Afiliados, ClickBank, tiendas locales.
 - **Notion**: base de conocimiento personal con casos guardados de los grupos.
 - **Substack**: newsletter propia una vez que tengas suficiente material.
 
+## Marketing digital hispano en 2026: contexto
+
+El sector vive cambios acelerados: consolidación de IA generativa en creación de contenido y ads (Meta, Google, TikTok automatizan cada vez más creativos), presión regulatoria en privacidad (post cookies, iOS trackear-permission, GDPR más estricto), y auge de canales alternativos (TikTok Ads consolidado en LatAm, LinkedIn Ads en repunte, retail media desde Amazon y MercadoLibre). Los grupos son la manera más rápida de estar al día con cambios que ocurren mes a mes, no año a año.
+
+## Cómo distinguir gurús vacíos de referentes reales
+
+- **Gurú vacío**: solo publica motivación, cita otros gurús, evita compartir métricas propias, vende cursos con promesas milagro ("gana 10K/mes con Google Ads en 30 días").
+- **Referente real**: comparte casos con datos reales, admite errores, entra en detalles técnicos, y cuando vende algo justifica el precio con contenido gratuito previo.
+
+La regla práctica: si en las últimas 20 publicaciones no ves ningún error propio admitido, es gurú.
+
+## Comunidades por herramienta especializada
+
+Muchos grupos se agrupan por herramienta:
+
+- **Ahrefs, Semrush** (SEO): comunidades hispanas activas.
+- **Meta Business Manager**: soporte cruzado entre profesionales.
+- **Google Analytics 4 (GA4)**: comunidades tras la migración desde Universal.
+- **Klaviyo, Mailchimp**: ecommerce email marketing.
+- **HubSpot** en español: comunidades específicas.
+- **Figma para marketing**: creación de assets sin depender del diseñador.
+
+## Métricas que se debaten más en 2026
+
+- **CAC (coste de adquisición) y LTV (lifetime value)**: la pareja rey.
+- **MER (marketing efficiency ratio)** en ecommerce.
+- **ROAS por canal** con atribución multicanal.
+- **Brand lift** en campañas de awareness.
+- **Retention cohort analysis** en SaaS.
+- **Attribution windows** post-iOS 14.
+
+Sin dominar estas métricas, es difícil aportar en grupos de nivel medio-alto.
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos por tema](/blog/como-buscar-grupos-de-telegram)

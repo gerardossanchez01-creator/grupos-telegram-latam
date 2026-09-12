@@ -157,6 +157,64 @@ En canales grandes:
 
 Los canales suelen usar más los fijados para navegación editorial que para reglas.
 
+## Plantilla de mensaje fijado de bienvenida
+
+Un mensaje fijado efectivo para grupos activos suele tener esta estructura:
+
+```
+Bienvenida a [Nombre del grupo]
+
+Somos una comunidad de [descripción breve] centrada en [temática].
+
+Reglas rápidas:
+1. Respeto siempre.
+2. Nada de spam, autopromo o afiliados sin declarar.
+3. Prohibido NSFW, apuestas, piratería.
+4. Solo un idioma principal.
+
+Hilos:
+- [Anuncios]
+- [Ayuda técnica]
+- [Off-topic]
+
+Contacto admin: @tuUsuario
+Reglas completas: [enlace]
+```
+
+Menos de 15 líneas, escaneable, con emojis mínimos como orientadores visuales.
+
+## Cuándo actualizar el mensaje fijado
+
+Actualiza cuando:
+
+- Cambian reglas importantes.
+- Añades un hilo o Topic nuevo.
+- Cambia el admin de contacto.
+- Se detecta que la comunidad pregunta lo mismo repetidamente (añade FAQ).
+- Se acerca un evento importante (Black Friday, AMA, aniversario).
+
+No actualices por cambios cosméticos: cada actualización genera notificación (si no la desactivas) y satura.
+
+## Fijados temporales vs. permanentes
+
+Buena práctica: distingue mentalmente entre:
+
+- **Fijado permanente** (reglas, bienvenida, recursos evergreen): se mantiene meses.
+- **Fijado temporal** (encuesta activa, evento próximo, anuncio importante): se desancla al pasar.
+
+Combinar ambos requiere disciplina para no dejar fijados temporales que caducan.
+
+## Fijar en canales con miles de suscriptores
+
+En canales grandes, los fijados son la portada editorial:
+
+- **Post más importante de la semana**, no el más nuevo.
+- **Landing evergreen** con recursos permanentes.
+- **Enlaces cruzados a otros canales o al grupo vinculado**.
+- **Countdown a eventos**: útil para AMAs, lanzamientos, aniversarios.
+
+Rota fijados con criterio editorial: cada canal tiene su rutina.
+
 ## Recursos complementarios
 
 - [Cómo crear un grupo](/blog/como-crear-grupo-telegram)

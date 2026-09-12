@@ -147,6 +147,46 @@ Este proceso convierte a la comunidad en co-decisora y sube compromiso.
 
 Revisa [grupo vs. canal](/blog/grupo-vs-canal-telegram-diferencias) si aún dudas qué formato usar.
 
+## Formatos de encuesta que funcionan mejor
+
+Después de miles de encuestas en comunidades hispanas, estos formatos suelen tener más participación:
+
+- **Elección binaria** (sí/no): tasa de respuesta alta pero información limitada.
+- **Escala 1-5** (¿cuánto te interesa X?): balance entre riqueza y facilidad.
+- **Ranking de opciones** (elige tus 3 favoritas): útil para priorizar features o temas.
+- **Frecuencia** (¿cada cuánto haces X?): útil para entender hábitos.
+- **Predicción** (¿dónde estará el BTC a fin de mes?): engancha, útil en cripto y trading.
+
+## Cadencia recomendada por tipo de comunidad
+
+- **Grupos de trabajo**: encuestas puntuales cuando hay decisión pendiente. Sin cadencia fija.
+- **Comunidades de intereses** (cine, libros, gaming): 1-2 por semana funciona.
+- **Canales educativos** (idiomas, programación): quizzes diarios como microlearning.
+- **Canales de análisis** (cripto, noticias): encuestas semanales sobre predicciones o preferencias.
+- **Comunidades de fitness**: reportes semanales (progresos, adherencia).
+
+Más de 3 encuestas semanales en un mismo canal satura. Menos de 1 al mes indica canal poco vivo.
+
+## Encuestas que dañan la comunidad
+
+Evita:
+
+- **Encuestas manipuladas** con opciones sesgadas. Se nota y baja confianza.
+- **Encuestas sobre temas divisivos** sin protocolo claro para gestionar debate posterior.
+- **Encuestas sin cierre ni comunicación de resultado**: crea sensación de que "no importa lo que voto".
+- **Encuestas anónimas para temas sensibles** que igualmente identifican al votante por otros medios.
+- **Repetir encuestas** cuando el resultado anterior no gustó al admin.
+
+## Combinar encuestas con AMA y sesiones live
+
+Las mejores comunidades usan encuestas como preparación para AMAs:
+
+1. Encuesta previa: qué preguntar al invitado.
+2. AMA con las top 5 preguntas más votadas.
+3. Encuesta post-AMA: satisfacción y qué mejorar.
+
+Ciclo cerrado que sube compromiso.
+
 ## Recursos complementarios
 
 - [Cómo fijar mensajes en Telegram](/blog/como-fijar-mensajes-en-telegram)

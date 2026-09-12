@@ -148,6 +148,35 @@ Suele haber uno grande + varios más pequeños por temporada.
 - **IMDb**: fichas técnicas.
 - **Podcasts de cine**: complemento perfecto al debate en Telegram.
 
+## Calendario de estrenos para no perderte nada
+
+Los canales de curación publican calendarios mensuales que ahorran horas de investigación. Un buen usuario suscribe:
+
+- 1 canal de estrenos globales (todas las plataformas).
+- 1 canal específico de la plataforma que más consume.
+- 1 grupo de discusión de su género favorito.
+- 1 canal de festivales (Sundance, Berlinale, Cannes, San Sebastián) para cine indie.
+
+Con eso ya sabes qué se estrena la próxima semana, ranking del mes por plataforma y qué merece la pena del circuito de festivales sin haber visto una crítica en el periódico.
+
+## Cómo participar sin caer en malas prácticas
+
+- **Reseñas cortas y honestas**: 3 párrafos con qué te sorprendió, qué no, y a quién se lo recomendarías. Vale más que puntuación de 1 a 10.
+- **Recomendaciones con contexto**: "Si te gustó Twin Peaks, te va a gustar Bron/Broen" es útil; "Vela y punto" no lo es.
+- **Debate post-capítulo sin agresividad**: si a alguien le gustó el final de LOST, respétalo.
+- **Compartir teorías con avisos de spoiler** siempre.
+- **Aportar links a análisis externos** de calidad (podcasts, videoensayos) es bienvenido.
+
+## Diferencias entre críticos, cinéfilos y espectadores
+
+Los grupos suelen tener tres perfiles:
+
+- **Críticos**: buscan análisis técnico, referencias, cinefilia académica.
+- **Cinéfilos activos**: ven mucho, opinan a fondo, sin pretensión académica.
+- **Espectadores casuales**: quieren recomendaciones para el finde.
+
+Los mejores grupos convivan los tres perfiles. Los peores se fragmentan por elitismo.
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos por tema](/blog/como-buscar-grupos-de-telegram)

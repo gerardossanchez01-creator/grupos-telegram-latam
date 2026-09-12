@@ -164,6 +164,37 @@ Preparación de certificaciones de inglés para acceder a puestos internacionale
 - **Solo lurkear** sin participar.
 - **Confiar en cualquier oferta de trabajo** sin verificar la empresa.
 
+## Barcelona por temporadas
+
+- **Primavera**: salidas por Collserola, Sant Jordi (23 de abril), Primavera Sound. Canales culturales explotan.
+- **Verano**: playa, festivales (Sónar, Cruïlla), escapadas a Costa Brava. Grupos organizan casi cada fin de semana.
+- **Otoño**: La Mercè (24 septiembre), festivales gastronómicos, temporada teatral. Muy activo culturalmente.
+- **Invierno**: escapadas a Andorra y Pirineos para esquiar. Cine y museos en la ciudad. Canales de esquí muy usados.
+
+## Trámites frecuentes para recién llegados
+
+Los grupos de "Recién Llegados Barcelona" y "Latinos en Barcelona" cubren repetidamente estos trámites, así que revisar historial ahorra tiempo:
+
+- **Empadronamiento**: Ajuntament de Barcelona, cita previa, requisitos.
+- **CatSalut**: tarjeta sanitaria pública, cómo asignar médico de cabecera.
+- **NIE y TIE**: cita previa notoriamente difícil en Barcelona (Extranjería).
+- **Fibra e internet**: Movistar, MásMóvil, Orange, Digi (opción low-cost popular).
+- **Banca**: BBVA, CaixaBank, Sabadell, o neobancos (N26, Revolut) para arrancar rápido.
+- **Transporte T-Casual, T-Usual**: comparativa según uso mensual.
+
+## Comunidades tech destacadas
+
+Barcelona es hub tech europeo. Comunidades específicas:
+
+- **PyBcn (Python Barcelona)**: comunidad Python con canal y meetups.
+- **FrontendBcn**: JS, React, Vue, frontend en general.
+- **Barcelona.rb (Ruby)**: comunidad Ruby veterana.
+- **Product Managers Barcelona**: PMs de scaleups locales.
+- **UX Barcelona**: comunidad de diseño de experiencia. Ver también [grupos de diseño](/blog/mejores-grupos-telegram-diseno).
+- **Data & AI Barcelona**: científicos de datos y ML engineers.
+
+Muchas organizan meetups mensuales presenciales en 22@ o en el centro. Perfecto para networking.
+
 ## Recursos complementarios
 
 - [Grupos de España](/blog/mejores-grupos-telegram-espana)

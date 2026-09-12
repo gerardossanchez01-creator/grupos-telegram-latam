@@ -154,6 +154,51 @@ Poetas hispanoamericanos compartiendo trabajos y recibiendo crítica constructiv
 - **Readwise**: destacados sincronizados de Kindle.
 - **Podcasts literarios**: complemento perfecto al debate.
 
+## Cómo montar tu propio club de lectura
+
+Si no encuentras uno que te encaje, montar el tuyo es más fácil de lo que parece:
+
+1. Empieza con 5-10 lectores de confianza. Ver [cómo crear un grupo](/blog/como-crear-grupo-telegram).
+2. Elige el primer libro por votación o propuesta rotativa.
+3. Fija el calendario en el chat (capítulos por semana). Ver [cómo fijar mensajes](/blog/como-fijar-mensajes-en-telegram).
+4. Un debate semanal fijo (viernes 21h suele funcionar).
+5. Alterna géneros para no aburrir.
+6. Después de 3-4 libros, abre a más miembros vía [directorio](/anadir-grupo).
+
+## Cadencia realista de lectura
+
+Muchos lectores se autoexigen 30 libros al año y abandonan en marzo. Cadencias sostenibles:
+
+- **Lector casual**: 6-12 libros al año.
+- **Lector medio**: 15-25 libros al año.
+- **Lector activo**: 30-50 libros al año.
+- **Lector profesional (crítico, editor)**: 60+ libros al año.
+
+En clubes, un libro al mes es la cadencia estándar. Dos al mes solo funciona con grupos avanzados.
+
+## Autores hispanos que dominan la conversación en 2026
+
+- **Mariana Enriquez**: novela negra argentina.
+- **Fernanda Melchor**: literatura mexicana.
+- **Sara Mesa**: narrativa española contemporánea.
+- **Andrés Neuman**: cruce entre ficción y ensayo.
+- **Cristina Morales**: novela política española.
+- **Andrea Abreu**: nueva voz canaria.
+- **Rodrigo Fresán**: novela postmoderna.
+- **Layla Martínez**: fantasía y terror.
+
+Los clubes suelen leer al menos uno de estos al año, junto con clásicos y traducciones.
+
+## Libros a evitar recomendar sin filtro
+
+Algunos títulos tienen mala reputación por venderse como literatura seria cuando son autoayuda camuflada. Cuidado con recomendarlos en clubes serios:
+
+- Libros de gurús con promesas milagrosas.
+- Autoayuda travestida de novela.
+- "Bestsellers" con fórmulas repetidas.
+
+Los clubes serios los filtran rápido para mantener nivel de debate.
+
 ## Recursos complementarios
 
 - [Cómo buscar grupos por tema](/blog/como-buscar-grupos-de-telegram)

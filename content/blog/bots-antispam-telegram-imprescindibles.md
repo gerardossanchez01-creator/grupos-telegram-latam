@@ -154,6 +154,47 @@ Si tu grupo recibe una oleada:
 | GroupHelp | Filtros tipo mensaje | Gratis | Baja |
 | WalienBot | Detección red-wide | Gratis | Media |
 
+## Cómo configurar permisos con seguridad
+
+Al añadir cualquier bot antispam, evalúa qué permisos realmente necesita:
+
+- **Borrar mensajes**: solo para bots antispam confirmados.
+- **Banear miembros**: solo para el bot principal de moderación.
+- **Editar información del grupo**: no necesario en la mayoría.
+- **Invitar por enlace**: solo si el bot gestiona invitaciones.
+- **Fijar mensajes**: no necesario para antispam.
+
+Regla: el mínimo permiso que hace su trabajo. Un bot con permisos excesivos es riesgo si su servicio se ve comprometido.
+
+## Logs y auditoría
+
+Todo supergrupo tiene registro de eventos accesible para admins:
+
+1. Ajustes del grupo → Administradores → Registro de eventos.
+2. Filtra por tipo de evento (baneos, expulsiones, ediciones, borrados).
+3. Revisa semanalmente si tus bots están funcionando y qué patrones detectan.
+
+Este log es esencial para entender qué está bloqueando tu setup antispam y ajustar filtros.
+
+## Cuando un usuario real es baneado por error
+
+Ocurre. Un usuario válido con cuenta muy nueva, IP dudosa o mensaje que dispara un filtro. Protocolo:
+
+1. Verifica el registro para entender por qué se baneó.
+2. Si es error, desbanea desde el registro (opción "revertir").
+3. Contacta al usuario si conoces vía externa (email, red social).
+4. Ajusta el filtro que provocó el error.
+5. Anuncia públicamente en el grupo si el usuario tenía visibilidad.
+
+Los baneos por error mal gestionados dañan reputación del grupo.
+
+## Diferencia entre spam humano y bots
+
+- **Bots spam**: cuenta nueva sin foto, publican al instante de entrar, mensajes con emojis + links, dominios sospechosos. Se bloquean con CAPTCHA + sandbox.
+- **Spam humano**: cuentas con historial, mensajes contextualizados, links legítimos con comisión no declarada. Requiere revisión humana + reglas específicas del grupo.
+
+Los bots antispam bloquean 95% del primero pero solo 30-40% del segundo. Por eso los moderadores humanos siguen siendo insustituibles.
+
 ## Recursos complementarios
 
 - [Mejores bots para grupos](/blog/mejores-bots-telegram-para-grupos)

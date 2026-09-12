@@ -47,10 +47,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <Link href="/categoria/programacion" className="hover:text-brand">Programación</Link>
               <Link href="/categoria/gaming" className="hover:text-brand">Gaming</Link>
               <Link href="/categoria/anime-y-manga" className="hover:text-brand">Anime</Link>
+              <Link href="/bots" className="hover:text-brand">Bots</Link>
               <Link href="/blog" className="hover:text-brand">Blog</Link>
               <Link href="/anadir-grupo" className="hover:text-brand font-medium text-brand">+ Añadir</Link>
             </nav>
             <nav className="md:hidden flex gap-3 text-sm">
+              <Link href="/bots" className="hover:text-brand">Bots</Link>
               <Link href="/blog" className="hover:text-brand">Blog</Link>
               <Link href="/anadir-grupo" className="hover:text-brand font-medium text-brand">+ Añadir</Link>
             </nav>

@@ -160,6 +160,37 @@ Consejos sobre elección de colegio, escolarización, admisión.
 - **Discutir política sin control**: los admins cortan rápido.
 - **Enviar mensajes en privado** a otros miembros sin consentimiento.
 
+## Madrid por temporadas
+
+- **Primavera**: San Isidro (15 mayo), festivales en Casa de Campo, terrazas, escapadas a Segovia y Toledo. Canales culturales suben actividad.
+- **Verano**: Veranos de la Villa, festivales (Mad Cool, Río Babel), escapadas a la sierra. Muchos grupos coordinan piscinas y planes de sombra.
+- **Otoño**: temporada teatral, Feria del Libro Ocasional, ARCOmadrid. Muy activo culturalmente.
+- **Invierno**: Reyes, mercados navideños, escapadas a esquiar a la sierra madrileña.
+
+## Trámites para recién llegados a Madrid
+
+Los grupos de "Recién Llegados a Madrid" y "Latinos en Madrid" cubren repetidamente estos trámites:
+
+- **Empadronamiento**: cita en tu junta municipal, requisitos según situación.
+- **Tarjeta sanitaria**: SERMAS, asignación de médico de cabecera.
+- **NIE y TIE**: cita previa notoriamente difícil, canales avisan cuando abren citas.
+- **Fibra e internet**: Movistar, MásMóvil, Orange, Digi para low-cost.
+- **Banca**: BBVA, CaixaBank, Santander, o neobancos (N26, Revolut) para arrancar rápido.
+- **Abono transportes**: cómo funciona, tramos por edad, descuentos jóvenes menores de 26.
+
+## Comunidades tech destacadas
+
+Madrid es hub tech con muchas empresas grandes:
+
+- **Madrid.rb, PyMad (Python)**: comunidades por lenguaje.
+- **Frontend Madrid**: JS, React, Vue en Madrid.
+- **Product Managers Madrid**: PMs de scaleups y grandes empresas.
+- **UX Madrid**: comunidad de diseño de experiencia. Ver también [diseño](/blog/mejores-grupos-telegram-diseno).
+- **Data Science Madrid**: científicos de datos y ML engineers.
+- **DevOps Madrid**: SREs, plataforma, infra.
+
+Muchas organizan meetups mensuales presenciales, sobre todo en Chamartín, Nuevos Ministerios y coworkings del centro.
+
 ## Recursos complementarios
 
 - [Grupos de España](/blog/mejores-grupos-telegram-espana)

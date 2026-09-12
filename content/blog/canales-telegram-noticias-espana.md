@@ -182,6 +182,31 @@ Newsletter tecnológica adaptada a canal.
 - Contrasta **datos con fuentes oficiales** (INE, Eurostat, BCE).
 - Desconfía de **capturas sin URL fuente**.
 
+## Perfil ideológico y por qué contrastar
+
+Cada medio español tiene sesgo editorial. El País y elDiario.es tienden a centro-izquierda; ABC, La Razón y OK Diario a la derecha; El Confidencial y El Mundo se mueven en el centro liberal. Suscribirse a canales de varias familias ideológicas evita cámara de eco. La regla práctica: al menos un canal de cada lado del espectro y uno económico independiente.
+
+## Frecuencia y saturación
+
+Un canal generalista publica entre 30 y 80 posts al día. Con cuatro suscritos, tu lista puede recibir 200-300 avisos diarios. Silenciar todos y revisar por lotes es imprescindible. Alternativa: usa carpetas separadas ("Prensa"), y solo entra dos veces al día. Nadie necesita saber a los 20 segundos que hubo una comparecencia.
+
+## Canales por temática específica
+
+- **Verificación**: Newtral, Maldita.es publican canal con desmentidos diarios.
+- **Sanidad**: canales oficiales del Ministerio y de sanidades autonómicas.
+- **Ciencia**: SINC, Materia (El País Ciencia), Naukas.
+- **Cultura y libros**: Babelia, El Cultural, Zenda.
+- **Deporte**: Marca, AS, Sport, Mundo Deportivo (canales oficiales).
+- **Tecnología**: ver [tecnología España](/blog/mejores-canales-telegram-tecnologia-espana).
+
+## Consejos para consumo saludable
+
+- **Horario fijo**: mañana + tarde. Nunca 24/7.
+- **No leer titulares en la cama**: destruye el sueño.
+- **Priorizar análisis sobre última hora**: pocos titulares urgentes cambian tu vida en 5 minutos.
+- **Alternar semanas con dieta informativa**: 1 día sin abrir canales cada 15 días.
+- **Distinguir de opinión de hecho**: los canales mezclan.
+
 ## Recursos complementarios
 
 - [Grupos de España](/blog/mejores-grupos-telegram-espana)

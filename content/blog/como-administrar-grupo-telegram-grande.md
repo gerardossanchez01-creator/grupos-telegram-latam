@@ -151,6 +151,55 @@ Un grupo de 5.000 con 40% activos vale más que uno de 30.000 con 5%.
 - **Grupo de [programación](/categoria/programacion)**: forzar formato de código en preguntas técnicas.
 - **Grupo de [idiomas](/categoria/idiomas)**: separar por nivel (A1-A2, B1-B2, C1-C2).
 
+## Comunicación con la comunidad
+
+Los grupos grandes necesitan comunicación estructurada, no solo moderación:
+
+- **Anuncios semanales**: resumen breve de la semana, novedades, cambios. Un post fijo el domingo o lunes por la mañana funciona bien.
+- **Preguntas frecuentes en fijado**: el 80% de las dudas de nuevos son las mismas 10 preguntas. Documentarlas ahorra tiempo.
+- **AMAs mensuales**: invita a un experto del nicho una vez al mes. Sube engagement medible.
+- **Encuestas para decisiones**: cambios de reglas, formato, temas. Ver [cómo hacer encuestas](/blog/como-hacer-encuestas-en-telegram).
+- **Retros trimestrales**: pide feedback abierto sobre qué mejorar. Aplica lo que tenga sentido.
+
+## Prevención del burnout de admins
+
+Muchos admins abandonan por agotamiento. Señales de alarma:
+
+- Revisar el grupo más de 10 veces al día.
+- Ansiedad al ver notificaciones.
+- Sentir que la comunidad "no lo merece".
+- Discusiones que se llevan a lo personal.
+
+Prevención:
+
+1. Turnos claros por franja horaria.
+2. Días libres explícitos (no revisas).
+3. Rotación de responsabilidades cada 6 meses.
+4. Vacaciones anuales de 2 semanas mínimo.
+5. Onboarding rápido de nuevos mods para diluir carga.
+
+## Migración a comunidad de pago
+
+Cuando el grupo crece y hay valor claro, muchos admins evalúan crear versión premium:
+
+- **Canal público gratuito**: mantiene comunidad amplia y funnel.
+- **Grupo o canal privado premium**: 5-30€/mes con contenido exclusivo, AMAs, sesiones semanales.
+
+No cambies el gratuito a pago: pierdes gente. Añade el premium encima.
+
+Ver detalle en [cómo monetizar un canal](/blog/como-monetizar-canal-telegram) y [cómo hacer grupo privado](/blog/como-hacer-grupo-privado-en-telegram).
+
+## Traspaso ordenado de propiedad
+
+Si vas a cerrar tu ciclo:
+
+1. Anuncia con 3-6 meses de antelación al equipo interno.
+2. Identifica sucesor con perfil compatible.
+3. Traspaso progresivo: primero como admin senior, después propietario.
+4. Documentación completa: contraseñas, contratos, contactos, roadmap.
+5. Presentación pública a la comunidad.
+6. Periodo de acompañamiento de 1-2 meses.
+
 ## Recursos complementarios
 
 - [Cómo crear un grupo desde cero](/blog/como-crear-grupo-telegram)
