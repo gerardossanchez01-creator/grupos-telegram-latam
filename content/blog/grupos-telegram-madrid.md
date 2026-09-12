@@ -223,3 +223,6 @@ Muchas organizan meetups mensuales presenciales, sobre todo en Chamartín, Nuevo
 ## Cierre
 
 Madrid en Telegram es un ecosistema vibrante: en pocos grupos bien elegidos consigues empleo, planes, alquiler y red social. Prioriza barrio + sector profesional + una actividad, y en semanas tendrás vida madrileña conectada. Si administras un grupo local, [súbelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

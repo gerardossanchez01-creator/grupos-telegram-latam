@@ -260,3 +260,6 @@ Un cliché de los grupos españoles es el "opinador sin datos". Estrategia para 
 ## Cierre
 
 El ecosistema Telegram español está en su mejor momento. Con 5-7 canales bien elegidos cubres ofertas, noticias, empleo, cripto y comunidad local. Silencia, filtra por palabra clave y contribuye cuando puedas. Y si administras una comunidad española, [añádela al directorio](/anadir-grupo) para escalar visibilidad.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

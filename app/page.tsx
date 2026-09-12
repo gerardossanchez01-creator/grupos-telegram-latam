@@ -64,7 +64,7 @@ export default function Home() {
           Bienvenido al mayor <strong>directorio de grupos de Telegram en español</strong>. Aquí encuentras comunidades activas sobre <Link href="/categoria/ofertas-y-chollos">ofertas y chollos</Link>, <Link href="/categoria/criptomonedas">criptomonedas</Link>, <Link href="/categoria/empleo-y-freelance">empleo remoto</Link>, <Link href="/categoria/programacion">programación</Link>, <Link href="/categoria/gaming">gaming</Link>, <Link href="/categoria/anime-y-manga">anime</Link>, <Link href="/categoria/idiomas">aprender idiomas</Link> y muchos temas más. Cada grupo está verificado manualmente para asegurar que el enlace funciona y que la comunidad está activa.
         </p>
         <p>
-          Si eres nuevo en Telegram, empieza por nuestras guías de <Link href="/blog/como-buscar-grupos-de-telegram">cómo buscar grupos</Link> y <Link href="/blog/como-unirse-grupo-telegram">cómo unirte</Link> paso a paso. Si administras tu propia comunidad, puedes <Link href="/anadir-grupo">añadir tu grupo gratis</Link> a nuestro directorio.
+          Si eres nuevo en Telegram, empieza por nuestras guías de <Link href="/blog/como-buscar-grupos-de-telegram">cómo buscar grupos</Link> y <Link href="/blog/como-unirse-grupo-telegram">cómo unirte</Link> paso a paso. Si administras tu propia comunidad, revisa nuestro <Link href="/bots">directorio de bots de Telegram</Link> (moderación, antispam, IA y utilidades) y <Link href="/anadir-grupo">añade tu grupo gratis</Link> al directorio.
         </p>
       </section>
 
@@ -200,7 +200,12 @@ export default function Home() {
           <li><strong>Cifrado y privacidad</strong>: puedes usarlo sin revelar tu número si configuras bien la app.</li>
         </ul>
         <p>
-          Si quieres saber más sobre las <Link href="/blog/alternativas-a-whatsapp-por-que-elegir-telegram">ventajas de Telegram vs WhatsApp</Link>, tenemos una guía dedicada.
+          Si quieres saber más sobre las <Link href="/blog/alternativas-a-whatsapp-por-que-elegir-telegram">ventajas de Telegram vs WhatsApp</Link>, tenemos una guía dedicada. Y si administras tu propio grupo, no te pierdas nuestro <Link href="/bots">directorio de los mejores bots de Telegram</Link>: bots de moderación, antispam, estadísticas, IA y automatización — imprescindibles para cualquier admin serio.
+        </p>
+
+        <h2>Bots imprescindibles para complementar tu experiencia</h2>
+        <p>
+          Los <strong><Link href="/bots">bots de Telegram</Link></strong> son parte fundamental del ecosistema. Automatizan tareas, moderan grupos, integran servicios externos (Notion, RSS, IFTTT), traen IA a tus chats con <Link href="/bots/chatgpt-telegram">ChatGPT</Link> o <Link href="/bots/midjourney-bot">Midjourney</Link>, y hacen posible que comunidades enormes funcionen sin caos. Explora nuestro directorio de bots por categoría: <Link href="/bots/categoria/moderacion">moderación</Link>, <Link href="/bots/categoria/antispam">antispam</Link>, <Link href="/bots/categoria/ia-y-chatgpt">IA y ChatGPT</Link>, <Link href="/bots/categoria/utilidades">utilidades</Link>, <Link href="/bots/categoria/descargas">descargas legales</Link>, <Link href="/bots/categoria/productividad">productividad</Link> y más.
         </p>
       </section>
 

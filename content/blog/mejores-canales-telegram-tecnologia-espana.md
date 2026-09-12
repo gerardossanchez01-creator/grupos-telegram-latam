@@ -262,3 +262,6 @@ Ver [ofertas Amazon España](/blog/grupos-telegram-ofertas-espana-amazon) para t
 ## Cierre
 
 Con 5-7 canales tech españoles bien elegidos estás mejor informado que la mayoría del sector. Suscríbete a Xataka como base, añade especializaciones de tu interés (móvil, gaming, cibersec, cloud) y suma 1-2 analistas independientes para tener perspectivas distintas. Si administras un canal tech, [añádelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

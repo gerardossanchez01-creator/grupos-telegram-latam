@@ -191,3 +191,6 @@ Antes de irte de todos tus grupos, revisa qué estás perdiéndote:
 ## Cierre
 
 Salir de un grupo de Telegram sin que se note es posible siempre que sepas en qué tipo de comunidad estás. En supergrupos y canales, es 100% silencioso. En grupos básicos, un cambio temporal de nombre y foto disimula bien. Y muchas veces la mejor opción no es salir: es silenciar. Cuando hagas limpieza, aprovecha para descubrir mejores comunidades en nuestro [directorio de categorías](/#categorias) o en las páginas por país como [España](/pais/espana) y [México](/pais/mexico).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

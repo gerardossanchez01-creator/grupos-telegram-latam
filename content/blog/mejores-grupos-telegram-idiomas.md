@@ -222,3 +222,6 @@ Los grupos ayudan a identificar tu patrón y corregirlo.
 ## Cierre
 
 Aprender un idioma con Telegram no reemplaza al método formal, pero lo multiplica. Un grupo activo te da la práctica cotidiana, el contexto cultural y la motivación que ningún curso solo puede dar. Elige 1-2 comunidades, comprométete a participar diariamente y en 6 meses verás el salto. Si administras una comunidad de idiomas, [añádela a nuestro directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

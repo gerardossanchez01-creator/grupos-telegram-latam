@@ -218,3 +218,6 @@ Los clubes serios los filtran rápido para mantener nivel de debate.
 ## Cierre
 
 Un buen grupo de Telegram de libros multiplica lo que lees y lo que aprovechas de cada lectura. Elige 1 general + 1 de género + 1 club sincronizado. En un año pasarás de "leo 5 libros al año" a "leo 20 y con debate profundo". Si administras un club de lectura, [añádelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

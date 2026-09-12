@@ -199,3 +199,6 @@ Al migrar o instalar por primera vez:
 ## Cierre
 
 Telegram no reemplaza a WhatsApp, lo complementa. Si usas mensajería más allá de chats familiares (comunidades, canales, trabajo, aprendizaje), Telegram es superior sin discusión. Migra los usos donde brilla, mantén WhatsApp donde tenga sentido y usa Signal para lo verdaderamente sensible. Explora [comunidades por temática](/#categorias) o [país](/pais/mexico) para descubrir lo mejor.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

@@ -224,3 +224,6 @@ Bien hecho, un grupo con Topics reduce quejas por ruido un 60%.
 ## Cierre
 
 Elegir entre grupo y canal es elegir entre conversación y difusión. Cuando dudes, empieza con canal si tu contenido es curado y con grupo si el valor está en la interacción. Y si tu proyecto puede necesitar ambos, monta canal principal + grupo vinculado desde el día 1. Cuando lo tengas listo, [añádelo a nuestro directorio](/anadir-grupo) o inspírate en [categorías](/#categorias) y [países](/pais/espana).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

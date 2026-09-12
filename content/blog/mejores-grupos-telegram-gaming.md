@@ -210,3 +210,6 @@ En consolas, la conversación se centra en la compatibilidad retroactiva, servic
 ## Cierre
 
 Los grupos gaming en Telegram son un multiplicador brutal si sabes filtrar. Elige pocos, silencia el resto y participa aportando. Si administras una comunidad seria de tu juego favorito, [añádela al directorio](/anadir-grupo) para llegar a miles de jugadores buscando exactamente eso.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

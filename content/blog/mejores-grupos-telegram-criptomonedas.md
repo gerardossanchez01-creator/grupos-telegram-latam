@@ -169,3 +169,6 @@ Muchos usuarios cometen el error de anclarse a una sola plataforma. Si solo lees
 ## Cierre
 
 Los grupos cripto en Telegram pueden acelerar tu aprendizaje años o costarte todo tu portafolio en una noche. La diferencia está en elegir bien, mantener buena higiene de seguridad y no confundir señales de un chat con decisiones de inversión. Empieza por 2-3 grupos educativos, aprende a filtrar y solo después súmate a comunidades más nicho. Y si administras uno serio, [añádelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

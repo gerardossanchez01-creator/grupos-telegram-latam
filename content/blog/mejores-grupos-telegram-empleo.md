@@ -169,3 +169,6 @@ Un patrón que se repite: quienes tratan la búsqueda como trabajo (2-3 horas al
 ## Cierre
 
 Los grupos de Telegram no son una bala de plata, pero son el canal con mejor relación calidad/tiempo si quieres trabajo remoto en 2026. Elige pocos, aplica con disciplina y mantén tu CV y portafolio actualizados. Y si administras una comunidad seria de empleo, [súmala al directorio](/anadir-grupo) para que más candidatos te encuentren.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

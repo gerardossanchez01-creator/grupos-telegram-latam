@@ -207,3 +207,6 @@ Estar en varias comunidades puede saturar rápido si no tienes reglas de higiene
 ## Cierre
 
 Todos los grupos técnicos verificados están en nuestra [categoría de programación](/categoria/programacion). Si administras uno, [añádelo gratis al directorio](/anadir-grupo). Y recuerda: las mejores comunidades no son las más grandes, son aquellas donde puedes aprender de gente que ya está donde tú quieres estar en 2-3 años.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

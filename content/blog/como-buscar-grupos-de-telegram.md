@@ -160,3 +160,6 @@ LatAm y España tienen ecosistemas de Telegram muy distintos. Estos son los mejo
 ---
 
 Ahora que sabes cómo encontrarlos, echa un vistazo a nuestro directorio ordenado por categorías: [ofertas y chollos](/categoria/ofertas-y-chollos), [criptomonedas](/categoria/criptomonedas), [empleo remoto](/categoria/empleo-y-freelance), [programación](/categoria/programacion), [gaming](/categoria/gaming) y [anime](/categoria/anime-y-manga). Si prefieres una guía por temática con las mejores comunidades ya seleccionadas, mira [los mejores grupos de Telegram de ofertas](/blog/mejores-grupos-telegram-ofertas) o [los mejores grupos de cripto](/blog/mejores-grupos-telegram-criptomonedas).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

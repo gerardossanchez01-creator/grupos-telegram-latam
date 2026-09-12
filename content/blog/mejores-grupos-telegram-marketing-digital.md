@@ -204,3 +204,6 @@ Sin dominar estas métricas, es difícil aportar en grupos de nivel medio-alto.
 ## Cierre
 
 Los grupos de Telegram de marketing digital son la forma más rápida de estar al día sin depender de LinkedIn ni de newsletters. Elige 3-4 activos, contribuye con casos reales y aprovecha para hacer networking 1 a 1. En 6 meses, tu red profesional habrá cambiado. Si administras una comunidad, [añádela](/anadir-grupo) para escalar más rápido.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

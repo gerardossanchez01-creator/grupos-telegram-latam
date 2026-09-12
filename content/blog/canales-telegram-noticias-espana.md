@@ -250,3 +250,6 @@ Un canal generalista publica entre 30 y 80 posts al día. Con cuatro suscritos, 
 ## Cierre
 
 Un buen kit de 4-6 canales de noticias españoles te mantiene informado sin fatiga. Combina generalistas + económico + regional + un curador. Silencia todo, revisa 1-2 veces al día y contrasta siempre. Si administras un canal informativo español, [súbelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

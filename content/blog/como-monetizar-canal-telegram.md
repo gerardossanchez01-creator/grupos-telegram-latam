@@ -201,3 +201,6 @@ Sin diversificar, cualquier bajón (cambio de algoritmo, un patrocinador cae) ti
 ## Cierre
 
 Monetizar un canal de Telegram en 2026 es un negocio real. Elige 2-3 fuentes complementarias según nicho, publica 75% de valor gratis y 25% monetizado, y prioriza siempre calidad de audience sobre volumen. Con el enfoque correcto, un canal de 15.000 miembros bien construido puede sostenerte a tiempo completo. Cuando esté maduro, [súbelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

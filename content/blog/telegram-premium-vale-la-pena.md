@@ -235,3 +235,6 @@ Sí. Sin renovación, vuelves a versión gratis automáticamente al final del pe
 ## Cierre
 
 Telegram Premium vale la pena si admines varios canales, envías archivos grandes con frecuencia o consumes muchas comunidades. Para el usuario casual, la versión gratis es más que suficiente. Antes de pagar, prueba una mensualidad y evalúa qué funciones usas de verdad. Si administras una comunidad, [súbela al directorio](/anadir-grupo) para escalar antes de invertir en tools.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

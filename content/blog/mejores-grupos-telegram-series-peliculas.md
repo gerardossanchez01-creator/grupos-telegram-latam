@@ -202,3 +202,6 @@ Los mejores grupos convivan los tres perfiles. Los peores se fragmentan por elit
 ## Cierre
 
 Los grupos de Telegram sobre series y películas transforman una experiencia individual en comunitaria. Elige 2-3 alineados con tus gustos, participa con reseñas cortas y aprovecha el sync-watch cuando salga un estreno importante. Prohibido spoilear, prohibido pirateo, permitido debatir a fondo. Si administras una comunidad, [añádela](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

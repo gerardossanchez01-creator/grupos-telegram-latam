@@ -183,7 +183,7 @@ export default function CategoriaPage({ params }: { params: { slug: string } }) 
       {/* Cierre con enlaces internos */}
       <section className="mt-8 text-sm text-slate-600 bg-slate-50 rounded-lg p-6 border border-slate-200">
         <p>
-          ¿Quieres explorar más? Vuelve al <Link href="/" className="text-brand hover:underline">inicio del directorio</Link>, revisa las <Link href="/#categorias" className="text-brand hover:underline">18 categorías</Link>, filtra <Link href="/#por-pais" className="text-brand hover:underline">por país</Link> o consulta las <Link href="/blog" className="text-brand hover:underline">guías completas del blog</Link>. Si eres administrador de una comunidad de {cat.nombre.toLowerCase()}, <Link href="/anadir-grupo" className="text-brand hover:underline">añade tu grupo gratis</Link>.
+          ¿Quieres explorar más? Vuelve al <Link href="/" className="text-brand hover:underline">inicio del directorio</Link>, revisa las <Link href="/#categorias" className="text-brand hover:underline">18 categorías</Link>, filtra <Link href="/#por-pais" className="text-brand hover:underline">por país</Link>, consulta las <Link href="/blog" className="text-brand hover:underline">guías completas del blog</Link> o explora el <Link href="/bots" className="text-brand hover:underline">directorio de bots de Telegram</Link> (moderación, antispam, IA y automatización). Si eres administrador de una comunidad de {cat.nombre.toLowerCase()}, <Link href="/anadir-grupo" className="text-brand hover:underline">añade tu grupo gratis</Link>.
         </p>
       </section>
     </>

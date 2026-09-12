@@ -202,3 +202,6 @@ Los recién llegados suelen tropezar en cosas simples: unirse a muchos grupos y 
 ## Cierre
 
 La comunidad otaku hispanohablante en Telegram es probablemente una de las más apasionadas del ecosistema. Elige bien tus grupos, respeta las reglas de spoiler y aporta cuando puedas. Si administras una comunidad seria, [añádela al directorio](/anadir-grupo) para llegar a más fans que buscan exactamente ese nicho.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

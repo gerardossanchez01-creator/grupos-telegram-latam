@@ -240,3 +240,6 @@ Muchas organizan meetups mensuales presenciales en 22@ o en el centro. Perfecto 
 ## Cierre
 
 Barcelona en Telegram es un ecosistema muy vivo. Con 3-4 grupos bien elegidos cubres empleo, alquiler, planes y red social. Especialmente útil si eres recién llegado. Si administras una comunidad barcelonesa, [súbela al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

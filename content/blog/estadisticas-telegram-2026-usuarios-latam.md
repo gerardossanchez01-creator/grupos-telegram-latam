@@ -228,3 +228,6 @@ Los datos por país son estimaciones agregadas, no cifras oficiales exactas (Tel
 ## Cierre
 
 Telegram en 2026 es un ecosistema hispano robusto de más de 100 millones de usuarios activos, con crecimiento sostenido y nichos en plena expansión. Si aún no tienes presencia como creador, marca o comunidad, este es el momento: la ventana de bajo CAC sigue abierta pero se cerrará. Explora [comunidades por país](/#categorias) para inspirarte o [súbe la tuya](/anadir-grupo) para escalar.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

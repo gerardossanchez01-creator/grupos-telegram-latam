@@ -207,3 +207,6 @@ Los bots antispam bloquean 95% del primero pero solo 30-40% del segundo. Por eso
 ## Cierre
 
 Los bots antispam son la primera línea de defensa de cualquier grupo que aspire a crecer sin degradarse. Empieza con Shieldy + Rose, añade Daysandbox si tienes muchas entradas diarias, y suma Combot cuando cruces los 5.000 miembros. Con esta combinación bien configurada, tu comunidad se mantiene limpia con moderación humana mínima. Cuando el grupo esté afinado, [súbelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

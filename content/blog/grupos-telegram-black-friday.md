@@ -221,3 +221,6 @@ Priorizar tiendas con devolución fácil da margen si te equivocas.
 ## Cierre
 
 Black Friday 2026 será, como cada año, la mejor oportunidad para renovar electrónica, hogar y ropa a precios reales. Prepara tu lista con antelación, verifica precios con Keepa, silencia canales fuera del momento pero activa alertas por producto. En una semana bien gestionada puedes ahorrar cientos de euros o pesos sin comprar por impulso. Si administras un canal de ofertas, [súbelo al directorio](/anadir-grupo) antes de noviembre.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

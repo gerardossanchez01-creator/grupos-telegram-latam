@@ -176,3 +176,6 @@ Otro error habitual es no leer los comentarios del grupo antes de comprar. Mucha
 ## Cierre
 
 Cazar chollos en Telegram no es cuestión de suerte, es método: pocos grupos bien elegidos, notificaciones ordenadas y disciplina para no comprar por impulso lo que no necesitas. Si aplicas estos consejos, en un mes verás la diferencia en tu presupuesto. Y si administras una comunidad, [súbela a nuestro directorio](/anadir-grupo) para que más gente la descubra.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

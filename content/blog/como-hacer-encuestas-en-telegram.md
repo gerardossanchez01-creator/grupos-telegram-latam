@@ -210,3 +210,6 @@ Ciclo cerrado que sube compromiso.
 ## Cierre
 
 Las encuestas en Telegram son la herramienta más infrautilizada del ecosistema. Bien planteadas, aumentan participación, dan datos accionables y refuerzan la sensación de comunidad. Empieza con una encuesta a la semana, mide la respuesta y ajusta. Si administras varias comunidades, integra bots como QuizBot o PollBot para automatizar. Y cuando tengas tu grupo funcionando, [súbelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

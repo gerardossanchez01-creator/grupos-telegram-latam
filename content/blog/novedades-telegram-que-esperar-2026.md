@@ -243,3 +243,6 @@ Como admin o creador, actitud sana:
 ## Cierre
 
 2026 confirma la trayectoria ambiciosa de Telegram: economía in-app con Stars, ecosistema de mini-apps, monetización real para creadores, herramientas robustas para admins y mejoras continuas en privacidad. Para creadores hispanos, es el momento de aprovechar: infraestructura madura + audiencia en crecimiento. Si administras una comunidad, [súbela al directorio](/anadir-grupo) para no quedarte fuera.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

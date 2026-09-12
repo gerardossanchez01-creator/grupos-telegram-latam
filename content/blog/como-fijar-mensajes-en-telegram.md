@@ -227,3 +227,6 @@ Rota fijados con criterio editorial: cada canal tiene su rutina.
 ## Cierre
 
 Un buen mensaje fijado ahorra decenas de mensajes de moderación al mes. Piensa el fijado como la portada de tu grupo: corta, útil, actualizada. Revisa cada 30 días si sigue vigente. Cuando tu comunidad esté bien montada, [publícala en el directorio](/anadir-grupo) o inspírate en las comunidades de [España](/pais/espana) y [Argentina](/pais/argentina).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

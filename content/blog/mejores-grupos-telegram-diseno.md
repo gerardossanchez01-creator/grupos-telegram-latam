@@ -244,3 +244,6 @@ En 2026 las certificaciones más valoradas en grupos de diseño:
 ## Cierre
 
 Una comunidad activa de diseño en Telegram es la mejor escuela paralela que puedes tener. Elige 2-3 grupos (uno general + uno de tu especialidad + uno de tu herramienta), publica con contexto y devuelve tanto feedback como recibes. Si administras una comunidad creativa, [súbela al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

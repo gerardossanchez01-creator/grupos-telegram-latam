@@ -202,3 +202,6 @@ Si silenciaste algo y aún así te llegan avisos:
 ## Cierre
 
 Silenciar bien es la diferencia entre disfrutar Telegram y odiarlo. Con el silencio granular, excepciones por palabra clave y horarios, puedes pertenecer a decenas de comunidades sin que ninguna te haga la vida imposible. Prueba distintos ajustes durante una semana y quédate con lo que reduzca ruido sin quitar valor. Después, aprovecha para explorar [categorías nuevas](/#categorias) o [grupos por país](/pais/colombia) sin miedo a saturarte.
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

@@ -246,3 +246,6 @@ Los grupos ayudan a encontrar profesionales recomendados por otros usuarios.
 ## Cierre
 
 Un buen grupo de Telegram de fitness es el mejor entrenador colectivo que puedes tener: gratis, siempre disponible, con casos reales. Elige uno alineado con tu objetivo, comprométete al reporte semanal y en 3 meses verás la diferencia. Si administras una comunidad, [añádela al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

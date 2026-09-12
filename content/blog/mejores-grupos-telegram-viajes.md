@@ -219,3 +219,6 @@ Los grupos son fuente rápida de "me pasó, hice X, funcionó".
 ## Cierre
 
 Un buen grupo de viajes en Telegram ahorra cientos de euros al año y decenas de horas de investigación. Elige 1 global + 1-2 específicos de tu próximo destino, activa alertas por palabras clave y contribuye cuando vuelvas. Si administras una comunidad de viajeros, [añádela al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

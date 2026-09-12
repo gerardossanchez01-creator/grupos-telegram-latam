@@ -219,3 +219,6 @@ Estado categorizado: "Como nuevo", "Muy bueno", "Bueno", "Aceptable". Los dos pr
 ## Cierre
 
 Con 3-4 canales bien elegidos (Chollometro + Errores de Precio + uno específico de categoría) cubres 90% de las buenas ofertas de Amazon España. Combina con verificación en Keepa, cashback y compras planeadas para maximizar ahorro sin caer en compras impulsivas. Si administras un canal de chollos, [súbelo al directorio](/anadir-grupo).
+
+
+**Complementa este directorio con nuestro [catálogo de bots de Telegram](/bots)**: herramientas de [moderación](/bots/categoria/moderacion), [antispam](/bots/categoria/antispam), [IA](/bots/categoria/ia-y-chatgpt) y [utilidades](/bots/categoria/utilidades) imprescindibles para admins.

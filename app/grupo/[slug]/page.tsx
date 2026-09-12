@@ -140,7 +140,7 @@ export default function GrupoPage({ params }: { params: { slug: string } }) {
       {/* CTA final */}
       <section className="mt-10 text-sm text-slate-600 bg-slate-50 rounded-lg p-6 border border-slate-200">
         <p>
-          ¿Administras un grupo o canal parecido? <Link href="/anadir-grupo" className="text-brand hover:underline font-medium">Añádelo gratis al directorio</Link> y llega a miles de usuarios buscando comunidades de {cat?.nombre.toLowerCase() ?? "Telegram"}. Revisamos manualmente en 24-48h.
+          ¿Administras un grupo o canal parecido? <Link href="/anadir-grupo" className="text-brand hover:underline font-medium">Añádelo gratis al directorio</Link> y llega a miles de usuarios buscando comunidades de {cat?.nombre.toLowerCase() ?? "Telegram"}. Revisamos manualmente en 24-48h. Y si ya administras uno, no te pierdas nuestro <Link href="/bots" className="text-brand hover:underline">directorio de bots de Telegram</Link> con más de 30 herramientas de moderación, antispam, IA y estadísticas.
         </p>
       </section>
     </>
