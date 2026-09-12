@@ -17,18 +17,15 @@ export const metadata: Metadata = {
     siteName: SITE.name,
   },
   robots: { index: true, follow: true },
-  verification: {
-    google: [
-      "DBDTe0ZI86V_DMR7eP6hPMx2G-q5CxcY2UmgWBpRscI",
-      "r9Qkxvcs9zUB_O9NXLJv1aDfBx5ifuzF_XUf9YvwMlM",
-    ],
-  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es">
       <head>
+        {/* Google Search Console verifications */}
+        <meta name="google-site-verification" content="DBDTe0ZI86V_DMR7eP6hPMx2G-q5CxcY2UmgWBpRscI" />
+        <meta name="google-site-verification" content="r9Qkxvcs9zUB_O9NXLJv1aDfBx5ifuzF_XUf9YvwMlM" />
         {/* Google AdSense */}
         <Script
           async
