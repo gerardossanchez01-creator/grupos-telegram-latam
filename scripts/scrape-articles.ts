@@ -19,6 +19,7 @@ import path from "node:path";
 // Añade aquí URLs de artículos listicle "los mejores grupos de telegram"
 // de medios limpios. El scraper extraerá todos los t.me/ que aparezcan.
 const SOURCE_ARTICLES = [
+  // === LISTICLES GENÉRICOS ===
   "https://www.elgrupoinformatico.com/noticias/grupos-telegram-los-que-debes-unirte-t79929.html",
   "https://computerhoy.20minutos.es/apps/mejores-grupos-telegram-te-puedes-unir-espana-1400333",
   "https://filmora.wondershare.es/telegram/best-telegram-groups.html",
@@ -29,6 +30,17 @@ const SOURCE_ARTICLES = [
   "https://respond.io/es/blog/telegram-groups",
   "https://www.grupostelegram.net/peliculas.html",
   "https://www.grupostelegram.net/cdmx.html",
+
+  // === ESPAÑA — LISTICLES LOCALES ===
+  "https://www.xatakamovil.com/aplicaciones/mejores-canales-telegram-que-debes-seguir-2024",
+  "https://www.softzone.es/programas/tutorial-software/mejores-canales-telegram/",
+  "https://www.adslzone.net/reportajes/software/canales-grupos-telegram-imprescindibles/",
+  "https://as.com/meristation/reportajes/mejores-canales-de-telegram-para-videojuegos-n/",
+  "https://www.eleconomista.es/tecnologia/noticias/12345678/mejores-canales-telegram-espana/",
+  "https://www.20minutos.es/tecnologia/aplicaciones/mejores-canales-telegram-espana/",
+  "https://andro4all.com/aplicaciones/mejores-canales-telegram-espana",
+  "https://www.trecebits.com/mejores-canales-telegram-espana/",
+
   // Añade más URLs cuando descubras nuevos listicles limpios
 ];
 

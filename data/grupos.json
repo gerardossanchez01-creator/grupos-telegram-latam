@@ -176,6 +176,17 @@
     "fechaAgregado": "2026-01-14"
   },
   {
+    "slug": "cripto-espana",
+    "nombre": "Cripto España",
+    "descripcion": "Fiscalidad cripto en España, exchanges (Bit2Me, Bitpanda), regulación MiCA y comunidad hispana peninsular.",
+    "categoria": "criptomonedas",
+    "pais": "espana",
+    "link": "https://t.me/criptoespana",
+    "miembros": 14500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "criptonoticias",
     "nombre": "CriptoNoticias",
     "descripcion": "Noticias, guías e información en español sobre Bitcoin y criptomonedas. Uno de los medios cripto más leídos en español.",
@@ -308,6 +319,17 @@
     "fechaAgregado": "2026-01-24"
   },
   {
+    "slug": "empleo-espana-remoto",
+    "nombre": "Empleo España Remoto",
+    "descripcion": "Ofertas de trabajo remoto en España o de empresas españolas que aceptan candidatos LatAm. Actualizado a diario.",
+    "categoria": "empleo-y-freelance",
+    "pais": "espana",
+    "link": "https://t.me/empleoesremoto",
+    "miembros": 9500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "diseno-ux-ui-empleo",
     "nombre": "Diseño UX/UI Empleo",
     "descripcion": "Vacantes de product designers, UI, UX research y motion. Incluyen briefs de las empresas y portafolios de referencia.",
@@ -317,6 +339,28 @@
     "miembros": 7800,
     "verificado": true,
     "fechaAgregado": "2026-01-28"
+  },
+  {
+    "slug": "empleos-madrid",
+    "nombre": "Empleos Madrid",
+    "descripcion": "Ofertas de trabajo en Madrid capital y comunidad. Tech, marketing, oficina y sector servicios.",
+    "categoria": "empleo-y-freelance",
+    "pais": "espana",
+    "link": "https://t.me/empleosmadrid",
+    "miembros": 7200,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "empleos-barcelona",
+    "nombre": "Empleos Barcelona",
+    "descripcion": "Ofertas de trabajo en Barcelona y área metropolitana. Enfoque tech y startups.",
+    "categoria": "empleo-y-freelance",
+    "pais": "espana",
+    "link": "https://t.me/empleosbcn",
+    "miembros": 6800,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
   },
   {
     "slug": "getmanfred",
@@ -361,6 +405,17 @@
     "miembros": 22000,
     "verificado": true,
     "fechaAgregado": "2026-01-23"
+  },
+  {
+    "slug": "emprendedores-espana",
+    "nombre": "Emprendedores España",
+    "descripcion": "Founders, freelancers y autónomos en España. Fiscalidad, herramientas, networking y ronda de feedback.",
+    "categoria": "emprendimiento",
+    "pais": "espana",
+    "link": "https://t.me/emprendedoresesp",
+    "miembros": 11500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
   },
   {
     "slug": "entrepreneurs-mario-armenta",
@@ -473,6 +528,17 @@
     "fechaAgregado": "2026-01-22"
   },
   {
+    "slug": "3djuegos",
+    "nombre": "3DJuegos",
+    "descripcion": "Canal del medio de referencia gaming en España. Análisis, noticias, guías y comunidad activa.",
+    "categoria": "gaming",
+    "pais": "espana",
+    "link": "https://t.me/3djuegos",
+    "miembros": 18500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "fifa-ea-fc-espanol",
     "nombre": "FIFA / EA FC Español",
     "descripcion": "Ultimate Team: precios de cartas, plantillas competitivas, torneos online, hilos por evento del juego.",
@@ -482,6 +548,17 @@
     "miembros": 16500,
     "verificado": true,
     "fechaAgregado": "2026-01-27"
+  },
+  {
+    "slug": "meristation",
+    "nombre": "MeriStation",
+    "descripcion": "Videojuegos en España: análisis, noticias, esports y comunidad. Canal oficial del medio.",
+    "categoria": "gaming",
+    "pais": "espana",
+    "link": "https://t.me/meristation",
+    "miembros": 16200,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
   },
   {
     "slug": "cs2-espanol",
@@ -605,6 +682,17 @@
     "fechaAgregado": "2026-01-11"
   },
   {
+    "slug": "seros-espana",
+    "nombre": "SEOs de España",
+    "descripcion": "Comunidad de profesionales SEO en España: técnico, contenido, link building, IA y updates de Google en tiempo real.",
+    "categoria": "marketing-digital",
+    "pais": "espana",
+    "link": "https://t.me/seosespana",
+    "miembros": 8500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "marketing4ecommerce",
     "nombre": "Marketing4eCommerce",
     "descripcion": "Revista de marketing digital y comercio electrónico referente en España, México, Colombia y Chile.",
@@ -623,6 +711,17 @@
     "pais": "",
     "link": "https://t.me/seo30",
     "miembros": 6500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "growth-hacking-espana",
+    "nombre": "Growth Hacking España",
+    "descripcion": "Estrategias de crecimiento, casos de éxito y networking entre growth hackers y product managers españoles.",
+    "categoria": "marketing-digital",
+    "pais": "espana",
+    "link": "https://t.me/growthhackinges",
+    "miembros": 5500,
     "verificado": true,
     "fechaAgregado": "2026-09-12"
   },
@@ -770,6 +869,17 @@
     "fechaAgregado": "2026-09-12"
   },
   {
+    "slug": "chollos-canal-oficial-espana",
+    "nombre": "Chollos.com",
+    "descripcion": "Canal oficial de Chollos.com. Ofertas y descuentos verificados de Amazon y tiendas españolas. Publicaciones cada pocos minutos.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/canalchollos",
+    "miembros": 22000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "cupones-codigos-mx",
     "nombre": "Cupones y Códigos MX",
     "descripcion": "Cupones activos de Uber Eats, DiDi, Rappi, Shein y más. Publicaciones cada pocas horas verificadas por moderadores.",
@@ -788,6 +898,17 @@
     "pais": "espana",
     "link": "https://t.me/ofertas_computerhoy",
     "miembros": 18000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "chollos-y-ofertas-espana",
+    "nombre": "Chollos y Ofertas España",
+    "descripcion": "Comunidad española de cazadores de ofertas. Amazon España, PcComponentes, Fnac y tiendas locales. Rebajas y Black Friday cubiertos al detalle.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/chollosyofertases",
+    "miembros": 17500,
     "verificado": true,
     "fechaAgregado": "2026-09-12"
   },
@@ -825,12 +946,34 @@
     "fechaAgregado": "2026-02-01"
   },
   {
+    "slug": "cazando-gangas",
+    "nombre": "Cazando Gangas España",
+    "descripcion": "Ofertas seleccionadas manualmente por editores para el mercado español. Amazon, MediaMarkt, El Corte Inglés, PcComponentes.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/cazandogangas",
+    "miembros": 14000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "cholloschina",
     "nombre": "CholloChina - Chollos y Ofertas",
     "descripcion": "Rastreamos las mejores ofertas solo en tiendas confiables. Afiliado de Amazon oficial.",
     "categoria": "ofertas-y-chollos",
     "pais": "",
     "link": "https://t.me/cholloschina",
+    "miembros": 12000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "ofertas-tecnologia-espana",
+    "nombre": "Ofertas Tecnología España",
+    "descripcion": "Solo ofertas de tecnología en España: móviles, portátiles, gaming, componentes PC. Fuentes verificadas.",
+    "categoria": "ofertas-y-chollos",
+    "pais": "espana",
+    "link": "https://t.me/ofertastechespana",
     "miembros": 12000,
     "verificado": true,
     "fechaAgregado": "2026-09-12"
@@ -869,6 +1012,17 @@
     "fechaAgregado": "2026-09-12"
   },
   {
+    "slug": "xataka-android",
+    "nombre": "Xataka Android",
+    "descripcion": "Todo el mundo Android: análisis, novedades, apps recomendadas y ofertas de smartphones. Canal oficial de Xataka Android.",
+    "categoria": "programacion",
+    "pais": "espana",
+    "link": "https://t.me/xatakaandroid",
+    "miembros": 28000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "inteligencia-artificial-espanol",
     "nombre": "Inteligencia Artificial Español",
     "descripcion": "Papers, uso de LLMs en producto, tooling (LangChain, agents, RAG), prompt engineering. Comunidad en explosión.",
@@ -891,6 +1045,17 @@
     "fechaAgregado": "2026-01-13"
   },
   {
+    "slug": "el-androide-libre",
+    "nombre": "El Androide Libre",
+    "descripcion": "Blog líder español de Android. Análisis, tutoriales, novedades del sistema operativo y del ecosistema Google.",
+    "categoria": "programacion",
+    "pais": "espana",
+    "link": "https://t.me/elandroidelibre",
+    "miembros": 19500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "programacion-desde-cero",
     "nombre": "Programación desde Cero",
     "descripcion": "Para quien empieza. Ambiente paciente, sin gatekeeping. Preguntas básicas bienvenidas y admins moderan la toxicidad.",
@@ -909,6 +1074,17 @@
     "pais": "",
     "link": "https://t.me/genbeta",
     "miembros": 18000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "slug": "adslzone",
+    "nombre": "ADSLZone",
+    "descripcion": "Noticias de tecnología, telecomunicaciones, operadores, streaming y análisis de productos. Referente español.",
+    "categoria": "programacion",
+    "pais": "espana",
+    "link": "https://t.me/adslzone",
+    "miembros": 16000,
     "verificado": true,
     "fechaAgregado": "2026-09-12"
   },
@@ -935,6 +1111,17 @@
     "fechaAgregado": "2026-09-12"
   },
   {
+    "slug": "devs-espana",
+    "nombre": "Devs España",
+    "descripcion": "Comunidad de desarrolladores en España. Sueldos, procesos de entrevista, empresas y networking técnico.",
+    "categoria": "programacion",
+    "pais": "espana",
+    "link": "https://t.me/devsesp",
+    "miembros": 13500,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "ciberseguridad-espanol",
     "nombre": "Ciberseguridad Español",
     "descripcion": "Bug bounty, pentesting, CTFs, actualizaciones de vulnerabilidades. Ambiente serio y profesional.",
@@ -957,6 +1144,17 @@
     "fechaAgregado": "2026-01-09"
   },
   {
+    "slug": "softzone",
+    "nombre": "SoftZone",
+    "descripcion": "Software para Windows, Linux y Mac. Análisis, tutoriales, recomendaciones y descargas legales.",
+    "categoria": "programacion",
+    "pais": "espana",
+    "link": "https://t.me/softzone_es",
+    "miembros": 11000,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
+  },
+  {
     "slug": "data-science-ml-espanol",
     "nombre": "Data Science y ML Español",
     "descripcion": "Machine learning, deep learning, MLOps, papers recientes. Nivel medio-alto, se asume base en estadística.",
@@ -977,6 +1175,17 @@
     "miembros": 8500,
     "verificado": true,
     "fechaAgregado": "2026-01-21"
+  },
+  {
+    "slug": "react-espana",
+    "nombre": "React España",
+    "descripcion": "Comunidad española de desarrolladores React, Next.js y ecosistema JavaScript moderno.",
+    "categoria": "programacion",
+    "pais": "espana",
+    "link": "https://t.me/reactesp",
+    "miembros": 6200,
+    "verificado": true,
+    "fechaAgregado": "2026-09-12"
   },
   {
     "slug": "thegoodhacker",
