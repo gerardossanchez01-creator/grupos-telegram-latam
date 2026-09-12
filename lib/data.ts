@@ -19,7 +19,7 @@ export const SITE = {
   url: "https://grupostelegramlatam.com",
   description:
     "El directorio más grande de grupos y canales de Telegram en español. Ofertas, cripto, empleo, programación, gaming, anime, bots y más. 96+ grupos y 30+ bots verificados.",
-  adsenseClient: "ca-pub-XXXXXXXXXXXXXXXX", // reemplaza con tu client id cuando aplique AdSense
+  adsenseClient: "ca-pub-2976241576699769",
 };
 
 export const grupos: Grupo[] = gruposJson as Grupo[];
