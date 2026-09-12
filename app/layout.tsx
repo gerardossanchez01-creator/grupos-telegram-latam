@@ -25,7 +25,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         {/* Google Search Console verification */}
         <meta name="google-site-verification" content="ehzvaJrTd1Mn1qR_RXVzravheM6bL_S8mLdwcV-SAyU" />
-        {/* Google AdSense */}
+        {/* Google AdSense — meta de verificación + script async */}
+        <meta name="google-adsense-account" content={SITE.adsenseClient} />
         <Script
           async
           strategy="afterInteractive"

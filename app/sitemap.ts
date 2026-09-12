@@ -23,6 +23,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     })),
     { url: `${SITE.url}/anadir-grupo`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
+    { url: `${SITE.url}/contacto`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
+    { url: `${SITE.url}/politica-privacidad`, lastModified: now, changeFrequency: "yearly", priority: 0.2 },
+    { url: `${SITE.url}/terminos`, lastModified: now, changeFrequency: "yearly", priority: 0.2 },
     ...CATEGORIAS.map((c) => ({
       url: `${SITE.url}/categoria/${c.slug}`,
       lastModified: now,
