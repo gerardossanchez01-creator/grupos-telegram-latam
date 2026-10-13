@@ -6,6 +6,7 @@ import { PILARES_SLUGS } from "@/data/pilares";
 import { getPostsByPillar, getAllPosts } from "@/lib/blog";
 import GrupoCard from "@/components/GrupoCard";
 import AdSlot from "@/components/AdSlot";
+import AffiliateBanner from "@/components/AffiliateBanner";
 import FAQBlock from "@/components/FAQBlock";
 import BlogRelacionado from "@/components/BlogRelacionado";
 import { faqParaCategoria } from "@/data/faqs";
@@ -106,6 +107,9 @@ export default function CategoriaPage({ params }: { params: { slug: string } }) 
           </div>
         </>
       )}
+
+      {/* AFILIADOS — productos de Mercado Libre del nicho */}
+      <AffiliateBanner categoria={cat.slug} titulo={`Lo más comprado en ${cat.nombre}`} />
 
       {/* PILARES: enlaces geo */}
       {isPilar && (

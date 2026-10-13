@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import Link from "next/link";
 import { SITE } from "@/lib/data";
+import { SITE_SCRIPTS } from "@/data/adsterra";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -25,14 +26,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         {/* Google Search Console verification */}
         <meta name="google-site-verification" content="ehzvaJrTd1Mn1qR_RXVzravheM6bL_S8mLdwcV-SAyU" />
-        {/* Google AdSense — meta de verificación + script async */}
-        <meta name="google-adsense-account" content={SITE.adsenseClient} />
-        <Script
-          async
-          strategy="afterInteractive"
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`}
-          crossOrigin="anonymous"
-        />
+        {/* Adsterra — verificación del sitio (opcional, si el panel la pide) */}
+        {SITE_SCRIPTS.verification && (
+          <meta name="adsterra-site-verification" content={SITE_SCRIPTS.verification} />
+        )}
       </head>
       <body className="bg-slate-50 text-slate-900">
         <header className="bg-white border-b border-slate-200 sticky top-0 z-40">
@@ -67,6 +64,22 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </p>
           </div>
         </footer>
+
+        {/* Adsterra — scripts globales (se cargan solo si hay src configurado) */}
+        {SITE_SCRIPTS.socialBarSrc && (
+          <Script
+            id="adsterra-social-bar"
+            strategy="afterInteractive"
+            src={SITE_SCRIPTS.socialBarSrc}
+          />
+        )}
+        {SITE_SCRIPTS.popunderSrc && (
+          <Script
+            id="adsterra-popunder"
+            strategy="afterInteractive"
+            src={SITE_SCRIPTS.popunderSrc}
+          />
+        )}
       </body>
     </html>
   );
