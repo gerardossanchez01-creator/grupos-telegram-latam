@@ -4,6 +4,7 @@ import { PILARES_SLUGS } from "@/data/pilares";
 import { getFeaturedPosts } from "@/lib/blog";
 import GrupoCard from "@/components/GrupoCard";
 import AdSlot from "@/components/AdSlot";
+import AffiliateBanner from "@/components/AffiliateBanner";
 import FAQBlock from "@/components/FAQBlock";
 import BlogRelacionado from "@/components/BlogRelacionado";
 import { HOME_FAQ } from "@/data/faqs";
@@ -132,6 +133,9 @@ export default function Home() {
 
       {/* BLOG DESTACADO */}
       <BlogRelacionado posts={featuredPosts} title="Guías populares del blog" />
+
+      {/* Afiliados ML destacados en la home (ofertas) */}
+      <AffiliateBanner categoria="ofertas-y-chollos" titulo="Ofertas destacadas en Mercado Libre" />
 
       <AdSlot slot="9876543210" className="my-8" />
 
