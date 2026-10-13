@@ -32,16 +32,16 @@ export type AdZone = {
 };
 
 export const AD_ZONES: Record<string, AdZone> = {
-  "1234567890": { key: "", width: 728, height: 90 },  // Home — tras categorías
-  "9876543210": { key: "", width: 728, height: 90 },  // Home — zona media/baja
-  "2345678901": { key: "", width: 728, height: 90 },  // Categoría — tras intro
-  "3456789012": { key: "", width: 300, height: 250 }, // Categoría/Grupo — in-content
-  "5678901234": { key: "", width: 728, height: 90 },  // Categoría×País
-  "4567890123": { key: "", width: 300, height: 250 }, // Blog post
-  "9012345678": { key: "", width: 728, height: 90 },  // Blog listado
-  "6789012345": { key: "", width: 728, height: 90 },  // Bots listado
-  "7890123456": { key: "", width: 300, height: 250 }, // Bot ficha
-  "8901234567": { key: "", width: 728, height: 90 },  // Bots categoría
+  "1234567890": { key: "7f1ea2455501d460f4a76bbbce8c6b09", width: 728, height: 90 },  // Home — tras categorías
+  "9876543210": { key: "7f1ea2455501d460f4a76bbbce8c6b09", width: 728, height: 90 },  // Home — zona media/baja
+  "2345678901": { key: "7f1ea2455501d460f4a76bbbce8c6b09", width: 728, height: 90 },  // Categoría — tras intro
+  "3456789012": { key: "fafe236ce93897ad4ad27dbe2fdef823", width: 300, height: 250 }, // Categoría/Grupo — in-content
+  "5678901234": { key: "7f1ea2455501d460f4a76bbbce8c6b09", width: 728, height: 90 },  // Categoría×País
+  "4567890123": { key: "fafe236ce93897ad4ad27dbe2fdef823", width: 300, height: 250 }, // Blog post
+  "9012345678": { key: "7f1ea2455501d460f4a76bbbce8c6b09", width: 728, height: 90 },  // Blog listado
+  "6789012345": { key: "7f1ea2455501d460f4a76bbbce8c6b09", width: 728, height: 90 },  // Bots listado
+  "7890123456": { key: "fafe236ce93897ad4ad27dbe2fdef823", width: 300, height: 250 }, // Bot ficha
+  "8901234567": { key: "7f1ea2455501d460f4a76bbbce8c6b09", width: 728, height: 90 },  // Bots categoría
 };
 
 export function getAdZone(slot: string): AdZone | undefined {
