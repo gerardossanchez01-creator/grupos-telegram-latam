@@ -21,189 +21,271 @@ export type ProductoAfiliado = {
 
 // Enlaces generados en Mercado Libre el 13/10/2026.
 // Etiqueta: antoniogerardo20220803163353 (perfil FactotumMX).
+// Imágenes y precios (MXN) extraídos de la ficha de cada producto el 13/10/2026.
 export const AFILIADOS: Record<string, ProductoAfiliado[]> = {
   "gaming": [
     {
-      "titulo": "Control Alámbrico GameSir G7 Pro para Xbox Series X|S y Xbox One, Gamepad Inalámbrico para PC y Android con Palancas TMR, Gatillos Analógicos Hall Effect y Tasa de Sondeo de 1000Hz",
-      "url": "https://meli.la/2SjXhGT"
+      titulo: "Control GameSir G7 Pro (Xbox/PC, Hall Effect)",
+      url: "https://meli.la/2SjXhGT",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_633535-MLA98780126119_112025-O.webp",
+      precio: "$1,597",
     },
     {
-      "titulo": "Control Joystick Inalámbrico Microsoft Xbox Wireless Controller Robot White",
-      "url": "https://meli.la/2dAsPiK"
+      titulo: "Control inalámbrico Xbox Series — Robot White",
+      url: "https://meli.la/2dAsPiK",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_731205-MLA99521859502_122025-O.webp",
+      precio: "$1,354",
     },
     {
-      "titulo": "Control Con Cable Gamesir G7 SE Para Pc y xBox One Color Violeta",
-      "url": "https://meli.la/2i7y8uZ"
-    }
+      titulo: "Control GameSir G7 SE con cable (PC/Xbox)",
+      url: "https://meli.la/2i7y8uZ",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_673255-MLA99953518789_112025-O.webp",
+      precio: "$874",
+    },
   ],
   "anime-y-manga": [
     {
-      "titulo": "Panini Manga Naruto Gold Edition N.1",
-      "url": "https://meli.la/2jts2AF"
+      titulo: "Manga Naruto Gold Edition N.1 (Panini)",
+      url: "https://meli.la/2jts2AF",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_864926-MLM51655900755_092022-O.webp",
+      precio: "$269",
     },
     {
-      "titulo": "Editorial Panini Naruto La Verdadera Historia De Sasuke N.1",
-      "url": "https://meli.la/18HTEUo"
+      titulo: "Naruto: La verdadera historia de Sasuke N.1",
+      url: "https://meli.la/18HTEUo",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_761243-MLA86728008937_062025-O.webp",
+      precio: "$179",
     },
     {
-      "titulo": "Editorial Panini Naruto Boxset N.2",
-      "url": "https://meli.la/13mhnum"
-    }
+      titulo: "Naruto Boxset N.2 (Panini)",
+      url: "https://meli.la/13mhnum",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_974643-MLA80900623420_122024-O.webp",
+      precio: "$2,079",
+    },
   ],
   "musica": [
     {
-      "titulo": "Audífonos Inalámbricos Sony Wh-ch520 Negro",
-      "url": "https://meli.la/1u8AGVS"
+      titulo: "Audífonos inalámbricos Sony WH-CH520",
+      url: "https://meli.la/1u8AGVS",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_963414-MLA99445666920_112025-O.webp",
+      precio: "$679",
     },
     {
-      "titulo": "Bocina Portátil Aiwa Aws600bt Con Bluetooth Waterproof Negra",
-      "url": "https://meli.la/2KDXWs4"
+      titulo: "Bocina portátil Aiwa AWS600BT Bluetooth (waterproof)",
+      url: "https://meli.la/2KDXWs4",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_655583-MLA99989998391_112025-O.webp",
+      precio: "$849",
     },
     {
-      "titulo": "Micrófono Sony Ecm-lv1 Con Conector Trs De 3.5mm",
-      "url": "https://meli.la/1N1sQNq"
-    }
+      titulo: "Micrófono Sony ECM-LV1 (TRS 3.5 mm)",
+      url: "https://meli.la/1N1sQNq",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_706359-MLM93030318088_092025-O.webp",
+      precio: "$599",
+    },
   ],
   "fitness-y-salud": [
     {
-      "titulo": "Kit Mancuernas Ajustables 3 En 1 Barra Pesas Ejercicio 15kg Color Rojo/Negro",
-      "url": "https://meli.la/2Ef6shp"
+      titulo: "Kit mancuernas ajustables 3 en 1 (15 kg)",
+      url: "https://meli.la/2Ef6shp",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_619964-MLA95698259108_102025-O.webp",
+      precio: "$629",
     },
     {
-      "titulo": "Mancuerna Hexagonal Pesa Ejercicio Gym 15 Lb Gimnasio Color Negro",
-      "url": "https://meli.la/1FDJ7ei"
+      titulo: "Mancuerna hexagonal 15 lb",
+      url: "https://meli.la/1FDJ7ei",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_658824-MLA99529793766_122025-O.webp",
+      precio: "$388",
     },
     {
-      "titulo": "Kit De 2 Mancuernas Lincky Hexagonal Ejercicio Gym 20lb C/u Color Negro",
-      "url": "https://meli.la/1YPS6c5"
-    }
+      titulo: "Kit 2 mancuernas hexagonales 20 lb c/u",
+      url: "https://meli.la/1YPS6c5",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_661037-MLA86621357433_062025-O.webp",
+      precio: "$999",
+    },
   ],
   "libros-y-lectura": [
     {
-      "titulo": "Usb Recargable Lámpara De Lectura Para Libros Portátil Heroes Negro color de luz Blanco",
-      "url": "https://meli.la/2e8WL1P"
+      titulo: "Lámpara de lectura USB recargable (clip)",
+      url: "https://meli.la/2e8WL1P",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_906846-MLA96130698551_102025-O.webp",
+      precio: "$110",
     },
     {
-      "titulo": "Vanance Lámpara De Escritorio Led Giratorias Ajustable Flexible Van060104 Lampara De Lectura Usb Recargable 4000mah Luz 3 Temperaturas Y 360° Brazo Giratoria Led Color Negro",
-      "url": "https://meli.la/2r2oRR6"
+      titulo: "Lámpara de escritorio LED flexible USB (4000 mAh)",
+      url: "https://meli.la/2r2oRR6",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_926856-MLA109536294772_042026-O.webp",
+      precio: "$189",
     },
     {
-      "titulo": "Lámpara De Escritorio De Lectura Led Regulable",
-      "url": "https://meli.la/23XoN7c"
-    }
+      titulo: "Lámpara de escritorio LED regulable",
+      url: "https://meli.la/23XoN7c",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_628452-MLM83569107760_042025-O.webp",
+      precio: "$132",
+    },
   ],
   "programacion": [
     {
-      "titulo": "Teclado Magnético Mecánico Aula Win60he Estándar 8k Rgb E-sport Alámbrico",
-      "url": "https://meli.la/2XvRUvD"
+      titulo: "Teclado mecánico Aula Win60HE RGB 8K",
+      url: "https://meli.la/2XvRUvD",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_789341-MLA99946793497_112025-O.webp",
+      precio: "$649",
     },
     {
-      "titulo": "Teclado Mecánico Gamer Español con Ñ 100 Teclas RGB Hot Swap Free Wolf K3 Teclado USB Switch Rojo Teclado Alambrico para Gaming y Escritura, Blanco",
-      "url": "https://meli.la/1u3FFNK"
+      titulo: "Teclado mecánico gamer español (Ñ, RGB, hot-swap)",
+      url: "https://meli.la/1u3FFNK",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_929638-MLA113284630637_062026-O.webp",
+      precio: "$568",
     },
     {
-      "titulo": "Mechanical Teclado With 68 Keyons Red Rgb In English Compatible With PC/Portátil/Windows",
-      "url": "https://meli.la/1LRARpX"
-    }
+      titulo: "Teclado mecánico 68 teclas RGB (switch rojo)",
+      url: "https://meli.la/1LRARpX",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_895657-MLA109778752211_032026-O.webp",
+      precio: "$274",
+    },
   ],
   "estudios-y-universidad": [
     {
-      "titulo": "Mochila Escolares Viaje Antirrobo Impermeable Hombre Juvenil Niños Mochilas para Laptop 15.6\" Negra IFORU 30L",
-      "url": "https://meli.la/2xgLYxh"
+      titulo: 'Mochila antirrobo para laptop 15.6" IFORU 30L',
+      url: "https://meli.la/2xgLYxh",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_977529-MLA99555031970_122025-O.webp",
+      precio: "$339",
     },
     {
-      "titulo": "Mochila Para Laptop 15.6 Impermeable Con Usb Oficina Viajes",
-      "url": "https://meli.la/1gfS2RL"
+      titulo: 'Mochila para laptop 15.6" impermeable con USB',
+      url: "https://meli.la/1gfS2RL",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_963074-MLM112664009111_062026-O.webp",
+      precio: "$449",
     },
     {
-      "titulo": "Mochila Escolar Viaje Laptop 15.6 Inch Iforu Backpack-32N Color Negro",
-      "url": "https://meli.la/2SR687D"
-    }
+      titulo: 'Mochila escolar/laptop 15.6" IFORU 32N',
+      url: "https://meli.la/2SR687D",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_874423-MLA99515296862_112025-O.webp",
+      precio: "$364",
+    },
   ],
   "diseno-y-arte": [
     {
-      "titulo": "Tableta Gráfica Digitalizadora Ugee S640 Color Black",
-      "url": "https://meli.la/2JW36UR"
+      titulo: "Tableta gráfica Ugee S640",
+      url: "https://meli.la/2JW36UR",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_911257-MLA100031994735_122025-O.webp",
+      precio: "$569",
     },
     {
-      "titulo": "Tableta Gráfica Wacom Intuos CTL4100 Small Color Negro",
-      "url": "https://meli.la/22iWxN3"
+      titulo: "Tableta gráfica Wacom Intuos CTL4100 (S)",
+      url: "https://meli.la/22iWxN3",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_765906-MLA99990946213_112025-O.webp",
+      precio: "$1,199",
     },
     {
-      "titulo": "Xppen Deco 640 Tableta Gráfica 6 Pulgadas Compatible Android color negro",
-      "url": "https://meli.la/17q9f8A"
-    }
+      titulo: 'Tableta gráfica XPPen Deco 640 (6")',
+      url: "https://meli.la/17q9f8A",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_972100-MLA92050034671_092025-O.webp",
+      precio: "$626",
+    },
   ],
   "deportes": [
     {
-      "titulo": "Balón de Fútbol SZHGXL Profesional Tamaño 5 para Entrenamiento y Recreación",
-      "url": "https://meli.la/19EkFx4"
+      titulo: "Balón de fútbol SZHGXL profesional No.5",
+      url: "https://meli.la/19EkFx4",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_737111-MLA110819201492_052026-O.webp",
+      precio: "$282",
     },
     {
-      "titulo": "Balón De Futbol Gaser Soccer Suka Laminado No.4 Color Turqueza/naranja",
-      "url": "https://meli.la/2kxQnEw"
+      titulo: "Balón de fútbol Gaser Suka No.4",
+      url: "https://meli.la/2kxQnEw",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_812075-MLA111153241278_052026-O.webp",
+      precio: "$278",
     },
     {
-      "titulo": "Balón Futbol Sala Oka Bote Muerto Nº4 Blanco Sintético Duela 2023",
-      "url": "https://meli.la/16FNPtb"
-    }
+      titulo: "Balón fútbol sala Oka No.4",
+      url: "https://meli.la/16FNPtb",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_749617-MLA100060676653_122025-O.webp",
+      precio: "$274",
+    },
   ],
   "viajes": [
     {
-      "titulo": "Maleta Deportiva Quanna para Viaje y Gym, Negra con Compartimento para Zapatos",
-      "url": "https://meli.la/17HqydJ"
+      titulo: "Maleta deportiva Quanna (con porta-zapatos)",
+      url: "https://meli.la/17HqydJ",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_655465-MLA99389960848_112025-O.webp",
+      precio: "$140",
     },
     {
-      "titulo": "Maleta Deportiva Viaje Bolsa Mochila Gym Duffel Con Ruedas GZKXKJ",
-      "url": "https://meli.la/1hWpgWm"
+      titulo: "Bolsa de viaje/gym con ruedas GZKXKJ",
+      url: "https://meli.la/1hWpgWm",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_694540-MLA112083874205_052026-O.webp",
+      precio: "$240",
     },
     {
-      "titulo": "Maleta Viaje 10 Kg Carry On Cabina Mano Avion Ruedas Candado",
-      "url": "https://meli.la/2hvVHQP"
-    }
+      titulo: "Maleta carry-on 10 kg con ruedas y candado",
+      url: "https://meli.la/2hvVHQP",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_826861-MLM111294780157_052026-O.webp",
+      precio: "$749",
+    },
   ],
   "emprendimiento": [
     {
-      "titulo": "Silla de Oficina Ergonómica Cuory CUOSORM3 Negra Respaldo de Malla Transpirable",
-      "url": "https://meli.la/11Ww43D"
+      titulo: "Silla de oficina ergonómica Cuory (malla)",
+      url: "https://meli.la/11Ww43D",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_781282-MLA95846927727_102025-O.webp",
+      precio: "$663",
     },
     {
-      "titulo": "Silla De Oficina Top Living Silla Ejecutiva Giratoria con Base Plástico Tapizado Malla Color Negro",
-      "url": "https://meli.la/2AP1UXA"
+      titulo: "Silla ejecutiva giratoria Top Living (malla)",
+      url: "https://meli.la/2AP1UXA",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_656228-MLA116866254165_082026-O.webp",
+      precio: "$668",
     },
     {
-      "titulo": "Silla Ejecutiva Oficina Ergonómica Escritorio Giratoria",
-      "url": "https://meli.la/23xTMEW"
-    }
+      titulo: "Silla ejecutiva ergonómica giratoria",
+      url: "https://meli.la/23xTMEW",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_861655-MLM116840676308_092026-O.webp",
+      precio: "$650",
+    },
   ],
   "marketing-digital": [
     {
-      "titulo": "Micrófono Lavalier Wireless Uorlen CL-139 Inalámbrico iPhone Android PC",
-      "url": "https://meli.la/1v3abR9"
+      titulo: "Micrófono lavalier inalámbrico Uorlen CL-139",
+      url: "https://meli.la/1v3abR9",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_867277-MLA99578722886_122025-O.webp",
+      precio: "$132",
     },
     {
-      "titulo": "2pcs Boya Mini Microfonos Inalambricos Lavalier Negro Usb",
-      "url": "https://meli.la/2fAHJoF"
+      titulo: "2× micrófonos lavalier inalámbricos Boya (USB)",
+      url: "https://meli.la/2fAHJoF",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_721538-CBT112791374494_072026-O.webp",
+      precio: "$935",
     },
     {
-      "titulo": "Micrófono Sony Ecm-lv1 Con Conector Trs De 3.5mm",
-      "url": "https://meli.la/1N1sQNq"
-    }
+      titulo: "Micrófono Sony ECM-LV1 (TRS 3.5 mm)",
+      url: "https://meli.la/1N1sQNq",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_706359-MLM93030318088_092025-O.webp",
+      precio: "$599",
+    },
   ],
   "ofertas-y-chollos": [
     {
-      "titulo": "Bocina Portátil Aiwa Aws600bt Con Bluetooth Waterproof Negra",
-      "url": "https://meli.la/2KDXWs4"
+      titulo: "Bocina portátil Aiwa AWS600BT Bluetooth (waterproof)",
+      url: "https://meli.la/2KDXWs4",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_655583-MLA99989998391_112025-O.webp",
+      precio: "$849",
     },
     {
-      "titulo": "Bocina Kaiser MSA-7515MX portátil con bluetooth color Negro",
-      "url": "https://meli.la/13Sr2fW"
+      titulo: "Bocina Kaiser MSA-7515MX Bluetooth",
+      url: "https://meli.la/13Sr2fW",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_701664-MLA99851267363_112025-O.webp",
+      precio: "$2,142",
     },
     {
-      "titulo": "Barra De Sonido Con Subwoofer 160W Home Theater 2.1 Canales Audishako BS-400 Teatro En Casa Con Bluetooth HDMI-ARC/AUX/USB Conector 110V Color Negro Control Remoto",
-      "url": "https://meli.la/2cmFXAK"
-    }
-  ]
+      titulo: "Barra de sonido 2.1 con subwoofer 160W (HDMI-ARC)",
+      url: "https://meli.la/2cmFXAK",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_992085-MLA118419949247_092026-O.webp",
+      precio: "$778",
+    },
+  ],
+
+  // Categorías SIN encaje comercial directo → se dejan vacías:
+  // criptomonedas, empleo-y-freelance, idiomas, series-y-peliculas, memes-y-humor
 };
 
 /** Productos genéricos de respaldo (opcional): se usan cuando la categoría no
