@@ -283,9 +283,30 @@ export const AFILIADOS: Record<string, ProductoAfiliado[]> = {
       precio: "$778",
     },
   ],
+  // 🎬 Streaming y cine en casa (post #3 en tráfico)
+  "series-y-peliculas": [
+    {
+      titulo: "Amazon Fire TV Stick 4K Select",
+      url: "https://meli.la/2yFUiNr",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_768418-MLA109034691207_032026-O.webp",
+      precio: "$522",
+    },
+    {
+      titulo: "Chromecast con Google TV HD",
+      url: "https://meli.la/2a57PGd",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_924027-MLA82959017162_032025-O.webp",
+      precio: "$2,649",
+    },
+    {
+      titulo: "Mini proyector Bigview Full HD",
+      url: "https://meli.la/2wuwmRF",
+      imagen: "https://http2.mlstatic.com/D_NQ_NP_636373-MLA99504276208_112025-O.webp",
+      precio: "$698",
+    },
+  ],
 
   // Categorías SIN encaje comercial directo → se dejan vacías:
-  // criptomonedas, empleo-y-freelance, idiomas, series-y-peliculas, memes-y-humor
+  // criptomonedas, empleo-y-freelance, idiomas, memes-y-humor
 };
 
 /** Productos genéricos de respaldo (opcional): se usan cuando la categoría no
