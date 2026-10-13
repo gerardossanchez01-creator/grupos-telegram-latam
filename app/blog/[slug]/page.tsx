@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { getAllPosts, getPostBySlug, getRelatedPosts, splitHtmlByMarker } from "@/lib/blog";
 import { SITE } from "@/lib/data";
 import AdSlot from "@/components/AdSlot";
+import AffiliateBanner from "@/components/AffiliateBanner";
 import CTABox from "@/components/CTABox";
 import PostHero from "@/components/PostHero";
 
@@ -103,6 +104,10 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
 
         {post.finalCta && <CTABox {...post.finalCta} />}
       </article>
+
+      {/* Afiliados ML según el tema del post (pillar). Si el pillar no tiene
+          productos cargados, no renderiza nada. */}
+      <AffiliateBanner categoria={post.pillar ?? ""} titulo="Productos relacionados con este tema" />
 
       <AdSlot slot="4567890123" className="my-8" />
 

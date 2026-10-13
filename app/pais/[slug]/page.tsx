@@ -2,6 +2,8 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getGruposByPais, getPais, PAISES, SITE } from "@/lib/data";
 import GrupoCard from "@/components/GrupoCard";
+import AdSlot from "@/components/AdSlot";
+import AffiliateBanner from "@/components/AffiliateBanner";
 
 export function generateStaticParams() {
   return PAISES.map((p) => ({ slug: p.slug }));
@@ -33,12 +35,23 @@ export default function PaisPage({ params }: { params: { slug: string } }) {
         </p>
       </header>
 
+      {/* Anuncio Adsterra: estas páginas reciben mucho tráfico de toda LatAm
+          (Ecuador, Chile, Perú…). Adsterra paga por impresión en cualquier geo,
+          por eso es la mejor monetización aquí. */}
+      <AdSlot slot="5678901234" className="mb-8" />
+
       {items.length === 0 ? (
         <p className="text-slate-500">Todavía no hay grupos añadidos para este país.</p>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {items.map((g) => <GrupoCard key={g.slug} grupo={g} />)}
         </div>
+      )}
+
+      {/* Afiliados ML solo en México: los enlaces son de Mercado Libre México
+          (tag FactotumMX), así que fuera de MX no convierten. */}
+      {pais.slug === "mexico" && (
+        <AffiliateBanner categoria="ofertas-y-chollos" titulo="Lo más vendido en Mercado Libre México" />
       )}
     </>
   );
