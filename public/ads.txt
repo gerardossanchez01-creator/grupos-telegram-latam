@@ -1,1 +1,6 @@
-google.com, pub-2976241576699769, DIRECT, f08c47fec0942fa0
+# Adsterra: Codex pega aquí la línea exacta de ads.txt que te da tu panel
+# (Publisher → Websites → ads.txt). Suele tener este formato:
+# adsterra.com, PUBLISHER-ID, DIRECT, VENDOR-TAG
+#
+# AdSense desactivado (cuenta no aprobada). Si se aprueba, descomentar:
+# google.com, pub-2976241576699769, DIRECT, f08c47fec0942fa0

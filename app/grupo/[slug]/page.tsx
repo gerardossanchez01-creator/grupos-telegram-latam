@@ -5,6 +5,7 @@ import { formatMiembros, getCategoria, getGrupoBySlug, getPais, grupos, SITE, ge
 import { getPostsByPillar, getAllPosts } from "@/lib/blog";
 import GrupoCard from "@/components/GrupoCard";
 import AdSlot from "@/components/AdSlot";
+import AffiliateBanner from "@/components/AffiliateBanner";
 import BlogRelacionado from "@/components/BlogRelacionado";
 
 export function generateStaticParams() {
@@ -94,6 +95,9 @@ export default function GrupoPage({ params }: { params: { slug: string } }) {
       </article>
 
       <AdSlot slot="3456789012" className="my-8" />
+
+      {/* AFILIADOS — productos de Mercado Libre del nicho del grupo */}
+      <AffiliateBanner categoria={g.categoria} titulo={cat ? `Lo más comprado en ${cat.nombre}` : "Productos recomendados"} />
 
       {/* CONTEXTO EDITORIAL */}
       {cat && (
